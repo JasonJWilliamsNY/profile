@@ -11,7 +11,7 @@ External Collaborations of the lab's [DNA Learning Center](http://www.dnalc.org)
 also get to teach my own science course a few hours a week at
 [Yeshiva University High School for Girls](http://www.yushg.org).
 
-# Workshops and presentations
+# Workshops, talks, presentations
 
 This list mainly reflects my work with [CyVerse](http://www.cyverse.org) (formerly
 iPlant Collaborative),a project I work on that brings Cyberinfrascture to biologists.
@@ -23,7 +23,8 @@ multi-day training events.
 
 |Presentation|Venue|Location|Notes|
 |------------|-----|--------|-----|
-|Session Chair/Organizer <ul><li>CyVerse Education: DNA Subway, Data Science, and Microbial Genomics</li><li>CyVerse - Software, Tools, and Services for Data-Driven Discovery</li></ul>|Plant and Animal Genome Meeting (PAG XXV)|San Diego, CA||
+|Session Chair/Organizer
+<ul><li>CyVerse Education: DNA Subway, Data Science, and Microbial Genomics</li><li>CyVerse - Software, Tools, and Services for Data-Driven Discovery</li></ul>|Plant and Animal Genome Meeting (PAG XXV)|San Diego, CA||
 |||||
 |||||
 |||||
