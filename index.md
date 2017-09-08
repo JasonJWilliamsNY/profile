@@ -32,7 +32,7 @@ multi-day training events.
 |James Madison University|Genomics in Education and CyVerse Tools and Services Workshops|Harrisonburg, VA||
 |Los Alamos National Laboratory|Software Carpentry|Los Alamos, NM||
 |New Mexico State University|Genomics Data Carpentry and CyVerse Tools and Services Workshops|Las Cruces, NM||
-|ASPB Conviron Scholars|Career Panel|Online||
+|ASPB Conviron Scholars|**Panelist** - Career Panel|Online||
 |Toronto Bioinformatics User Group|TorBUG Bioinformatics Seminar - **Invited Speaker**|Toronto, CN||
 
 
