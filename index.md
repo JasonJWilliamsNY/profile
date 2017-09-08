@@ -23,8 +23,7 @@ multi-day training events.
 
 |Presentation|Venue|Location|Notes|
 |------------|-----|--------|-----|
-|Session Chair <ul><li>CyVerse Education: DNA Subway, Data Science, and Microbial Genomics
-<li>CyVerse - Software, Tools, and Services for Data-Driven Discovery <ul>|Plant and Animal Genome Meeting (PAG XXV)|San Diego, CA||
+|Session Chair <ul><li>CyVerse Education: DNA Subway, Data Science, and Microbial Genomics<li>CyVerse - Software, Tools, and Services for Data-Driven Discovery <ul>|Plant and Animal Genome Meeting (PAG XXV)|San Diego, CA||
 |||||
 |||||
 |||||
