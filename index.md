@@ -5,15 +5,15 @@ reason. Mostly for my self when I have to compile more formal CVs.
 
 # Affiliation and work
 
-I've worked at [Cold Spring Harbor Laboratory](www.cshl.edu) since 2004, first
+I've worked at [Cold Spring Harbor Laboratory](http://www.cshl.edu) since 2004, first
 at the bench in the Plant Science group and currently as Assistant Director,
-External Collaborations of the lab's [DNA Learning Center](www.dnalc.org). I
+External Collaborations of the lab's [DNA Learning Center](http://www.dnalc.org). I
 also get to teach my own science course a few hours a week at
-[Yeshiva University High School for Girls](www.yushg.org).
+[Yeshiva University High School for Girls](http://www.yushg.org).
 
 # Workshops and presentations
 
-This list mainly reflects my work with [CyVerse](www.cyverse.org) (formerly
+This list mainly reflects my work with [CyVerse](http://www.cyverse.org) (formerly
 iPlant Collaborative),a project I work on that brings Cyberinfrascture to biologists.
 I am their Education, Outreach, and Training lead, so I get to help lots of
 biologists use computation in their teaching and research. Workshops are mainly
