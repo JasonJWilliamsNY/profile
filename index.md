@@ -33,7 +33,7 @@ multi-day training events.
 |Los Alamos National Laboratory|Software Carpentry|Los Alamos, NM||
 |New Mexico State University|Genomics Data Carpentry and CyVerse Tools and Services Workshops|Las Cruces, NM||
 |ASPB Conviron Scholars|Career Panel|Online||
-|Toronto Bioinformatics User Group|TorBUG Bioinformatics Seminar - Invited Speaker|Toronto, CN||
+|Toronto Bioinformatics User Group|TorBUG Bioinformatics Seminar - **Invited Speaker**|Toronto, CN||
 
 
 ## 2016
