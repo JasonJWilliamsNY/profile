@@ -11,7 +11,7 @@ External Collaborations of the lab's [DNA Learning Center](http://www.dnalc.org)
 also get to teach my own science course a few hours a week at
 [Yeshiva University High School for Girls](http://www.yushg.org).
 
-# Workshops, talks, presentations
+# Workshops, talks, teaching, and presentations
 
 This list mainly reflects my work with [CyVerse](http://www.cyverse.org) (formerly
 iPlant Collaborative),a project I work on that brings Cyberinfrascture to biologists.
@@ -21,11 +21,11 @@ multi-day training events.
 
 ## 2017
 
-|Presentation|Venue|Location|Notes|
+|Venue|Presentation|Location|Notes|
 |------------|-----|--------|-----|
-|**Session Chair/Organizer** - CyVerse Education: DNA Subway, Data Science, and Microbial Genomics - CyVerse - Software, Tools, and Services for Data-Driven Discovery|International Plant and Animal Genome Meeting (PAG XXV)|San Diego, CA||
-|||||
-|||||
+|International Plant and Animal Genome Meeting (PAG XXV)|**Session Chair/Organizer** - CyVerse Education: DNA Subway, Data Science, and Microbial Genomics - CyVerse - Software, Tools, and Services for Data-Driven Discovery|San Diego, CA||
+|CyVerse UK Workshop|University of York|York, UK||
+|Plant Biology 2017 - American Society of Plant Biology|**Symposium Chair** Computation/Bioinformatics: CyVerse Resources for Enabling Data-driven Plant Biology; **Panelist:** Common Author Errors and How to Avoid Them; ASPB Journal Editor's Session: Tools for Reproducible Plant Biology|Honolulu, HI|[slides](https://docs.google.com/presentation/d/1JGNJZAQuovPfp-WbogFkN6JtUK_QWAjUZG51SMadn00/edit?usp=sharing)|
 |||||
 |||||
 |||||
