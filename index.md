@@ -1,37 +1,99 @@
-## Welcome to GitHub Pages
+# Professional Profile
 
-You can use the [editor on GitHub](https://github.com/JasonJWilliamsNY/profile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+An incomplete list of things I do and have done, if you have to know for some
+reason. Mostly for my self when I have to compile more formal CVs.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Affiliation and work
 
-### Markdown
+I've worked at [Cold Spring Harbor Laboratory](www.cshl.edu) since 2004, first
+at the bench in the Plant Science group and currently as Assistant Director,
+External Collaborations of the lab's [DNA Learning Center](www.dnalc.org). I
+also get to teach my own science course a few hours a week at
+[Yeshiva University High School for Girls](www.yushg.org).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Workshops and presentations
 
-```markdown
-Syntax highlighted code block
+This list mainly reflects my work with [CyVerse](www.cyverse.org) (formerly
+iPlant Collaborative),a project I work on that brings Cyberinfrascture to biologists.
+I am their Education, Outreach, and Training lead, so I get to help lots of
+biologists use computation in their teaching and research. Workshops are mainly
+multi-day training events.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JasonJWilliamsNY/profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##2017
+|Presentation|Venue|Location|Notes|
+|------------|-----|--------|-----|
+|Session Chair <ul><li>CyVerse Education: DNA Subway, Data Science, and Microbial Genomics
+<li>CyVerse - Software, Tools, and Services for Data-Driven Discovery <ul>|Plant and Animal Genome Meeting (PAG XXV)|San Diego, CA||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+##2016
+|Presentation|Venue|Location|Notes|
+|------------|-----|--------|-----|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+##2015
+|Presentation|Venue|Location|Notes|
+|------------|-----|--------|-----|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+##2014
+|Presentation|Venue|Location|Notes|
+|------------|-----|--------|-----|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+##2013
+|Presentation|Venue|Location|Notes|
+|------------|-----|--------|-----|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+##2012
+|Presentation|Venue|Location|Notes|
+|------------|-----|--------|-----|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+##2011
+|Presentation|Venue|Location|Notes|
+|------------|-----|--------|-----|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
