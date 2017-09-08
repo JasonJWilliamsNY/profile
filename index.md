@@ -19,11 +19,11 @@ I am their Education, Outreach, and Training lead, so I get to help lots of
 biologists use computation in their teaching and research. Workshops are mainly
 multi-day training events.
 
-##2017
+## 2017
 
 |Presentation|Venue|Location|Notes|
 |------------|-----|--------|-----|
-|Session Chair <ul><li>CyVerse Education: DNA Subway, Data Science, and Microbial Genomics<li>CyVerse - Software, Tools, and Services for Data-Driven Discovery </ul>|Plant and Animal Genome Meeting (PAG XXV)|San Diego, CA||
+|Session Chair <ul><li>CyVerse Education: DNA Subway, Data Science, and Microbial Genomics<li>CyVerse - Software, Tools, and Services for Data-Driven Discovery</ul>|Plant and Animal Genome Meeting (PAG XXV)|San Diego, CA||
 |||||
 |||||
 |||||
@@ -32,20 +32,7 @@ multi-day training events.
 |||||
 |||||
 
-##2016
-
-|Presentation|Venue|Location|Notes|
-|------------|-----|--------|-----|
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-
-##2015
+## 2016
 
 |Presentation|Venue|Location|Notes|
 |------------|-----|--------|-----|
@@ -58,7 +45,7 @@ multi-day training events.
 |||||
 |||||
 
-##2014
+## 2015
 
 |Presentation|Venue|Location|Notes|
 |------------|-----|--------|-----|
@@ -71,7 +58,7 @@ multi-day training events.
 |||||
 |||||
 
-##2013
+## 2014
 
 |Presentation|Venue|Location|Notes|
 |------------|-----|--------|-----|
@@ -84,7 +71,7 @@ multi-day training events.
 |||||
 |||||
 
-##2012
+## 2013
 
 |Presentation|Venue|Location|Notes|
 |------------|-----|--------|-----|
@@ -97,7 +84,20 @@ multi-day training events.
 |||||
 |||||
 
-##2011
+## 2012
+
+|Presentation|Venue|Location|Notes|
+|------------|-----|--------|-----|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+
+## 2011
 
 |Presentation|Venue|Location|Notes|
 |------------|-----|--------|-----|
