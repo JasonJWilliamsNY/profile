@@ -45,7 +45,7 @@ multi-day training events.
 |University of Delaware|Genomics in Education Workshop/CyVerse Tools and Services Workshop|Newark, DE||
 |MidSouth Computational Biology and Bioinformatics (MCBIOS)|**Guest Workshop Organizer** - CyVerse tools for Data Driven Discovery|Memphis, TN||
 |Ohio State University|CyVerse Tools and Services Workshop|Wooster, OH||
-|iDigBio|Webinar: Education and Outreach Webinar Series: iPlant's DNA Subway|Online||
+|iDigBio|Webinar: Education and Outreach Webinar Series: iPlant's DNA Subway|Online|[slides](https://de.cyverse.org/dl/d/7B8DB348-DBE2-4DE7-8602-93C14111F0EF/idigbio_webinar_march_2016.pdf)|
 |University of Melbourne|**Guest Lecture/Workshop Organizer** CyVerse Training Day|Melbourne, AU||
 |National eResearch Collaboration Tools and Resources project (Nectar)|CyVerse and Atmosphere Cloud Overview|Melbourne, AU||
 |Jackson Laboratory|Big Genomic Data Skills Training for Professors: **Guest Lecture/Workshop Organizer**: CyVerse Cloud for Research and Education|Farmington, CT||
@@ -55,7 +55,7 @@ multi-day training events.
 |Plant Biology 2016|Bioinformatics Symposium: Resources for Big Data Biology: The Evolution of iPlant|Austin, TX||
 |Genetics Society of America/ Allied Genetics Conference|Workshop Organizer: CyVerse Tools and Services|Orlando, FL||
 |Network for Integrating Bioinformatics into Life Science Education (NIBLSE)|NSF RCN Kick-off meeting|Omaha, NE|[NIBLSE website](https://qubeshub.org/groups/niblse)|
-|South African Genetics Society/South African Bioinformatics Society - Join Conference|**Keynote**:Leveraging Cyberinfrastructure to Scale Science and People|Durban, ZA||
+|South African Genetics Society/South African Bioinformatics Society - Join Conference|**Keynote**:Leveraging Cyberinfrastructure to Scale Science and People|Durban, ZA|[slides](https://de.cyverse.org/dl/d/30B5198A-A524-46D1-9271-FBF722F71383/WILLIAMS_SASBi-SAGS-2016.pdf)|
 |NorthWest University|Genomics Data Carpentry Workshop|Potchefstroom, ZA||
 |Cereal Genomics Workshop|**Guest Instructor**: Accelerating Plant Science with CyVerse|Cold Spring Harbor, NY||
 |Biological Data Science|Poster: Required Parameters - What Does it Take to Bring Bioinformatics into the Classroom at a National Level?|Cold Spring Harbor, NY|[poster](https://de.cyverse.org/dl/d/A3717FBA-CC99-4B39-92C5-5D32FA9FDBBD/biological_data_science_2016_final.pdf)|
@@ -66,14 +66,30 @@ multi-day training events.
 
 |Venue|Presentation|Location|Notes|
 |------------|-----|--------|-----|
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
+|International Plant and Animal Genome Meeting (PAG XXIII)|**Session Chair/Organizer** DNA Subway: Genomics, DNA Barcoding, and RNA-Seq Made Easy for the Undergraduate Classroom  - iPlant Workshop: Why a Biology Cyberinfrastructure is the Best Way to Meet the Challenges of Large Datasets|San Diego, CA||
+|Clemson University|iPlant Tools and Services Workshop|Clemson, SC||
+|Cold Spring Harbor Laboratory|Data Carpentry Hackathon on Genomics Lesson Materials|Cold Spring Harbor, NY|[wiki](https://github.com/datacarpentry/genomics-hackathon/wiki)|
+|Cold Spring Harbor Laboratory|USDA-iPlant BigData Workshop on Genome Variation|Cold Spring Harbor, NY||
+|University of Georgia, Athens|iPlant Tools and Services Workshop|Athens, GA||
+|Santa Fe Community College|iPlant Tools and Services and Genomics in Education Workshop|Santa Fe, NM||
+|Bowie State University|RNA-Seq for the Next Generation Workshop|Bowie, MD|[website](http://www.rnaseqforthenextgeneration.org/)|
+|South Dakota State University|iPlant Tools and Services and Genomics in Education Workshop|Brookings, SD||
+|California State University, Long Beach|RNA-Seq for the Next Generation Workshop|Long Beach, CA|[website](http://www.rnaseqforthenextgeneration.org/)|
+|The Genome Analysis Centre (Earlham Institute)|iPlant Tools and Services Workshop|Norwich, UK||
+|John Innes Centre|Galaxy Community Conference|Norwich, UK||
+|Bioinformatics Open Source Conference|**Panelist**:Panel: Open Source, Open Door: increasing diversity in the bioinformatics open source community|Dublin, IE||
+|ISMB/European Conference on Computational Biology|Workshop: Using Biological Cyberinfrastructure to Scale Science and People – Applications in Data Storage, HPC, Cloud Analysis, and Bioinformatics Training|Dublin, IE|[agenda](https://www.iscb.org/ismbeccb2015-program/ismbeccb2015-akes#akes5)|
+|Plant Biology 2015|Data Carpentry Workshop at Plant Biology 2015|Minneapolis, MN||
+|USDA-ARS Meeting on Microbial genomics, Biomics, and Metagenomics Workshop|Overview of iPlant Resources
+Cyberinfrastructure for Metagenomics|Athens, GA||
+|Florida SouthWestern College|iPlant Genomics in Education Workshop|Ft. Myers, FL||
+|University of California, Davis|iPlant Multiworkshop with Data-Intensive-Biology Lab|Davis, CA||
+|Colorado State University|**Guest Speaker: MIP Seminar**: How to Scale Data, Science, and People
+Using Biological Cyberinfrastructure |Ft. Collins, CO||
+|National Ecological Observatory Network|NEON/Data Carpentry Hackathon on Geospatial Data|Boulder, CO||
+|Cold Spring Harbor Laboratory|Half-day iPlant workshop at CSHL Plant Genomes and Biotechnology Meeting|Cold Spring Harbor, NY||
+|Plant Genomes & Biotechnology: From Genes to Networks|**Talk**: Scaling plant science (and scientists) using Biological Cyberinfrastructure|Cold Spring Harbor, NY||
+
 
 ## 2014
 
