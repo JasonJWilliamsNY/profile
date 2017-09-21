@@ -33,7 +33,7 @@ multi-day training events.
 |Los Alamos National Laboratory|Software Carpentry|Los Alamos, NM||
 |New Mexico State University|Genomics Data Carpentry and CyVerse Tools and Services Workshops|Las Cruces, NM||
 |ASPB Conviron Scholars|**Panelist** - Career Panel|Online||
-|Toronto Bioinformatics User Group|TorBUG Bioinformatics Seminar - **Invited Speaker**|Toronto, CN||
+|Toronto Bioinformatics User Group|**Invited Talk**:TorBUG Bioinformatics Seminar|Toronto, CN||
 
 
 ## 2016
@@ -52,7 +52,7 @@ multi-day training events.
 |National Institutes of Health|Genomics Data Carpentry/BD2K|Bethesda, MD||
 |Langebio/Cinvistav|Genomics Data Carpentry/CyVerse Tools and Services|Irapuato, MX||
 |2016 National Academies Special Topics Summer Institute on Quantitative Biology/BioQUEST|**Guest Lecture/Workshop Organizer**: CyVerse Overview/CyVerse Atmosphere for Education|Raleigh, NC||
-|Plant Biology 2016|Bioinformatics Symposium: Resources for Big Data Biology: The Evolution of iPlant|Austin, TX||
+|Plant Biology 2016|Bioinformatics Symposium: **Selected talk**: Resources for Big Data Biology: The Evolution of iPlant|Austin, TX||
 |Genetics Society of America/ Allied Genetics Conference|Workshop Organizer: CyVerse Tools and Services|Orlando, FL||
 |Network for Integrating Bioinformatics into Life Science Education (NIBLSE)|NSF RCN Kick-off meeting|Omaha, NE|[NIBLSE website](https://qubeshub.org/groups/niblse)|
 |South African Genetics Society/South African Bioinformatics Society - Join Conference|**Keynote**:Leveraging Cyberinfrastructure to Scale Science and People|Durban, ZA|[slides](https://de.cyverse.org/dl/d/30B5198A-A524-46D1-9271-FBF722F71383/WILLIAMS_SASBi-SAGS-2016.pdf)|
@@ -79,14 +79,15 @@ multi-day training events.
 |John Innes Centre|Galaxy Community Conference|Norwich, UK||
 |Bioinformatics Open Source Conference|**Panelist**:Panel: Open Source, Open Door: increasing diversity in the bioinformatics open source community|Dublin, IE||
 |ISMB/European Conference on Computational Biology|Workshop: Using Biological Cyberinfrastructure to Scale Science and People – Applications in Data Storage, HPC, Cloud Analysis, and Bioinformatics Training|Dublin, IE|[agenda](https://www.iscb.org/ismbeccb2015-program/ismbeccb2015-akes#akes5)|
+|Plant Biolohy 2015| Bioinformatics Symposium: **Selected talk**:How to Scale Data, Science, and People using Biological Cyberinfrastructure - PUI workshop: Using iPlant Cyberinfrastructure To Support Diverse Research and Education Objectives|Minneapolis, MN||
 |Plant Biology 2015|Data Carpentry Workshop at Plant Biology 2015|Minneapolis, MN||
 |USDA-ARS Meeting on Microbial genomics, Biomics, and Metagenomics Workshop|Overview of iPlant Resources Cyberinfrastructure for Metagenomics|Athens, GA||
 |Florida SouthWestern College|iPlant Genomics in Education Workshop|Ft. Myers, FL||
 |University of California, Davis|iPlant Multiworkshop with Data-Intensive-Biology Lab|Davis, CA||
-|Colorado State University|**Guest Speaker: MIP Seminar**: How to Scale Data, Science, and People Using Biological Cyberinfrastructure |Ft. Collins, CO||
+|Colorado State University|**Invited Talk**: MIP Seminar**: How to Scale Data, Science, and People Using Biological Cyberinfrastructure |Ft. Collins, CO||
 |National Ecological Observatory Network|NEON/Data Carpentry Hackathon on Geospatial Data|Boulder, CO||
 |Cold Spring Harbor Laboratory|Half-day iPlant workshop at CSHL Plant Genomes and Biotechnology Meeting|Cold Spring Harbor, NY||
-|Plant Genomes & Biotechnology: From Genes to Networks|**Talk**: Scaling plant science (and scientists) using Biological Cyberinfrastructure|Cold Spring Harbor, NY||
+|Plant Genomes & Biotechnology: From Genes to Networks|**Invited Talk**: Scaling plant science (and scientists) using Biological Cyberinfrastructure|Cold Spring Harbor, NY||
 
 
 ## 2014
@@ -140,3 +141,7 @@ multi-day training events.
 |||||
 |||||
 |||||
+
+## Photo
+
+![](jason.jpg)
