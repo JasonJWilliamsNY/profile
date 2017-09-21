@@ -80,8 +80,7 @@ multi-day training events.
 |Bioinformatics Open Source Conference|**Panelist**:Panel: Open Source, Open Door: increasing diversity in the bioinformatics open source community|Dublin, IE||
 |ISMB/European Conference on Computational Biology|Workshop: Using Biological Cyberinfrastructure to Scale Science and People – Applications in Data Storage, HPC, Cloud Analysis, and Bioinformatics Training|Dublin, IE|[agenda](https://www.iscb.org/ismbeccb2015-program/ismbeccb2015-akes#akes5)|
 |Plant Biology 2015|Data Carpentry Workshop at Plant Biology 2015|Minneapolis, MN||
-|USDA-ARS Meeting on Microbial genomics, Biomics, and Metagenomics Workshop|Overview of iPlant Resources
-Cyberinfrastructure for Metagenomics|Athens, GA||
+|USDA-ARS Meeting on Microbial genomics, Biomics, and Metagenomics Workshop|Overview of iPlant Resources Cyberinfrastructure for Metagenomics|Athens, GA||
 |Florida SouthWestern College|iPlant Genomics in Education Workshop|Ft. Myers, FL||
 |University of California, Davis|iPlant Multiworkshop with Data-Intensive-Biology Lab|Davis, CA||
 |Colorado State University|**Guest Speaker: MIP Seminar**: How to Scale Data, Science, and People
