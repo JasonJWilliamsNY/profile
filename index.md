@@ -26,7 +26,7 @@ multi-day training events.
 |International Plant and Animal Genome Meeting (PAG XXV)|**Session Chair/Organizer** - CyVerse Education: DNA Subway, Data Science, and Microbial Genomics - CyVerse - Software, Tools, and Services for Data-Driven Discovery|San Diego, CA||
 |CyVerse UK Workshop|University of York|York, UK||
 |Plant Biology 2017 - American Society of Plant Biology|**Symposium Chair** Computation/Bioinformatics: CyVerse Resources for Enabling Data-driven Plant Biology; **Panelist:** Common Author Errors and How to Avoid Them; ASPB Journal Editor's Session: Tools for Reproducible Plant Biology|Honolulu, HI|[slides](https://docs.google.com/presentation/d/1JGNJZAQuovPfp-WbogFkN6JtUK_QWAjUZG51SMadn00/edit?usp=sharing)|
-|Cold Spring Harbor Laboratory - Frontiers & Techniques in Plant Science|Genomics Data Carpentry|Cold Spring Harbor, NY||
+|Cold Spring Harbor Laboratory - Frontiers & Techniques in Plant Science|**Guest Instructor** Genomics Data Carpentry|Cold Spring Harbor, NY||
 |Beyond the Bench 2017|**Panelist:** Careers in Education and Government|Cold Spring Harbor Laboratory|[agenda](https://www.eventbrite.com/e/beyond-the-bench-tickets-35977099473)|
 |University of Arkansas|Genomics Data Carpentry and CyVerse Tools and Services Workshops|Fayetteville, AK||
 |James Madison University|Genomics in Education and CyVerse Tools and Services Workshops|Harrisonburg, VA||
@@ -57,10 +57,10 @@ multi-day training events.
 |Network for Integrating Bioinformatics into Life Science Education (NIBLSE)|NSF RCN Kick-off meeting|Omaha, NE|[NIBLSE website](https://qubeshub.org/groups/niblse)|
 |South African Genetics Society/South African Bioinformatics Society - Join Conference|**Keynote**:Leveraging Cyberinfrastructure to Scale Science and People|Durban, ZA||
 |NorthWest University|Genomics Data Carpentry Workshop|Potchefstroom, ZA||
-|Cereal Genomics Workshop|**Guest Lecture**: Accelerating Plant Science with CyVerse|Cold Spring Harbor, NY||
+|Cereal Genomics Workshop|**Guest Instructor**: Accelerating Plant Science with CyVerse|Cold Spring Harbor, NY||
 |Biological Data Science|Poster: Required Parameters - What Does it Take to Bring Bioinformatics into the Classroom at a National Level?|Cold Spring Harbor, NY|[poster](https://de.cyverse.org/dl/d/A3717FBA-CC99-4B39-92C5-5D32FA9FDBBD/biological_data_science_2016_final.pdf)|
-|EMBL-Australian Bioinformatics Resource|EMBL-ABR workshop on Open Source and Software Development Best Practice|Melbourne, AU|[agenda](https://www.embl-abr.org.au/bioinformatics-sw-workshop/)|
-|EMBL-Australian Bioinformatics Resource|EMBL-ABR Open and Scalable Training workshop|Melbourne, AU|[agenda](https://www.embl-abr.org.au/open-scalable-workshop/)|
+|EMBL-Australian Bioinformatics Resource|**Guest Lecture/Workshop Organizer** EMBL-ABR workshop on Open Source and Software Development Best Practice|Melbourne, AU|[agenda](https://www.embl-abr.org.au/bioinformatics-sw-workshop/)|
+|EMBL-Australian Bioinformatics Resource|**Guest Lecture/Workshop Organizer** EMBL-ABR Open and Scalable Training workshop|Melbourne, AU|[agenda](https://www.embl-abr.org.au/open-scalable-workshop/)|
 
 ## 2015
 
