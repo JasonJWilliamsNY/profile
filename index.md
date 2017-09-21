@@ -1,7 +1,7 @@
 # Professional Profile
 
 An incomplete list of things I do and have done, if you have to know for some
-reason. Mostly for my self when I have to compile more formal CVs.
+reason.
 
 # Affiliation and work
 
@@ -38,20 +38,33 @@ multi-day training events.
 
 ## 2016
 
-|Presentation|Venue|Location|Notes|
+|Venue|Presentation|Location|Notes|
 |------------|-----|--------|-----|
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
+|International Plant and Animal Genome Meeting (PAG XXIV)|**Session Chair/Organizer** - iPlant and Education: DNA Subway, Data Science, and Microbial Genomics - Cyberinfrastructure for Life Science and Beyond – Scaling your science with iPlant|San Diego, CA||
+|Stony Brook University, Genomics Cluster|Genomics Data Carpentry|Stony Brook, NY||
+|University of Delaware|Genomics in Education Workshop/CyVerse Tools and Services Workshop|Newark, DE||
+|MidSouth Computational Biology and Bioinformatics (MCBIOS)|**Guest Workshop Organizer** - CyVerse tools for Data Driven Discovery|Memphis, TN||
+|Ohio State University|CyVerse Tools and Services Workshop|Wooster, OH||
+|iDigBio|Webinar: Education and Outreach Webinar Series: iPlant's DNA Subway|Online||
+|University of Melbourne|**Guest Lecture/Workshop Organizer** CyVerse Training Day|Melbourne, AU||
+|National eResearch Collaboration Tools and Resources project (Nectar)|CyVerse and Atmosphere Cloud Overview|Melbourne, AU||
+|Jackson Laboratory|Big Genomic Data Skills Training for Professors: **Guest Lecture/Workshop Organizer**: CyVerse Cloud for Research and Education|Farmington, CT||
+|National Institutes of Health|Genomics Data Carpentry/BD2K|Bethesda, MD||
+|Langebio/Cinvistav|Genomics Data Carpentry/CyVerse Tools and Services|Irapuato, MX||
+|2016 National Academies Special Topics Summer Institute on Quantitative Biology/BioQUEST|**Guest Lecture/Workshop Organizer**: CyVerse Overview/CyVerse Atmosphere for Education|Raleigh, NC||
+|Plant Biology 2016|Bioinformatics Symposium: Resources for Big Data Biology: The Evolution of iPlant|Austin, TX||
+|Genetics Society of America/ Allied Genetics Conference|Workshop Organizer: CyVerse Tools and Services|Orlando, FL||
+|Network for Integrating Bioinformatics into Life Science Education (NIBLSE)|NSF RCN Kick-off meeting|Omaha, NE|[NIBLSE website](https://qubeshub.org/groups/niblse)|
+|South African Genetics Society/South African Bioinformatics Society - Join Conference|**Keynote**:Leveraging Cyberinfrastructure to Scale Science and People|Durban, ZA||
+|NorthWest University|Genomics Data Carpentry Workshop|Potchefstroom, ZA||
+|Cereal Genomics Workshop|**Guest Lecture**: Accelerating Plant Science with CyVerse|Cold Spring Harbor, NY||
+|Biological Data Science|Poster: Required Parameters - What Does it Take to Bring Bioinformatics into the Classroom at a National Level?|Cold Spring Harbor, NY|[poster](https://de.cyverse.org/dl/d/A3717FBA-CC99-4B39-92C5-5D32FA9FDBBD/biological_data_science_2016_final.pdf)|
+|EMBL-Australian Bioinformatics Resource|EMBL-ABR workshop on Open Source and Software Development Best Practice|Melbourne, AU|[agenda](https://www.embl-abr.org.au/bioinformatics-sw-workshop/)|
+|EMBL-Australian Bioinformatics Resource|EMBL-ABR Open and Scalable Training workshop|Melbourne, AU|[agenda](https://www.embl-abr.org.au/open-scalable-workshop/)|
 
 ## 2015
 
-|Presentation|Venue|Location|Notes|
+|Venue|Presentation|Location|Notes|
 |------------|-----|--------|-----|
 |||||
 |||||
@@ -64,7 +77,7 @@ multi-day training events.
 
 ## 2014
 
-|Presentation|Venue|Location|Notes|
+|Venue|Presentation|Location|Notes|
 |------------|-----|--------|-----|
 |||||
 |||||
@@ -77,7 +90,7 @@ multi-day training events.
 
 ## 2013
 
-|Presentation|Venue|Location|Notes|
+|Venue|Presentation|Location|Notes|
 |------------|-----|--------|-----|
 |||||
 |||||
@@ -90,7 +103,7 @@ multi-day training events.
 
 ## 2012
 
-|Presentation|Venue|Location|Notes|
+|Venue|Presentation|Location|Notes|
 |------------|-----|--------|-----|
 |||||
 |||||
@@ -103,7 +116,7 @@ multi-day training events.
 
 ## 2011
 
-|Presentation|Venue|Location|Notes|
+|Venue|Presentation|Location|Notes|
 |------------|-----|--------|-----|
 |||||
 |||||
