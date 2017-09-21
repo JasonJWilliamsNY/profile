@@ -83,8 +83,7 @@ multi-day training events.
 |USDA-ARS Meeting on Microbial genomics, Biomics, and Metagenomics Workshop|Overview of iPlant Resources Cyberinfrastructure for Metagenomics|Athens, GA||
 |Florida SouthWestern College|iPlant Genomics in Education Workshop|Ft. Myers, FL||
 |University of California, Davis|iPlant Multiworkshop with Data-Intensive-Biology Lab|Davis, CA||
-|Colorado State University|**Guest Speaker: MIP Seminar**: How to Scale Data, Science, and People
-Using Biological Cyberinfrastructure |Ft. Collins, CO||
+|Colorado State University|**Guest Speaker: MIP Seminar**: How to Scale Data, Science, and People Using Biological Cyberinfrastructure |Ft. Collins, CO||
 |National Ecological Observatory Network|NEON/Data Carpentry Hackathon on Geospatial Data|Boulder, CO||
 |Cold Spring Harbor Laboratory|Half-day iPlant workshop at CSHL Plant Genomes and Biotechnology Meeting|Cold Spring Harbor, NY||
 |Plant Genomes & Biotechnology: From Genes to Networks|**Talk**: Scaling plant science (and scientists) using Biological Cyberinfrastructure|Cold Spring Harbor, NY||
