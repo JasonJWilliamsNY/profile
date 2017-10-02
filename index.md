@@ -176,3 +176,7 @@ An acceptable photo for your press releases
 - "No amount of introspection would let him discover the rules governing
   his deformity and his labor; he needs an outside impulse, the wisdom of
   Mimi the Goose"
+**Kryptonite**: Most pop music
+**Beverage**: Gin and Tonic
+**Astronomical Phenomenon**: [Eta Carinae](https://en.wikipedia.org/wiki/Eta_Carinae)
+**Subatomic Particle**: Top quark
