@@ -10,6 +10,9 @@ reason.
   - [2014](https://jasonjwilliamsny.github.io/profile/#2014)
 - **Selected Publications**
   - [Publications](https://jasonjwilliamsny.github.io/profile/#Publications)
+- **Things to Fund**
+  - [Any takers?](https://jasonjwilliamsny.github.io/profile/#Things to fund)
+
 
 # Affiliation and work
 
@@ -126,7 +129,9 @@ multi-day training events.
 
 ## Publications
 
-
+-  **Bioinformatics Core Competencies for Undergraduate Life Sciences Education**
+Melissa A. Wilson Sayres, Charles Hauser, Michael Sierk, Srebrenka Robic, Anne G. Rosenwald, Todd M. Smith, Eric W. Triplett, Jason J. Williams, Elizabeth Dinsdale, William Morgan, James M. Burnette III, Sam S. Donovan, Jennifer C. Drew, Sarah C. R. Elgin, Edison R. Fowlks, Sebastian Galindo-Gonzalez, Anya L. Goodman, Neal F. Grandgenett, Carlos C. Goller, John Jungck, Jeffrey D. Newman, William R. Pearson, Elizabeth Ryder, Rafael Tosado-Acevedo, William Tapprich, Tammy C. Tobin, Arlín Toro-Martínez, Lonnie R. Welch, Robin Wright, David Ebenbach, Kimberly C. Olney, Mindy McWilliams, Mark A. Pauley
+bioRxiv 170993; doi: https://doi.org/10.1101/170993
 - Barone L, Williams J, Micklos D (2017) Unmet needs for analyzing biological big data: A
 survey of 704 NSF principal investigators. PLoS Comput Biol 13(10): e1005755. https://doi.org/10.1371/journal.pcbi.1005755
 - U. Hilgert, Williams, J., S. McKay, M. Khalfan, C. Ghiban, S. Lauter, E.S. Jeong, and D. Micklos **DNA Subway – Fast Track to Gene Annotation and Genome Analysis** (online resource for bioinformatics analysis in the classroom): http://dnasubway.iplantcollaborative.org/
@@ -134,6 +139,11 @@ survey of 704 NSF principal investigators. PLoS Comput Biol 13(10): e1005755. ht
 Martin, L., Charis C., Matasci N., Williams, J., and Bastow R., **Data mining with iPlant: A meeting report from the 2013 GARNet workshop, Data mining with iPlant**. J. Exp. Bot. (2015) 66 (1): 1-6. doi: 10.1093/jxb/eru402, http://dx.doi.org/10.1093/jxb/eru402
 - Williams, Jason J. and Teal, Tracy K. (2016), **[A Vision for Collaborative Training Infrastructure for Bioinformatics](http://onlinelibrary.wiley.com/doi/10.1111/nyas.13207/abstract)**. Annals of the New York Academy of Sciences.
 
+## Things to fund
+Any takers?
+
+-
+-
 
 ## Photo
 
