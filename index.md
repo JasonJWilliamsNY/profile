@@ -94,53 +94,29 @@ multi-day training events.
 
 |Venue|Presentation|Location|Notes|
 |------------|-----|--------|-----|
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
+|International Plant and Animal Genome Meeting (PAG XXII)|**Session Chair/Organizer** DNA Subway Workshop  - iPlant Workshop: Cyberinfrastructure for All Life  Sciences|San Diego, CA||
+|Linfield College|iPlant Tools and Services Workshop|McMinnville, OR||
+|The Genome Analysis Centre (No Earlham Institute)|**Invited Seminar**: The iPlant Collaborative - A  Unified Cyberinfrastructure for the New Life Science|Norwich, UK||
+|Wageningen University|The iPlant Collaborative and CoGe|Wageningen, NL||
+|2014 Maize Meeting|Workshop: Introduction to iPlant Collaborative|Beijing, CN||
+|UC Davis|iPlant Train-the-Trainers/Tools and Services Workshop|Davis, CA||
+|University of Omaha|NSF (RCN) Incubator: Network for Integrating Bioinformatics into Life Sciences Education (NIBLSE)|Omaha, NE||
+|Cold Spring Harbor Laboratory|Software Carpentry Workshop|Cold Spring Harbor, NY||
+|Stony Brook University|iPlant Tools and Services Workshop|Stony Brook, NY||
+|University of Nebraska, Lincoln|Understanding GWAS workshop|Lincoln, NE||
+|Plant Biology 2014|Bioinformatics **Symposium Speaker**: CyVerse Resources for Plant Science|Portland, OR||
+|Plant Biology 2014|Software Carpentry Workshop|Portland, OR||
+|Botany 2014|iPlant Tools and Services/Genomics in Education half-day workshops|Boise, ID||
+|World Congress on Genetics Applied to Livestock Production|**Talk**:DNA Subway
+An Educational Bioinformatics Platform
+for Gene and Genome Analysis: DNA Barcoding, and RNA-Seq|Vancouver, CA||
+|National Science Foundation|**Invited Talk** NPGI Annual Awardee Meeting: The iPlant Collaborative: Computational Resources for Young Investigators - How Can We Help?|Arlington, VA||
+|Cold Spring Harbor Laboratory (Banbury)|High Performance Computing (HPC) in Undergraduate Biology Education|Cold Spring Harbor Laboratory, NY||
+|European Conference on Computational Biology|**Invited Workshop**: Dual Benefit of Bioinformatics Training|Strasbourg, FR||
+|USDA-ARS|ARS Arthropod Genomics Workshop|Beltsville, MD||
+|Cold Spring Harbor Laboratory|**Meeting founder/organizer/session chair**: Biological Data Science (Inaugural Meeting)/|Cold Spring Harbor, NY||
+|Cold Spring Harbor Laboratory|iPlant Train-the-Trainers|Cold Spring Harbor, NY||
 
-## 2013
-
-|Venue|Presentation|Location|Notes|
-|------------|-----|--------|-----|
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-
-## 2012
-
-|Venue|Presentation|Location|Notes|
-|------------|-----|--------|-----|
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-
-## 2011
-
-|Venue|Presentation|Location|Notes|
-|------------|-----|--------|-----|
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
 
 ## Photo
 
