@@ -3,6 +3,12 @@
 An incomplete list of things I do and have done, if you have to know for some
 reason.
 
+- **Workshops, talks, teaching, and presentations**
+  - [2017](https://jasonjwilliamsny.github.io/profile/#2017)
+  - [2016](https://jasonjwilliamsny.github.io/profile/#2016)
+  - [2015](https://jasonjwilliamsny.github.io/profile/#2015)
+  - [2014](https://jasonjwilliamsny.github.io/profile/#2014)
+
 # Affiliation and work
 
 I've worked at [Cold Spring Harbor Laboratory](http://www.cshl.edu) since 2004, first
@@ -19,7 +25,8 @@ I am their Education, Outreach, and Training lead, so I get to help lots of
 biologists use computation in their teaching and research. Workshops are mainly
 multi-day training events.
 
-## 2017 (includes scheduled events)
+## 2017
+(includes scheduled events)
 
 |Venue|Presentation|Location|Notes|
 |------------|-----|--------|-----|
