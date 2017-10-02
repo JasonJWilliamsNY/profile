@@ -10,7 +10,7 @@ reason.
   - [2014](https://jasonjwilliamsny.github.io/profile/#2014)
 - **[Selected Publications](https://jasonjwilliamsny.github.io/profile/#publications)**
 - **[Things to Fund](https://jasonjwilliamsny.github.io/profile/#things-to-fund)**
-
+- **[Academic and Community Service](https://jasonjwilliamsny.github.io/profile/#academic-and-community-service)**
 
 
 # Affiliation and work
@@ -137,6 +137,18 @@ survey of 704 NSF principal investigators**. PLoS Comput Biol 13(10): e1005755. 
 - Williams, J., S. McKay, M. Khalfan, C. Ghiban, U. Hilgert, S. Lauter, E.S. Jeong, and D. Micklos, **[DNA Subway – An Educational Bioinformatics Platform for Gene and Genome Analysis: DNA Barcoding, and RNA-Seq](https://asas.org/docs/default-source/wcgalp-proceedings-oral/227_paper_9798_manuscript_948_0.pdf?sfvrsn=2)**. Proceedings, 10th World Congress of Genetics Applied to Livestock Production
 Martin, L., Charis C., Matasci N., Williams, J., and Bastow R., **[Data mining with iPlant: A meeting report from the 2013 GARNet workshop, Data mining with iPlant](https://academic.oup.com/jxb/article-lookup/doi/10.1093/jxb/eru402)**. J. Exp. Bot. (2015) 66 (1): 1-6. doi: 10.1093/jxb/eru402, http://dx.doi.org/10.1093/jxb/eru402
 - Williams, Jason J. and Teal, Tracy K. (2016), **[A Vision for Collaborative Training Infrastructure for Bioinformatics](http://onlinelibrary.wiley.com/doi/10.1111/nyas.13207/abstract)**. Annals of the New York Academy of Sciences.
+
+## Academic and Community Service
+
+|Role|Year|
+|----|----|
+|**Chair**: International Science Advisory Group, [EMBL-Australian Bioinformatics Resource](https://www.embl-abr.org.au/)|2016-|
+|NSF RCN-UBE: [Network for Integrating Bioinformatics into Life Sciences Education (Bioinformatics Core Competencies Working Group)](https://qubeshub.org/groups/niblse)|2016-|
+|**Chair**: Steering Committee, [Software Carpentry Foundation](https://software-carpentry.org/)|2016-17|
+|**Treasurer**: Steering Committee (founding committee) [Software Carpentry Foundation](https://software-carpentry.org/)|2015-16|
+|Software/[Data Carpentry](http://www.datacarpentry.org/) Instructor/Maintainer|2014-|
+|Founder, CSHL Biological Data Science Meeting|2014|
+|Scientific Training Advisory Board, The Genome Analysis Centre, Norwich, UK|2013-15|
 
 ## Things to fund
 Any takers?
