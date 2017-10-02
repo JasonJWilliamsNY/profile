@@ -11,7 +11,8 @@ reason.
 - **[Selected Publications](https://jasonjwilliamsny.github.io/profile/#publications)**
 - **[Things to Fund](https://jasonjwilliamsny.github.io/profile/#things-to-fund)**
 - **[Academic and Community Service](https://jasonjwilliamsny.github.io/profile/#academic-and-community-service)**
-
+- **[Photo](https://jasonjwilliamsny.github.io/profile/#photo)**
+- **[Other things](https://jasonjwilliamsny.github.io/profile/#other-things)**
 
 # Affiliation and work
 
@@ -161,5 +162,17 @@ Any takers?
   bioinformatics while broadening participation. **$300K over 2 years**
 
 ## Photo
+An acceptable photo for your press releases
 
 ![](https://github.com/JasonJWilliamsNY/profile/raw/master/img/jason.JPG)
+
+## Other things
+
+**Blood type**: Ragù
+**Personal Catch Phrases, Quotes and sayings**
+- "Release the weaponized chihuahuas to soften the enemy's defenses"
+- "三十六计，走位上策" - *Of the 36 Stratagems, fleeing is best*
+- "Das er inert an vergangene zeiten" - *Reminds me of days gone by*
+- "No amount of introspection would let him discover the rules governing
+  his deformity and his labor; he needs an outside impulse, the wisdom of
+  Mimi the Goose"
