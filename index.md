@@ -8,10 +8,9 @@ reason.
   - [2016](https://jasonjwilliamsny.github.io/profile/#2016)
   - [2015](https://jasonjwilliamsny.github.io/profile/#2015)
   - [2014](https://jasonjwilliamsny.github.io/profile/#2014)
-- **Selected Publications**
-  - [Publications](https://jasonjwilliamsny.github.io/profile/#publications)
-- **Things to Fund**
-  - [Any takers?](https://jasonjwilliamsny.github.io/profile/#things to fund)
+- **[Selected Publications](https://jasonjwilliamsny.github.io/profile/#publications)**
+- **[Things to Fund](https://jasonjwilliamsny.github.io/profile/#things-to-fund)**
+
 
 
 # Affiliation and work
@@ -142,8 +141,12 @@ Martin, L., Charis C., Matasci N., Williams, J., and Bastow R., **Data mining wi
 ## Things to fund
 Any takers?
 
--
--
+- [The Genomics Education Alliance - Pre-print](https://figshare.com/articles/A_Genomics_Education_Alliance/5197228) is a white paper for bringing together several
+  genomics education initiatives to develop course-based research experiences.
+  **$500K + over 3-4 years depending on implementation**
+- [Broadening the Pipeline: Best Practices for Training in Biomedical Data Science]() is a plan
+  for organizing experts and communities to improve training in biomedical data science/
+  bioinformatics while broadening participation. **$300K over 2 years**
 
 ## Photo
 
