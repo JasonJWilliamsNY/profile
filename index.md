@@ -65,7 +65,7 @@ multi-day training events.
 ## 2015
 
 |Venue|Presentation|Location|Notes|
-|------------|-----|--------|-----|
+|-----|------------|--------|-----|
 |International Plant and Animal Genome Meeting (PAG XXIII)|**Session Chair/Organizer** DNA Subway: Genomics, DNA Barcoding, and RNA-Seq Made Easy for the Undergraduate Classroom  - iPlant Workshop: Why a Biology Cyberinfrastructure is the Best Way to Meet the Challenges of Large Datasets|San Diego, CA||
 |Clemson University|iPlant Tools and Services Workshop|Clemson, SC||
 |Cold Spring Harbor Laboratory|Data Carpentry Hackathon on Genomics Lesson Materials|Cold Spring Harbor, NY|[wiki](https://github.com/datacarpentry/genomics-hackathon/wiki)|
@@ -93,7 +93,7 @@ multi-day training events.
 ## 2014
 
 |Venue|Presentation|Location|Notes|
-|------------------|--------|-----|
+|-----|------------|--------|-----|
 |International Plant and Animal Genome Meeting (PAG XXII)|**Session Chair/Organizer** DNA Subway Workshop  - iPlant Workshop: Cyberinfrastructure for All Life  Sciences|San Diego, CA||
 |Linfield College|iPlant Tools and Services Workshop|McMinnville, OR||
 |The Genome Analysis Centre (No Earlham Institute)|**Invited Seminar**: The iPlant Collaborative - A  Unified Cyberinfrastructure for the New Life Science|Norwich, UK||
