@@ -93,7 +93,7 @@ multi-day training events.
 ## 2014
 
 |Venue|Presentation|Location|Notes|
-|------------|-----|--------|-----|
+|------------------|--------|-----|
 |International Plant and Animal Genome Meeting (PAG XXII)|**Session Chair/Organizer** DNA Subway Workshop  - iPlant Workshop: Cyberinfrastructure for All Life  Sciences|San Diego, CA||
 |Linfield College|iPlant Tools and Services Workshop|McMinnville, OR||
 |The Genome Analysis Centre (No Earlham Institute)|**Invited Seminar**: The iPlant Collaborative - A  Unified Cyberinfrastructure for the New Life Science|Norwich, UK||
