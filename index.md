@@ -144,10 +144,10 @@ Any takers?
 - [The Genomics Education Alliance - Pre-print](https://figshare.com/articles/A_Genomics_Education_Alliance/5197228) is a white paper for bringing together several
   genomics education initiatives to develop course-based research experiences.
   **$500K + over 3-4 years depending on implementation**
-- [Broadening the Pipeline: Best Practices for Training in Biomedical Data Science]() is a plan
+- [Broadening the Pipeline: Best Practices for Training in Biomedical Data Science](https://github.com/JasonJWilliamsNY/profile/raw/master/docs/conference_plan.pdf) is a plan
   for organizing experts and communities to improve training in biomedical data science/
   bioinformatics while broadening participation. **$300K over 2 years**
 
 ## Photo
 
-![](https://raw.githubusercontent.com/JasonJWilliamsNY/profile/master/jason.JPG)
+![](https://github.com/JasonJWilliamsNY/profile/raw/master/img/jason.JPG)
