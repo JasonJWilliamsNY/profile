@@ -107,16 +107,13 @@ multi-day training events.
 |Plant Biology 2014|Bioinformatics **Symposium Speaker**: CyVerse Resources for Plant Science|Portland, OR||
 |Plant Biology 2014|Software Carpentry Workshop|Portland, OR||
 |Botany 2014|iPlant Tools and Services/Genomics in Education half-day workshops|Boise, ID||
-|World Congress on Genetics Applied to Livestock Production|**Talk**:DNA Subway
-An Educational Bioinformatics Platform
-for Gene and Genome Analysis: DNA Barcoding, and RNA-Seq|Vancouver, CA||
+|World Congress on Genetics Applied to Livestock Production|**Talk**:DNA Subway An Educational Bioinformatics Platform for Gene and Genome Analysis: DNA Barcoding, and RNA-Seq|Vancouver, CA||
 |National Science Foundation|**Invited Talk** NPGI Annual Awardee Meeting: The iPlant Collaborative: Computational Resources for Young Investigators - How Can We Help?|Arlington, VA||
 |Cold Spring Harbor Laboratory (Banbury)|High Performance Computing (HPC) in Undergraduate Biology Education|Cold Spring Harbor Laboratory, NY||
 |European Conference on Computational Biology|**Invited Workshop**: Dual Benefit of Bioinformatics Training|Strasbourg, FR||
 |USDA-ARS|ARS Arthropod Genomics Workshop|Beltsville, MD||
 |Cold Spring Harbor Laboratory|**Meeting founder/organizer/session chair**: Biological Data Science (Inaugural Meeting)/|Cold Spring Harbor, NY||
 |Cold Spring Harbor Laboratory|iPlant Train-the-Trainers|Cold Spring Harbor, NY||
-
 
 ## Photo
 
