@@ -8,6 +8,8 @@ reason.
   - [2016](https://jasonjwilliamsny.github.io/profile/#2016)
   - [2015](https://jasonjwilliamsny.github.io/profile/#2015)
   - [2014](https://jasonjwilliamsny.github.io/profile/#2014)
+- **Selected Publications**
+  - [Publications](https://jasonjwilliamsny.github.io/profile/#Publications)
 
 # Affiliation and work
 
@@ -121,6 +123,17 @@ multi-day training events.
 |USDA-ARS|ARS Arthropod Genomics Workshop|Beltsville, MD||
 |Cold Spring Harbor Laboratory|**Meeting founder/organizer/session chair**: Biological Data Science (Inaugural Meeting)/|Cold Spring Harbor, NY||
 |Cold Spring Harbor Laboratory|iPlant Train-the-Trainers|Cold Spring Harbor, NY||
+
+## Publications
+
+
+- Barone L, Williams J, Micklos D (2017) Unmet needs for analyzing biological big data: A
+survey of 704 NSF principal investigators. PLoS Comput Biol 13(10): e1005755. https://doi.org/10.1371/journal.pcbi.1005755
+- U. Hilgert, Williams, J., S. McKay, M. Khalfan, C. Ghiban, S. Lauter, E.S. Jeong, and D. Micklos **DNA Subway – Fast Track to Gene Annotation and Genome Analysis** (online resource for bioinformatics analysis in the classroom): http://dnasubway.iplantcollaborative.org/
+- Williams, J., S. McKay, M. Khalfan, C. Ghiban, U. Hilgert, S. Lauter, E.S. Jeong, and D. Micklos, **DNA Subway – An Educational Bioinformatics Platform for Gene and Genome Analysis: DNA Barcoding, and RNA-Seq**. Proceedings, 10th World Congress of Genetics Applied to Livestock Production
+Martin, L., Charis C., Matasci N., Williams, J., and Bastow R., **Data mining with iPlant: A meeting report from the 2013 GARNet workshop, Data mining with iPlant**. J. Exp. Bot. (2015) 66 (1): 1-6. doi: 10.1093/jxb/eru402, http://dx.doi.org/10.1093/jxb/eru402
+- Williams, Jason J. and Teal, Tracy K. (2016), **[A Vision for Collaborative Training Infrastructure for Bioinformatics](http://onlinelibrary.wiley.com/doi/10.1111/nyas.13207/abstract)**. Annals of the New York Academy of Sciences.
+
 
 ## Photo
 
