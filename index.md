@@ -177,6 +177,8 @@ An acceptable photo for your press releases
 - "No amount of introspection would let him discover the rules governing
   his deformity and his labor; he needs an outside impulse, the wisdom of
   Mimi the Goose"
+- "I am best adapted to an environment of unlimited plenty"
+- "(sigh) Years that could have been spent erecting my pleasure dome"
 
 **Kryptonite**: Most pop music
 
