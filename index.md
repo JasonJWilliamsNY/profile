@@ -143,6 +143,7 @@ Martin, L., Charis C., Matasci N., Williams, J., and Bastow R., **[Data mining w
 
 |Role|Year|
 |----|----|
+|**Steering Committee**: [Plantae](https://plantae.org/), American Society of Plant Biology/Global Plant Council|2017-|
 |**Chair**: International Science Advisory Group, [EMBL-Australian Bioinformatics Resource](https://www.embl-abr.org.au/)|2016-|
 |NSF RCN-UBE: [Network for Integrating Bioinformatics into Life Sciences Education (Bioinformatics Core Competencies Working Group)](https://qubeshub.org/groups/niblse)|2016-|
 |**Chair**: Steering Committee, [Software Carpentry Foundation](https://software-carpentry.org/)|2016-17|
@@ -187,3 +188,8 @@ An acceptable photo for your press releases
 **Astronomical Phenomenon**: [Eta Carinae](https://en.wikipedia.org/wiki/Eta_Carinae)
 
 **Subatomic Particle**: Top quark
+
+**Special Powers**:
+- Ability to perceive what people would have wanted to leave me in their will if
+they had the chance (e.g. precious gems/metals, fine fabrics, fragrances, etc.)
+- Fairly double-jointed
