@@ -169,10 +169,9 @@ An acceptable photo for your press releases
 
 ## Other things
 
-**Blood type**
-Ragù
+**Blood type**: Ragù
 
-**Personal Catch Phrases, Quotes and sayings**
+**Personal Catch Phrases, Quotes and sayings**:
 - "Release the weaponized chihuahuas to soften the enemy's defenses"
 - "三十六计，走位上策" - *Of the 36 Stratagems, fleeing is best*
 - "Das er inert an vergangene zeiten" - *Reminds me of days gone by*
@@ -182,20 +181,17 @@ Ragù
 - "I am best adapted to an environment of unlimited plenty"
 - "(sigh) Years that could have been spent erecting my pleasure dome"
 
-**Kryptonite**
-Most pop music
+**Kryptonite**: Most pop music
 
-**Beverage**
-Gin and Tonic
+**Beverage**: Gin and Tonic
 
 **Astronomical Phenomenon**
 [Eta Carinae](https://en.wikipedia.org/wiki/Eta_Carinae)
 
-**Subatomic Particle**
-Top quark
+**Subatomic Particle**: Top quark
 
-**Special Powers**
-
+**Special Powers (partial list)**:
 - Ability to perceive what people would have wanted to leave me in their will if
 they had the chance (e.g. precious gems/metals, fine fabrics, fragrances, etc.)
 - Fairly double-jointed
+- Able to display cold symptoms at will
