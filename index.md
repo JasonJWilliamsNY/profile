@@ -169,7 +169,8 @@ An acceptable photo for your press releases
 
 ## Other things
 
-**Blood type**: Ragù
+**Blood type**
+Ragù
 
 **Personal Catch Phrases, Quotes and sayings**
 - "Release the weaponized chihuahuas to soften the enemy's defenses"
@@ -181,15 +182,20 @@ An acceptable photo for your press releases
 - "I am best adapted to an environment of unlimited plenty"
 - "(sigh) Years that could have been spent erecting my pleasure dome"
 
-**Kryptonite**: Most pop music
+**Kryptonite**
+Most pop music
 
-**Beverage**: Gin and Tonic
+**Beverage**
+Gin and Tonic
 
-**Astronomical Phenomenon**: [Eta Carinae](https://en.wikipedia.org/wiki/Eta_Carinae)
+**Astronomical Phenomenon**
+[Eta Carinae](https://en.wikipedia.org/wiki/Eta_Carinae)
 
-**Subatomic Particle**: Top quark
+**Subatomic Particle**
+Top quark
 
-**Special Powers**:
+**Special Powers**
+
 - Ability to perceive what people would have wanted to leave me in their will if
 they had the chance (e.g. precious gems/metals, fine fabrics, fragrances, etc.)
 - Fairly double-jointed
