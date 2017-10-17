@@ -8,7 +8,7 @@ reason.
   - [2016](https://jasonjwilliamsny.github.io/profile/#2016)
   - [2015](https://jasonjwilliamsny.github.io/profile/#2015)
   - [2014](https://jasonjwilliamsny.github.io/profile/#2014)
-- **[Selected Publications](https://jasonjwilliamsny.github.io/profile/#publications)**
+- **[Selected Publications](https://jasonjwilliamsny.github.io/profile/#selected-publications)**
 - **[Things to Fund](https://jasonjwilliamsny.github.io/profile/#things-to-fund)**
 - **[Academic and Community Service](https://jasonjwilliamsny.github.io/profile/#academic-and-community-service)**
 - **[Photo](https://jasonjwilliamsny.github.io/profile/#photo)**
@@ -127,7 +127,7 @@ multi-day training events.
 |Cold Spring Harbor Laboratory|**Meeting founder/organizer/session chair**: Biological Data Science (Inaugural Meeting)/|Cold Spring Harbor, NY||
 |Cold Spring Harbor Laboratory|iPlant Train-the-Trainers|Cold Spring Harbor, NY||
 
-## Publications
+## Selected Publications
 
 -  **[Bioinformatics Core Competencies for Undergraduate Life Sciences Education](https://www.biorxiv.org/content/early/2017/08/03/170993)**
 Melissa A. Wilson Sayres, Charles Hauser, Michael Sierk, Srebrenka Robic, Anne G. Rosenwald, Todd M. Smith, Eric W. Triplett, Jason J. Williams, Elizabeth Dinsdale, William Morgan, James M. Burnette III, Sam S. Donovan, Jennifer C. Drew, Sarah C. R. Elgin, Edison R. Fowlks, Sebastian Galindo-Gonzalez, Anya L. Goodman, Neal F. Grandgenett, Carlos C. Goller, John Jungck, Jeffrey D. Newman, William R. Pearson, Elizabeth Ryder, Rafael Tosado-Acevedo, William Tapprich, Tammy C. Tobin, Arlín Toro-Martínez, Lonnie R. Welch, Robin Wright, David Ebenbach, Kimberly C. Olney, Mindy McWilliams, Mark A. Pauley
