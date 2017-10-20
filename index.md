@@ -8,7 +8,7 @@ reason.
   - [2016](https://jasonjwilliamsny.github.io/profile/#2016)
   - [2015](https://jasonjwilliamsny.github.io/profile/#2015)
   - [2014](https://jasonjwilliamsny.github.io/profile/#2014)
-- **[Selected Publications](https://jasonjwilliamsny.github.io/profile/#selected-publications)**
+- **[Selected Publications and products](https://jasonjwilliamsny.github.io/profile/#selected-publications-and-products)**
 - **[Things to Fund](https://jasonjwilliamsny.github.io/profile/#things-to-fund)**
 - **[Academic and Community Service](https://jasonjwilliamsny.github.io/profile/#academic-and-community-service)**
 - **[Photo](https://jasonjwilliamsny.github.io/profile/#photo)**
@@ -127,16 +127,18 @@ multi-day training events.
 |Cold Spring Harbor Laboratory|**Meeting founder/organizer/session chair**: Biological Data Science (Inaugural Meeting)/|Cold Spring Harbor, NY||
 |Cold Spring Harbor Laboratory|iPlant Train-the-Trainers|Cold Spring Harbor, NY||
 
-## Selected Publications
-
--  **[Bioinformatics Core Competencies for Undergraduate Life Sciences Education](https://www.biorxiv.org/content/early/2017/08/03/170993)**
-Melissa A. Wilson Sayres, Charles Hauser, Michael Sierk, Srebrenka Robic, Anne G. Rosenwald, Todd M. Smith, Eric W. Triplett, Jason J. Williams, Elizabeth Dinsdale, William Morgan, James M. Burnette III, Sam S. Donovan, Jennifer C. Drew, Sarah C. R. Elgin, Edison R. Fowlks, Sebastian Galindo-Gonzalez, Anya L. Goodman, Neal F. Grandgenett, Carlos C. Goller, John Jungck, Jeffrey D. Newman, William R. Pearson, Elizabeth Ryder, Rafael Tosado-Acevedo, William Tapprich, Tammy C. Tobin, Arlín Toro-Martínez, Lonnie R. Welch, Robin Wright, David Ebenbach, Kimberly C. Olney, Mindy McWilliams, Mark A. Pauley
-bioRxiv 170993; doi: https://doi.org/10.1101/170993
+## Selected Publications and Products
+-  **[Pre-print: Barriers to Integration of Bioinformatics into Undergraduate Life Sciences Education](https://doi.org/10.1101/204420 )**
+Jason Williams, Jennifer Drew, Sebastian Galindo-Gonzalez, Srebrenka Robic, Elizabeth Dinsdale, William Morgan, Eric Triplett, James Burnette, Sam Donovan, Sarah Elgin, Edison Fowlks, Anya Goodman, Neal Grandgenett, Carlos Goller, Charles Hauser, John R. Jungck, Jeffrey Newman, William Pearson, Elizabeth Ryder, Melissa Wilson Sayres, Michael Sierk, Todd Smith, Rafael Tosado-Acevedo, William Tapprich, Tammy Tobin, Arlin Toro-Martínez, Lonnie Welch, Robin Wright, David Ebenbach, Mindy McWilliams, Anne Rosenwald, Mark Pauley
+bioRxiv 204420; doi: https://doi.org/10.1101/204420
 - Barone L, Williams J, Micklos D (2017) **Unmet needs for analyzing biological big data: A
 survey of 704 NSF principal investigators**. PLoS Comput Biol 13(10): e1005755. https://doi.org/10.1371/journal.pcbi.1005755
+-  **[Pre-print: Bioinformatics Core Competencies for Undergraduate Life Sciences Education](https://www.biorxiv.org/content/early/2017/08/03/170993)**
+Melissa A. Wilson Sayres, Charles Hauser, Michael Sierk, Srebrenka Robic, Anne G. Rosenwald, Todd M. Smith, Eric W. Triplett, Jason J. Williams, Elizabeth Dinsdale, William Morgan, James M. Burnette III, Sam S. Donovan, Jennifer C. Drew, Sarah C. R. Elgin, Edison R. Fowlks, Sebastian Galindo-Gonzalez, Anya L. Goodman, Neal F. Grandgenett, Carlos C. Goller, John Jungck, Jeffrey D. Newman, William R. Pearson, Elizabeth Ryder, Rafael Tosado-Acevedo, William Tapprich, Tammy C. Tobin, Arlín Toro-Martínez, Lonnie R. Welch, Robin Wright, David Ebenbach, Kimberly C. Olney, Mindy McWilliams, Mark A. Pauley
+bioRxiv 170993; doi: https://doi.org/10.1101/170993
 - U. Hilgert, Williams, J., S. McKay, M. Khalfan, C. Ghiban, S. Lauter, E.S. Jeong, and D. Micklos **[DNA Subway – Fast Track to Gene Annotation and Genome Analysis](https://dnasubway.cyverse.org/)** (online resource for bioinformatics analysis in the classroom)
 - Williams, J., S. McKay, M. Khalfan, C. Ghiban, U. Hilgert, S. Lauter, E.S. Jeong, and D. Micklos, **[DNA Subway – An Educational Bioinformatics Platform for Gene and Genome Analysis: DNA Barcoding, and RNA-Seq](https://asas.org/docs/default-source/wcgalp-proceedings-oral/227_paper_9798_manuscript_948_0.pdf?sfvrsn=2)**. Proceedings, 10th World Congress of Genetics Applied to Livestock Production
-Martin, L., Charis C., Matasci N., Williams, J., and Bastow R., **[Data mining with iPlant: A meeting report from the 2013 GARNet workshop, Data mining with iPlant](https://academic.oup.com/jxb/article-lookup/doi/10.1093/jxb/eru402)**. J. Exp. Bot. (2015) 66 (1): 1-6. doi: 10.1093/jxb/eru402, http://dx.doi.org/10.1093/jxb/eru402
+- Martin, L., Charis C., Matasci N., Williams, J., and Bastow R., **[Data mining with iPlant: A meeting report from the 2013 GARNet workshop, Data mining with iPlant](https://academic.oup.com/jxb/article-lookup/doi/10.1093/jxb/eru402)**. J. Exp. Bot. (2015) 66 (1): 1-6. doi: 10.1093/jxb/eru402, http://dx.doi.org/10.1093/jxb/eru402
 - Williams, Jason J. and Teal, Tracy K. (2016), **[A Vision for Collaborative Training Infrastructure for Bioinformatics](http://onlinelibrary.wiley.com/doi/10.1111/nyas.13207/abstract)**. Annals of the New York Academy of Sciences.
 
 ## Academic and Community Service
@@ -180,6 +182,7 @@ An acceptable photo for your press releases
   Mimi the Goose"
 - "I am best adapted to an environment of unlimited plenty"
 - "(sigh) Years that could have been spent erecting my pleasure dome"
+- "Still, those individuals who, by a 'stroke of undeserved luck', have 'not quite adjusted to the prevailing norms' can, at the very least, initiate change." 
 
 **Kryptonite**: Most pop music
 
