@@ -131,8 +131,7 @@ multi-day training events.
 -  **[Pre-print: Barriers to Integration of Bioinformatics into Undergraduate Life Sciences Education](https://doi.org/10.1101/204420 )**
 Jason Williams, Jennifer Drew, Sebastian Galindo-Gonzalez, Srebrenka Robic, Elizabeth Dinsdale, William Morgan, Eric Triplett, James Burnette, Sam Donovan, Sarah Elgin, Edison Fowlks, Anya Goodman, Neal Grandgenett, Carlos Goller, Charles Hauser, John R. Jungck, Jeffrey Newman, William Pearson, Elizabeth Ryder, Melissa Wilson Sayres, Michael Sierk, Todd Smith, Rafael Tosado-Acevedo, William Tapprich, Tammy Tobin, Arlin Toro-Martínez, Lonnie Welch, Robin Wright, David Ebenbach, Mindy McWilliams, Anne Rosenwald, Mark Pauley
 bioRxiv 204420; doi: https://doi.org/10.1101/204420
-- Barone L, Williams J, Micklos D (2017) **Unmet needs for analyzing biological big data: A
-survey of 704 NSF principal investigators**. PLoS Comput Biol 13(10): e1005755. https://doi.org/10.1371/journal.pcbi.1005755
+- Barone L, Williams J, Micklos D (2017) **[Unmet needs for analyzing biological big data: A survey of 704 NSF principal investigators](https://doi.org/10.1371/journal.pcbi.1005755)**. PLoS Comput Biol 13(10): e1005755. https://doi.org/10.1371/journal.pcbi.1005755
 -  **[Pre-print: Bioinformatics Core Competencies for Undergraduate Life Sciences Education](https://www.biorxiv.org/content/early/2017/08/03/170993)**
 Melissa A. Wilson Sayres, Charles Hauser, Michael Sierk, Srebrenka Robic, Anne G. Rosenwald, Todd M. Smith, Eric W. Triplett, Jason J. Williams, Elizabeth Dinsdale, William Morgan, James M. Burnette III, Sam S. Donovan, Jennifer C. Drew, Sarah C. R. Elgin, Edison R. Fowlks, Sebastian Galindo-Gonzalez, Anya L. Goodman, Neal F. Grandgenett, Carlos C. Goller, John Jungck, Jeffrey D. Newman, William R. Pearson, Elizabeth Ryder, Rafael Tosado-Acevedo, William Tapprich, Tammy C. Tobin, Arlín Toro-Martínez, Lonnie R. Welch, Robin Wright, David Ebenbach, Kimberly C. Olney, Mindy McWilliams, Mark A. Pauley
 bioRxiv 170993; doi: https://doi.org/10.1101/170993
@@ -182,7 +181,7 @@ An acceptable photo for your press releases
   Mimi the Goose"
 - "I am best adapted to an environment of unlimited plenty"
 - "(sigh) Years that could have been spent erecting my pleasure dome"
-- "Still, those individuals who, by a 'stroke of undeserved luck', have 'not quite adjusted to the prevailing norms' can, at the very least, initiate change." 
+- "Still, those individuals who, by a 'stroke of undeserved luck', have 'not quite adjusted to the prevailing norms' can, at the very least, initiate change."
 
 **Kryptonite**: Most pop music
 
