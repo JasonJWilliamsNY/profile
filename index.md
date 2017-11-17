@@ -3,26 +3,26 @@
 An incomplete list of things I do and have done, if you have to know for some
 reason.
 
-- **Workshops, talks, teaching, and presentations**
-  - [2017](https://jasonjwilliamsny.github.io/profile/#2017)
-  - [2016](https://jasonjwilliamsny.github.io/profile/#2016)
-  - [2015](https://jasonjwilliamsny.github.io/profile/#2015)
-  - [2014](https://jasonjwilliamsny.github.io/profile/#2014)
-- **[Selected Publications and products](https://jasonjwilliamsny.github.io/profile/#selected-publications-and-products)**
-- **[Things to Fund](https://jasonjwilliamsny.github.io/profile/#things-to-fund)**
-- **[Academic and Community Service](https://jasonjwilliamsny.github.io/profile/#academic-and-community-service)**
-- **[Photo](https://jasonjwilliamsny.github.io/profile/#photo)**
-- **[Other things](https://jasonjwilliamsny.github.io/profile/#other-things)**
-
-# Affiliation and work
-
 I've worked at [Cold Spring Harbor Laboratory](http://www.cshl.edu) since 2004, first
 at the bench in the Plant Science group and currently as Assistant Director,
 External Collaborations of the lab's [DNA Learning Center](http://www.dnalc.org). I
 also get to teach my own science course a few hours a week at
 [Yeshiva University High School for Girls](http://www.yushg.org).
 
-# Workshops, talks, teaching, and presentations
+
+- **Workshops, Talks, Teaching, and Presentations**
+  - [2017](https://jasonjwilliamsny.github.io/profile/#2017)
+  - [2016](https://jasonjwilliamsny.github.io/profile/#2016)
+  - [2015](https://jasonjwilliamsny.github.io/profile/#2015)
+  - [2014](https://jasonjwilliamsny.github.io/profile/#2014)
+- **[Selected Publications and Products](https://jasonjwilliamsny.github.io/profile/#selected-publications-and-products)**
+- **[Things to Fund](https://jasonjwilliamsny.github.io/profile/#things-to-fund)**
+- **[Academic and Community Service](https://jasonjwilliamsny.github.io/profile/#academic-and-community-service)**
+- **[Photo and Speaker's Bio](https://jasonjwilliamsny.github.io/profile/#photo-and-speakers-bio)**
+- **[Other Things](https://jasonjwilliamsny.github.io/profile/#other-things)**
+  - **[Travel Tips and Recommendations](https://jasonjwilliamsny.github.io/profile/#travel-tips-and-recommendations)**
+
+# Workshops, Talks, Teaching, and Presentations
 
 This list mainly reflects my work with [CyVerse](http://www.cyverse.org) (formerly
 iPlant Collaborative),a project I work on that brings Cyberinfrascture to biologists.
@@ -153,7 +153,7 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 |Founder, CSHL Biological Data Science Meeting|2014|
 |Scientific Training Advisory Board, The Genome Analysis Centre, Norwich, UK|2013-15|
 
-## Things to fund
+## Things to Fund
 Any takers?
 
 - [The Genomics Education Alliance - Pre-print](https://figshare.com/articles/A_Genomics_Education_Alliance/5197228) is a white paper for bringing together several
@@ -163,12 +163,19 @@ Any takers?
   for organizing experts and communities to improve training in biomedical data science/
   bioinformatics while broadening participation. **$300K over 2 years**
 
-## Photo
+## Photo and Speaking Bio
 An acceptable photo for your press releases
 
 ![](https://github.com/JasonJWilliamsNY/profile/raw/master/img/jason.JPG)
 
-## Other things
+If you are introducing me at a talk, feel free to use (or not) the following:
+
+Jason is Assistant Director, External Collaborations, at Cold Spring Harbor Laboratory's DNA Learning Center. and is the Education, Outreach, and Training lead for CyVerse (A U.S. national lifescience cyberinfrascture funded by NSF). Jason's background and training is in molecular biology and plant genetics. Jason organizes, instructs, and speaks at a variety of bioinformatics workshops, conferences, and meetings annually. Jason also serves on committees and boards for several projects that advance science and science education. He is also a Software and Data Carpentry Instructor and
+a teacher at the Yeshiva University High School for Girls.
+
+
+
+## Other Things
 
 **Blood type**: Ragù
 
@@ -197,3 +204,74 @@ An acceptable photo for your press releases
 they had the chance (e.g. precious gems/metals, fine fabrics, fragrances, etc.)
 - Fairly double-jointed
 - Able to display cold symptoms at will
+
+
+## Travel Tips and Recommendations
+
+I travel a fair bit. Here are some of my favorite items for the road-warrior scientist
+
+**Travel Essentials**
+
+|Category|Item|Link|Notes|
+|--------|----|----|-----|
+|Bag|Arkiv Modular Backpack|[link](https://missionworkshop.com/products/arkiv-bag-series)|This is my FAVORITE bag. I have the rucksack for everyday use, but this is a buy-it-for life quality bag. You can fully customize the bag for all your travel needs. I have the large 40L R6. I have compartments for my laptop, iPad and charger, and water bottle. You can add more accessories as needed. I have gone on a 10-day trip including an clothes and an extra pair of shoes with just this bag. You will only need one.|
+|Bag|Adidas Rumble Sack|[link](https://www.amazon.com/gp/product/B00P28C67U/)|The Arkiv bag can split into smaller bags, but is too much for days on a trip when I am not flying. This bag is very light, sturdy, and good for carrying my laptop and and few small supplies. Also nice if you are going shopping for a few small things|
+|AV equipment|High View|[link](https://www.amazon.com/gp/product/B00NNTO2JA/)|This is perfect for watching movies on your iPad mini or other small tablet on a plane. Even when a TV is available, I usually am watching highbrow classical concerts not available even in first-class. This will secure your small tablet to the seat in front of you|
+|Bag|Foldable Duffle Bag|[link](https://www.amazon.com/gp/product/B01KZN263K/)|You never know when a casual seminar will turn into a bank heist. This foldable duffle bag lets is helpful if you do a fair bit of "shopping" on your trip and need the extra room. Also on a longer trip, I will use this with my carry-on bag.|
+|Suitcase/carry-on|Zuca Flyer Business Bag|[link](https://www.zuca.com/control/product/~product_id=11940)|This really is the ULTIMATE suitcase. It is a carryon size, but this plus the Arikiv are a month's worth of clothes for me - especially if I put a duffle on this. This is an indestructible bag. If you need to make repairs you can find what you need at home depot. It also doubles as a seat when you are waiting at the gate. |
+|Travel accessory|Bag Bungie|[link](https://www.amazon.com/gp/product/B001TR0UZI/)|I secure this to my carry-on and then can add a duffle bag on top|
+|Travel accessory|Jacket grip|[link](https://www.amazon.com/gp/product/B06XRD3VWN)|Lets you easily hang a jacket from your bag. I haven't tried, but I bet this would help with a poser tube as well|
+|Travel accessory|Travel vacuum bags|[link](https://www.amazon.com/gp/product/B015456YZ0)|This is a must. You can compress all your clothes without a vacuum. Just roll the air out using these bags. This is one of several brands I have used. Cary an extra one to keep your worn dainty unmentionables separated.|
+|Travel accessory|Travel umbrella|[link](https://www.amazon.com/gp/product/B000F1RGBU/)|A dependable, lightweight umbrella.|
+|Travel accessory|RFID neck stash wallet|[link](https://www.amazon.com/gp/product/B0082C62BO)|If you will be visiting shady locales, this may help keep your valuables safe.|
+|Travel accessory|Sleep mask|[link](https://www.amazon.com/gp/product/B00GSO1D9O/)|Comfortable!|
+|Travel accessory - electronic|Bluetooth Speaker|[link](https://www.amazon.com/gp/product/B016XTADG2)|I have to surround myself with music. This is very loud, compact, and holds a charge|
+|Travel accessory - electronic |Lightning cables|[link](https://www.amazon.com/gp/product/B01HXYNYUS/)|These cables for Apple mobile products won't crack|
+|Travel accessory - electronic|External battery|[link](https://www.amazon.com/gp/product/B00N2T7U90/)|Provides several charges for phone and iPad. Buy whatever you need but make sure that the mAh are not above [TSA/FAA standards](https://www.faa.gov/about/office_org/headquarters_offices/ash/ash_programs/hazmat/passenger_info/media/Airline_passengers_and_batteries.pdf); some countries you travel to may also have local standards - I've lost batteries this way. |
+|Travel accessory - electronic|Travel adaptor|[link](https://www.amazon.com/gp/product/B00Y3ABJKS/)|Perfect for foreign travel and has USB ports.|
+|Travel accessory - electronic|Parrot Headphone|[link](https://www.amazon.com/Parrot-Zik-3-Black-Leather-grain/dp/B016Y37M4I/)|My choice for noise-cancelling headphones. Make sure to get an [extra battery](https://www.amazon.com/HeadphoneMate-Rechargeable-Battery-Parrot-Headphones/dp/B013WSBTV0/)|
+|Travel accessory - electronic|Lapa bluetooth tracker|[link](https://www.amazon.com/LAPA-Blue-everything-matters-phone/dp/B01EIKHNNY/)|I have a few that I can put in my bags. Besides the ability to help you find a lost item (in theory) via crowdsourced GPS; you can set a safety mode which will inform you if you (or your item) is more than a certain distance away|
+
+**Other Travel Items**
+- laser pointer/remote (e.g. [link](https://www.amazon.com/Kensington-Wireless-Presenter-Pointer-K72426AM/dp/B009K1PYG0/))
+- Extra backup dongle
+- Wireless hotspot (don't reply on hotel wireless, if you have a dedicated hotspot, buy it from a different carrier than your phone)
+- VPN software (e.g. [Express](https://www.expressvpn.com/) or [IVPN](https://www.ivpn.net/) - Wireless on the airplane/airport is not at all secure. You may also need a VPN when traveling abroad)
+
+**Travel Pharmacopia - liniments and snake oils**
+Drugs are an essential part of travel and conferences are germ cesspools. Be prepared.
+Also, anyone with a little MacGyver ingenuity and a first-year phamacy degree will
+recognize the possibilities in my selection, should they find themsleves kidnapped
+by nefarious forces.
+
+- **Travel Lysol**: Sanitize your airplane seat and anything you will touch or sleep on during the trip.
+- **Alcohol wipes**: Take several of these. Buy a good brand, but not too many because they dry out. Keep them everywhere because you will be in front of food and realize you have nothing to clean your hands with.
+- **Analgesics**: Asprin, but also Tylenol and Advil for fevers, aches, sunburn etc.
+- **Hypnotics**: If you are traveling several timzones, a melatonin suppliment is nice (low dose)
+  is better. A diphenhydramine sleeping pill is also good. Avoid perscription ones if you can.
+- **Anti-cold/flu**: You probably I like to have some daytime/nighttime cold medication pills like NyQuill. I also am a fan of [Zicam](http://www.zicam.com/) which works for me. In addition a Cepacol lozenge, or something that has benzocaine is great for a sore throat. I also like to have a menthol inhaler stick for congestion. You can also save a bottle of Jack Daniels or other whiskey from your plane ride.
+- **Ointment and Creams**: Take pleanty of lotions (planes are very dehydrating). I am a fan of Aveeno and also unscented Shea butter products like [Out of Africa](http://outofafricashea.com/). Burts Bees lip balms are also good for winter travel. [Bubble bath](http://www.mrbubble.com/) products can be broght in your checked bags, or you can carry a small amount for shorter trips. Of course Frankincense, Myrrh, Sage, and other oils are a must. Don't forget anti mosquito creams like [Odomos](http://odomosprotect.com/) - mosquitos are everywhere, [for now](https://www.nature.com/news/gene-drive-mosquitoes-engineered-to-fight-malaria-1.18858).
+- **Others and thing you may not think you need**: These are others, including things you may not think you need, but you don't want to be caught without in a forein country where you don't know where to find a phramacist, or you may have difficulty communicating. See the [CDC](https://wwwnc.cdc.gov/travel) for country-specific recommendations - Anti-diarrheal, Anti-allergy (I never had an attack until one foreign trip), dental filling repair kit, etc.
+
+
+**Travel Phrase Book**
+
+If you are going to a place where your language is not spoking, keep some kind of
+book (paper/electronic) with useful phrases. Most languages will have an App you can download
+with the more common phrases. Here are some phrases you might find in these books, but which
+I have always found useful. I will be adding to this, and also some translations. I am grateful
+for additions or corrections to translations so please submit a pull request.
+
+|Phrase|Translation: Chinese|
+|"Either get this for me now, or find somone who can!"|要么现在得到这个给我，要么找到一个可以的人！|
+|"What is it going to take to get the charges dismissed?" （helps to flash a $20)|如何解决这些指控呢？（给他们看100元）|
+|"Do you know who I am?!"|你知道我是谁吗?!|
+|"Are you out of your mind? I am a citiczen of the United States of America!"|你疯了吗？我是美国公民！|
+|"S/he's not expected to survive, I did everything I could"😏|他/她没有预期的生存，我尽我所能😏|
+|"I can't be connected to （this） in anyway"|跟（这个）一点关系我要都没有|
+|"Send a message to our listening posts..."|发送消息给我们的聆听帖子|
+|"I deserve the best!"|我应该得到最好的！|
+|"I thought it woukd amuse me"|我认为这会让我愉快|
+|"If I go down, you'll lose everything"|如果我失败，你会失去一切|
+|"I don't have time for this nonsense"|这个废话我没有时间了|
+|"I'll have another (beverage)"|再一杯！|
