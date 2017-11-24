@@ -190,6 +190,7 @@ a teacher at the Yeshiva University High School for Girls.
 - "I am best adapted to an environment of unlimited plenty"
 - "(sigh) Years that could have been spent erecting my pleasure dome"
 - "Still, those individuals who, by a 'stroke of undeserved luck', have 'not quite adjusted to the prevailing norms' can, at the very least, initiate change."
+- "People should be presented with several opportunities to be reminded I am adorable"
 
 **Kryptonite**: Most pop music
 
