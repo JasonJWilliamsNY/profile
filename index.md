@@ -45,7 +45,7 @@ multi-day training events.
 |Los Alamos National Laboratory|Software Carpentry|Los Alamos, NM||
 |New Mexico State University|Genomics Data Carpentry and CyVerse Tools and Services Workshops|Las Cruces, NM||
 |ASPB Conviron Scholars|**Panelist:** Plantae Conviron Scholars Career Panel|Online||
-|Toronto Bioinformatics User Group|**Invited Speaker:** TorBUG Bioinformatics Seminar|Toronto, CN||
+|Toronto Bioinformatics User Group|**Invited Speaker:** TorBUG Bioinformatics Seminar|Toronto, CN|[slides](http://www.cyverse.org/torbug2017)|
 
 
 ## 2016
@@ -190,7 +190,7 @@ a teacher at the Yeshiva University High School for Girls.
 - "I am best adapted to an environment of unlimited plenty"
 - "(sigh) Years that could have been spent erecting my pleasure dome"
 - "Still, those individuals who, by a 'stroke of undeserved luck', have 'not quite adjusted to the prevailing norms' can, at the very least, initiate change."
-- "People should be presented with several opportunities to be reminded I am adorable"
+- "People should be presented with several opportunities to be reminded I am adorable."
 
 **Kryptonite**: Most pop music
 
