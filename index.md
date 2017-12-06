@@ -206,6 +206,7 @@ a teacher at the Yeshiva University High School for Girls.
 they had the chance (e.g. precious gems/metals, fine fabrics, fragrances, etc.)
 - Fairly double-jointed
 - Able to display cold symptoms at will
+- Convincing Canadian goose noises
 
 
 ## Travel Tips and Recommendations
@@ -279,3 +280,5 @@ for additions or corrections to translations so please submit a pull request.
 |"If I go down, you'll lose everything"|如果我失败，你会失去一切|
 |"I don't have time for this nonsense"|这个废话我没有时间了|
 |"I'll have another (beverage)"|再一杯！|
+|"I'm feeling attacked!"|我感觉到被攻击了!|
+|“I find accusations that I stole the cake, insulting and provocative”|我觉得无礼的传闻我偷了蛋糕是完全辱骂的，挑衅的。|
