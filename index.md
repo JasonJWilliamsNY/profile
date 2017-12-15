@@ -1,7 +1,7 @@
 # Professional Profile
-**"You're like a celebrity that isn't famous"**
 
-    - E.M.; The 2nd best compliment I've ever received
+**"You're like a celebrity that isn't famous"**
+- E.M.; The 2nd best compliment I've ever received
 
 An incomplete list of things I do and have done, if you have to know for some
 reason.
