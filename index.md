@@ -1,4 +1,6 @@
 # Professional Profile
+"You're like a celebrity that is not famous"
+    - E.M.; The 2nd best compliment I've ever received
 
 An incomplete list of things I do and have done, if you have to know for some
 reason.
@@ -191,6 +193,7 @@ a teacher at the Yeshiva University High School for Girls.
 - "(sigh) Years that could have been spent erecting my pleasure dome"
 - "Still, those individuals who, by a 'stroke of undeserved luck', have 'not quite adjusted to the prevailing norms' can, at the very least, initiate change."
 - "People should be presented with several opportunities to be reminded I am adorable."
+- "I don't need to "figure out" what's inside the burrito, that's what I'm paying *you* for"
 
 **Kryptonite**: Most pop music
 
@@ -282,3 +285,4 @@ for additions or corrections to translations so please submit a pull request.
 |"I'll have another (beverage)"|再一杯！|
 |"I'm feeling attacked!"|我感觉到被攻击了!|
 |“I find accusations that I stole the cake, insulting and provocative”|我觉得无礼的传闻我偷了蛋糕是完全辱骂的，挑衅的。|
+|"By this time tomorrow, every cupcake within 1000 miles will be mine."|明天这个时间，每一个1000英里以内的纸杯蛋糕都将是我的。|
