@@ -287,3 +287,4 @@ for additions or corrections to translations so please submit a pull request.
 |"I'm feeling attacked!"|我感觉到被攻击了!|
 |“I find accusations that I stole the cake, insulting and provocative”|我觉得无礼的传闻我偷了蛋糕是完全辱骂的，挑衅的。|
 |"By this time tomorrow, every cupcake within 1000 miles will be mine."|明天这个时间，每一个1000英里以内的纸杯蛋糕都将是我的。|
+|“Make it look like an accident”|使（它）看上去像一个事故了。|
