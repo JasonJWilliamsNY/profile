@@ -11,6 +11,7 @@ also get to teach my own science course a few hours a week at
 
 
 - **Workshops, Talks, Teaching, and Presentations**
+  - [2018](https://jasonjwilliamsny.github.io/profile/#2018)
   - [2017](https://jasonjwilliamsny.github.io/profile/#2017)
   - [2016](https://jasonjwilliamsny.github.io/profile/#2016)
   - [2015](https://jasonjwilliamsny.github.io/profile/#2015)
@@ -29,6 +30,25 @@ iPlant Collaborative), a project I work on that brings cyberinfrastructure to bi
 I am their Education, Outreach, and Training lead, so I get to help lots of
 biologists use computation in their teaching and research. Workshops are mainly
 multi-day training events.
+
+## 2018
+(includes scheduled events)
+
+|Venue|Presentation|Location|Notes|
+|------------|-----|--------|-----|
+|NSF INCLUDES summit|Broadening Participation with Bioinformatics, Big Data, and Data Science|Alexandria, VA|[poster](https://de.cyverse.org/dl/d/7B7B65EA-3777-4F90-BAAA-EF8F02D465A6/WILLIAMS_Includes_2_2017.pdf)|
+|International Plant and Animal Genome Meeting (PAG XXVI)|**Session Chair/Organizer** - CyVerse Education: DNA Subway, Data Science, and Microbial Genomics - CyVerse - Software, Tools, and Services for Data-Driven Discovery; BOF-Organizer: Machine Learning, Imaging, Containers, Clouds and APIs|San Diego, CA||
+|North Carolina State University|Genomics Data Carpentry and CyVerse Tools and Services Workshops|Raleigh, NC||
+|ASPB Southern Section Regional Meeting|Symposium Keynote: "Data, Data Everywhere, Nor Any a Drop to Drink"|New Orleans, LA|[slides](https://de.cyverse.org/dl/d/0265EAF0-562B-4A26-8096-8E1AD6873E60/WILLIAMS_march_2018_aspb_ss_Keynote_small.pptx)|
+|Chan-Zuckerberg Biohub|Data Carpentry: Ecology|San Francisco, CA||
+|University of New Orleans|Genomics Data Carpentry and CyVerse Tools and Services Workshops|New Orleans, LA||
+|University College, Dublin |Genomics Data Carpentry and Carpentry Con|Dublin, IE||
+|Bioinformatics Open Source Conference|Submitted: "Improving the Undergraduate Bioinformatics Curriculum"|Portland, OR||
+|Cold Spring Harbor Laboratory| Frontiers in Plant Science Course, Guest Instructor: Genomics Data Carpentry - Introduction to R|Cold Spring Harbor, NY||
+|Cold Spring Harbor Laboratory|Genomics Data Carpentry and Machine Learning |Cold Spring Harbor, NY||
+|Plant Biology 2018|Submitted: "The Next 10 Years of Data-Driven Plant Biology"/ Data Carpentry and RNA-Seq Workshop|Montreal, CN||
+|Colorado State University|Genomics Data Carpentry and CyVerse Tools and Services Workshops|Ft. Collins, CO||
+|Earlham Institute|CyVerse UK Workshop|Norwich, UK||
 
 ## 2017
 (includes scheduled events)
@@ -204,6 +224,7 @@ a teacher at the Yeshiva University High School for Girls.
 they had the chance (e.g. precious gems/metals, fine fabrics, fragrances, etc.)
 - Fairly double-jointed
 - Able to display cold symptoms at will
+- Able to navigate the NYC subway system by smell
 
 
 ## Travel Tips and Recommendations
