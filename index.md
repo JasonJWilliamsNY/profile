@@ -231,6 +231,7 @@ they had the chance (e.g. precious gems/metals, fine fabrics, fragrances, etc.)
 - Fairly double-jointed
 - Able to display cold symptoms at will
 - Convincing Canadian goose noises
+- Able to navigate NYC subway system by smell
 
 
 ## Travel Tips and Recommendations
