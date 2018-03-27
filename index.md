@@ -1,5 +1,8 @@
 # Professional Profile
 
+    "You're like a celebrity that isn't famous"
+    - E.M.; The 2nd best compliment I've ever received
+
 An incomplete list of things I do and have done, if you have to know for some
 reason.
 
@@ -55,44 +58,44 @@ multi-day training events.
 
 |Venue|Presentation|Location|Notes|
 |------------|-----|--------|-----|
-|International Plant and Animal Genome Meeting (PAG XXV)|**Session Chair/Organizer** - CyVerse Education: DNA Subway, Data Science, and Microbial Genomics - CyVerse - Software, Tools, and Services for Data-Driven Discovery|San Diego, CA||
+|International Plant and Animal Genome Meeting (PAG XXV)|**Session Chair/Organizer:** CyVerse Education: DNA Subway, Data Science, and Microbial Genomics - CyVerse - Software, Tools, and Services for Data-Driven Discovery|San Diego, CA||
 |CyVerse UK Workshop|University of York|York, UK||
-|Plant Biology 2017 - American Society of Plant Biology|**Symposium Chair** Computation/Bioinformatics: CyVerse Resources for Enabling Data-driven Plant Biology; **Panelist:** Common Author Errors and How to Avoid Them; ASPB Journal Editor's Session: Tools for Reproducible Plant Biology|Honolulu, HI|[slides](https://docs.google.com/presentation/d/1JGNJZAQuovPfp-WbogFkN6JtUK_QWAjUZG51SMadn00/edit?usp=sharing)|
-|Cold Spring Harbor Laboratory - Frontiers & Techniques in Plant Science|**Guest Instructor** Genomics Data Carpentry|Cold Spring Harbor, NY||
+|Plant Biology 2017 - American Society of Plant Biology|**Symposium Chair:** Computation/Bioinformatics: CyVerse Resources for Enabling Data-driven Plant Biology; **Panelist:** Common Author Errors and How to Avoid Them; ASPB Journal Editor's Session: Tools for Reproducible Plant Biology|Honolulu, HI|[slides](https://docs.google.com/presentation/d/1JGNJZAQuovPfp-WbogFkN6JtUK_QWAjUZG51SMadn00/edit?usp=sharing)|
+|Cold Spring Harbor Laboratory - Frontiers & Techniques in Plant Science|**Invited Instructor:** Genomics Data Carpentry|Cold Spring Harbor, NY||
 |Beyond the Bench 2017|**Panelist:** Careers in Education and Government|Cold Spring Harbor Laboratory|[agenda](https://www.eventbrite.com/e/beyond-the-bench-tickets-35977099473)|
 |University of Arkansas|Genomics Data Carpentry and CyVerse Tools and Services Workshops|Fayetteville, AK||
 |James Madison University|Genomics in Education and CyVerse Tools and Services Workshops|Harrisonburg, VA||
 |Los Alamos National Laboratory|Software Carpentry|Los Alamos, NM||
 |New Mexico State University|Genomics Data Carpentry and CyVerse Tools and Services Workshops|Las Cruces, NM||
-|ASPB Conviron Scholars|**Panelist** - Career Panel|Online||
-|Toronto Bioinformatics User Group|**Invited Talk**:TorBUG Bioinformatics Seminar|Toronto, CN||
+|ASPB Conviron Scholars|**Panelist:** Plantae Conviron Scholars Career Panel|Online||
+|Toronto Bioinformatics User Group|**Invited Speaker:** TorBUG Bioinformatics Seminar - "The Bioinformatics Training Landscape"|Toronto, CN|[slides](https://de.cyverse.org/dl/d/DF632022-42BA-40A9-BE3E-8D99F1739652/TorBug_2017_bioinformatics_training_lanscape_WILLIAMS.pdf)|
 
 
 ## 2016
 
 |Venue|Presentation|Location|Notes|
 |------------|-----|--------|-----|
-|International Plant and Animal Genome Meeting (PAG XXIV)|**Session Chair/Organizer** - iPlant and Education: DNA Subway, Data Science, and Microbial Genomics - Cyberinfrastructure for Life Science and Beyond – Scaling your science with iPlant|San Diego, CA||
+|International Plant and Animal Genome Meeting (PAG XXIV)|**Session Chair/Organizer:** iPlant and Education: DNA Subway, Data Science, and Microbial Genomics - Cyberinfrastructure for Life Science and Beyond – Scaling your science with iPlant|San Diego, CA||
 |Stony Brook University, Genomics Cluster|Genomics Data Carpentry|Stony Brook, NY||
 |University of Delaware|Genomics in Education Workshop/CyVerse Tools and Services Workshop|Newark, DE||
-|MidSouth Computational Biology and Bioinformatics (MCBIOS)|**Guest Workshop Organizer** - CyVerse tools for Data Driven Discovery|Memphis, TN||
+|MidSouth Computational Biology and Bioinformatics (MCBIOS)|**Invited Workshop Organizer:** CyVerse tools for Data Driven Discovery|Memphis, TN||
 |Ohio State University|CyVerse Tools and Services Workshop|Wooster, OH||
 |iDigBio|Webinar: Education and Outreach Webinar Series: iPlant's DNA Subway|Online|[slides](https://de.cyverse.org/dl/d/7B8DB348-DBE2-4DE7-8602-93C14111F0EF/idigbio_webinar_march_2016.pdf)|
-|University of Melbourne|**Guest Lecture/Workshop Organizer** CyVerse Training Day|Melbourne, AU||
+|University of Melbourne|**Invited Lecture/Workshop Organizer:** CyVerse Training Day|Melbourne, AU||
 |National eResearch Collaboration Tools and Resources project (Nectar)|CyVerse and Atmosphere Cloud Overview|Melbourne, AU||
-|Jackson Laboratory|Big Genomic Data Skills Training for Professors: **Guest Lecture/Workshop Organizer**: CyVerse Cloud for Research and Education|Farmington, CT||
+|Jackson Laboratory|Big Genomic Data Skills Training for Professors: **Invited Lecture/Workshop Organizer:** CyVerse Cloud for Research and Education|Farmington, CT||
 |National Institutes of Health|Genomics Data Carpentry/BD2K|Bethesda, MD||
 |Langebio/Cinvistav|Genomics Data Carpentry/CyVerse Tools and Services|Irapuato, MX||
 |2016 National Academies Special Topics Summer Institute on Quantitative Biology/BioQUEST|**Guest Lecture/Workshop Organizer**: CyVerse Overview/CyVerse Atmosphere for Education|Raleigh, NC||
-|Plant Biology 2016|Bioinformatics Symposium: **Selected talk**: Resources for Big Data Biology: The Evolution of iPlant|Austin, TX||
+|Plant Biology 2016|Bioinformatics Symposium: **Symposium Speaker**: Resources for Big Data Biology: The Evolution of iPlant|Austin, TX||
 |Genetics Society of America/ Allied Genetics Conference|Workshop Organizer: CyVerse Tools and Services|Orlando, FL||
 |Network for Integrating Bioinformatics into Life Science Education (NIBLSE)|NSF RCN Kick-off meeting|Omaha, NE|[NIBLSE website](https://qubeshub.org/groups/niblse)|
-|South African Genetics Society/South African Bioinformatics Society - Join Conference|**Keynote**:Leveraging Cyberinfrastructure to Scale Science and People|Durban, ZA|[slides](https://de.cyverse.org/dl/d/30B5198A-A524-46D1-9271-FBF722F71383/WILLIAMS_SASBi-SAGS-2016.pdf)|
+|South African Genetics Society/South African Bioinformatics Society - Join Conference|**Keynote Speaker** Leveraging Cyberinfrastructure to Scale Science and People|Durban, ZA|[slides](https://de.cyverse.org/dl/d/30B5198A-A524-46D1-9271-FBF722F71383/WILLIAMS_SASBi-SAGS-2016.pdf)|
 |NorthWest University|Genomics Data Carpentry Workshop|Potchefstroom, ZA||
-|Cereal Genomics Workshop|**Guest Instructor**: Accelerating Plant Science with CyVerse|Cold Spring Harbor, NY||
+|CSHL Cereal Genomics Workshop|**Invited Instructor:** Accelerating Plant Science with CyVerse|Cold Spring Harbor, NY||
 |Biological Data Science|Poster: Required Parameters - What Does it Take to Bring Bioinformatics into the Classroom at a National Level?|Cold Spring Harbor, NY|[poster](https://de.cyverse.org/dl/d/A3717FBA-CC99-4B39-92C5-5D32FA9FDBBD/biological_data_science_2016_final.pdf)|
-|EMBL-Australian Bioinformatics Resource|**Guest Lecture/Workshop Organizer** EMBL-ABR workshop on Open Source and Software Development Best Practice|Melbourne, AU|[agenda](https://www.embl-abr.org.au/bioinformatics-sw-workshop/)|
-|EMBL-Australian Bioinformatics Resource|**Guest Lecture/Workshop Organizer** EMBL-ABR Open and Scalable Training workshop|Melbourne, AU|[agenda](https://www.embl-abr.org.au/open-scalable-workshop/)|
+|EMBL-Australian Bioinformatics Resource|**Invited Lecture/Workshop Organizer:** EMBL-ABR workshop on Open Source and Software Development Best Practice|Melbourne, AU|[agenda](https://www.embl-abr.org.au/bioinformatics-sw-workshop/)|
+|EMBL-Australian Bioinformatics Resource|**Invited Lecture/Workshop Organizer:** EMBL-ABR Open and Scalable Training workshop|Melbourne, AU|[agenda](https://www.embl-abr.org.au/open-scalable-workshop/)|
 
 ## 2015
 
@@ -109,14 +112,14 @@ multi-day training events.
 |California State University, Long Beach|RNA-Seq for the Next Generation Workshop|Long Beach, CA|[website](http://www.rnaseqforthenextgeneration.org/)|
 |The Genome Analysis Centre (Earlham Institute)|iPlant Tools and Services Workshop|Norwich, UK||
 |John Innes Centre|Galaxy Community Conference|Norwich, UK||
-|Bioinformatics Open Source Conference|**Panelist**:Panel: Open Source, Open Door: increasing diversity in the bioinformatics open source community|Dublin, IE||
+|Bioinformatics Open Source Conference|**Invited Panelist:** Open Source, Open Door: increasing diversity in the bioinformatics open source community|Dublin, IE||
 |ISMB/European Conference on Computational Biology|Workshop: Using Biological Cyberinfrastructure to Scale Science and People – Applications in Data Storage, HPC, Cloud Analysis, and Bioinformatics Training|Dublin, IE|[agenda](https://www.iscb.org/ismbeccb2015-program/ismbeccb2015-akes#akes5)|
-|Plant Biology 2015| Bioinformatics Symposium: **Selected talk**:How to Scale Data, Science, and People using Biological Cyberinfrastructure - PUI workshop: Using iPlant Cyberinfrastructure To Support Diverse Research and Education Objectives|Minneapolis, MN||
+|Plant Biology 2015| Bioinformatics Symposium: **Symposium Speaker:** How to Scale Data, Science, and People using Biological Cyberinfrastructure - PUI workshop: Using iPlant Cyberinfrastructure To Support Diverse Research and Education Objectives|Minneapolis, MN||
 |Plant Biology 2015|Data Carpentry Workshop at Plant Biology 2015|Minneapolis, MN||
 |USDA-ARS Meeting on Microbial genomics, Biomics, and Metagenomics Workshop|Overview of iPlant Resources Cyberinfrastructure for Metagenomics|Athens, GA||
 |Florida SouthWestern College|iPlant Genomics in Education Workshop|Ft. Myers, FL||
 |University of California, Davis|iPlant Multiworkshop with Data-Intensive-Biology Lab|Davis, CA||
-|Colorado State University|**Invited Talk**: MIP Seminar**: How to Scale Data, Science, and People Using Biological Cyberinfrastructure |Ft. Collins, CO||
+|Colorado State University|**Invited Speaker:** *MIP Seminar:* How to Scale Data, Science, and People Using Biological Cyberinfrastructure |Ft. Collins, CO||
 |National Ecological Observatory Network|NEON/Data Carpentry Hackathon on Geospatial Data|Boulder, CO||
 |Cold Spring Harbor Laboratory|Half-day iPlant workshop at CSHL Plant Genomes and Biotechnology Meeting|Cold Spring Harbor, NY||
 |Plant Genomes & Biotechnology: From Genes to Networks|**Invited Talk**: Scaling plant science (and scientists) using Biological Cyberinfrastructure|Cold Spring Harbor, NY||
@@ -128,7 +131,7 @@ multi-day training events.
 |-----|------------|--------|-----|
 |International Plant and Animal Genome Meeting (PAG XXII)|**Session Chair/Organizer** DNA Subway Workshop  - iPlant Workshop: Cyberinfrastructure for All Life  Sciences|San Diego, CA||
 |Linfield College|iPlant Tools and Services Workshop|McMinnville, OR||
-|The Genome Analysis Centre (No Earlham Institute)|**Invited Seminar**: The iPlant Collaborative - A  Unified Cyberinfrastructure for the New Life Science|Norwich, UK||
+|The Genome Analysis Centre (Currently: Earlham Institute)|**Invited Seminar**: The iPlant Collaborative - A  Unified Cyberinfrastructure for the New Life Science|Norwich, UK||
 |Wageningen University|The iPlant Collaborative and CoGe|Wageningen, NL||
 |2014 Maize Meeting|Workshop: Introduction to iPlant Collaborative|Beijing, CN||
 |UC Davis|iPlant Train-the-Trainers/Tools and Services Workshop|Davis, CA||
@@ -136,10 +139,10 @@ multi-day training events.
 |Cold Spring Harbor Laboratory|Software Carpentry Workshop|Cold Spring Harbor, NY||
 |Stony Brook University|iPlant Tools and Services Workshop|Stony Brook, NY||
 |University of Nebraska, Lincoln|Understanding GWAS workshop|Lincoln, NE||
-|Plant Biology 2014|Bioinformatics **Symposium Speaker**: CyVerse Resources for Plant Science|Portland, OR||
+|Plant Biology 2014|**Symposium Speaker:** CyVerse Resources for Plant Science|Portland, OR||
 |Plant Biology 2014|Software Carpentry Workshop|Portland, OR||
 |Botany 2014|iPlant Tools and Services/Genomics in Education half-day workshops|Boise, ID||
-|World Congress on Genetics Applied to Livestock Production|**Talk**:DNA Subway An Educational Bioinformatics Platform for Gene and Genome Analysis: DNA Barcoding, and RNA-Seq|Vancouver, CA||
+|World Congress on Genetics Applied to Livestock Production|**Invited Talk:** DNA Subway An Educational Bioinformatics Platform for Gene and Genome Analysis: DNA Barcoding, and RNA-Seq|Vancouver, CA||
 |National Science Foundation|**Invited Talk** NPGI Annual Awardee Meeting: The iPlant Collaborative: Computational Resources for Young Investigators - How Can We Help?|Arlington, VA||
 |Cold Spring Harbor Laboratory (Banbury)|High Performance Computing (HPC) in Undergraduate Biology Education|Cold Spring Harbor Laboratory, NY||
 |European Conference on Computational Biology|**Invited Workshop**: Dual Benefit of Bioinformatics Training|Strasbourg, FR||
@@ -164,6 +167,7 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 
 |Role|Year|
 |----|----|
+|**[NIH Data Commons](https://commonfund.nih.gov/bd2k/commons) - External Panel of Consultants**, National Institutes of Health|2017-|
 |**Steering Committee**: [Plantae](https://plantae.org/), American Society of Plant Biology/Global Plant Council|2017-|
 |**Chair**: International Science Advisory Group, [EMBL-Australian Bioinformatics Resource](https://www.embl-abr.org.au/)|2016-|
 |NSF RCN-UBE: [Network for Integrating Bioinformatics into Life Sciences Education (Bioinformatics Core Competencies Working Group)](https://qubeshub.org/groups/niblse)|2016-|
@@ -209,6 +213,8 @@ a teacher at the Yeshiva University High School for Girls.
 - "I am best adapted to an environment of unlimited plenty"
 - "(sigh) Years that could have been spent erecting my pleasure dome"
 - "Still, those individuals who, by a 'stroke of undeserved luck', have 'not quite adjusted to the prevailing norms' can, at the very least, initiate change."
+- "People should be presented with several opportunities to be reminded I am adorable."
+- "I don't need to "figure out" what's inside the burrito, that's what I'm paying *you* for"
 
 **Kryptonite**: Most pop music
 
@@ -224,7 +230,7 @@ a teacher at the Yeshiva University High School for Girls.
 they had the chance (e.g. precious gems/metals, fine fabrics, fragrances, etc.)
 - Fairly double-jointed
 - Able to display cold symptoms at will
-- Able to navigate the NYC subway system by smell
+- Convincing Canadian goose noises
 
 
 ## Travel Tips and Recommendations
@@ -235,27 +241,28 @@ I travel a fair bit. Here are some of my favorite items for the road-warrior sci
 
 |Category|Item|Link|Notes|
 |--------|----|----|-----|
-|Bag|Arkiv Modular Backpack|[link](https://missionworkshop.com/products/arkiv-bag-series)|This is my FAVORITE bag. I have the rucksack for everyday use, but this is a buy-it-for life quality bag. You can fully customize the bag for all your travel needs. I have the large 40L R6. I have compartments for my laptop, iPad and charger, and water bottle. You can add more accessories as needed. I have gone on a 10-day trip including an clothes and an extra pair of shoes with just this bag. You will only need one.|
-|Bag|Adidas Rumble Sack|[link](https://www.amazon.com/gp/product/B00P28C67U/)|The Arkiv bag can split into smaller bags, but is too much for days on a trip when I am not flying. This bag is very light, sturdy, and good for carrying my laptop and few small supplies. Also nice if you are going shopping for a few small things|
-|AV equipment|High View|[link](https://www.amazon.com/gp/product/B00NNTO2JA/)|This is perfect for watching movies on your iPad mini or other small tablet on a plane. Even when a TV is available, I usually am watching highbrow classical concerts not available even in first-class. This will secure your small tablet to the seat in front of you|
-|Bag|Foldable Duffle Bag|[link](https://www.amazon.com/gp/product/B01KZN263K/)|You never know when a casual seminar will turn into a bank heist. This foldable duffle bag lets is helpful if you do a fair bit of "shopping" on your trip and need the extra room. Also on a longer trip, I will use this with my carry-on bag.|
-|Suitcase/carry-on|Zuca Flyer Business Bag|[link](https://www.zuca.com/control/product/~product_id=11940)|This really is the ULTIMATE suitcase. It is a carryon size, but this plus the Arikiv are a month's worth of clothes for me - especially if I put a duffle on this. This is an indestructible bag. If you need to make repairs you can find what you need at home depot. It also doubles as a seat when you are waiting at the gate. |
+|Bag|Arkiv Modular Backpack|[link](https://missionworkshop.com/products/arkiv-bag-series)|This is my FAVORITE bag. I have the rucksack for everyday use, but this is a buy-it-for life quality travel bag. You can fully customize the bag for all your travel needs. I have the large 40L R6. I have compartments for my laptop, iPad/small electronics, and water bottle. You can add more accessories as needed. I have gone on a 10-day international trip including an clothes and an extra pair of shoes with just this bag. You will only need one.|
+|Bag|Adidas Rumble Sack|[link](https://www.amazon.com/gp/product/B00P28C67U/)|The Arkiv bag can split into smaller bags, but is too much for days on a trip when I am not flying. This bag is very light, sturdy, and good for carrying my laptop and few small supplies. Also nice if you are going shopping for a few small things.|
+|AV equipment (airplane iPad holder)|High View|[link](https://www.amazon.com/gp/product/B00NNTO2JA/)|This is perfect for watching movies on your iPad mini or other small tablet on a plane. Even when a TV is available, I usually am watching highbrow classical concerts not available even in first-class. This will secure your small tablet to the seat in front of you.|
+|Bag|Foldable Duffle Bag|[link](https://www.amazon.com/gp/product/B01KZN263K/)|You never know when a casual seminar will turn into a bank heist. This foldable duffle bag is helpful if you do a fair bit of shopping on your trip and need the extra room. Also on a longer trip, I will use this with my carry-on bag.|
+|Suitcase/carry-on|Zuca Flyer Business Bag|[link](https://www.zuca.com/control/product/~product_id=11940)|This really is the ULTIMATE suitcase. It is a carry-on size, but this plus the Arikiv are a month's worth of clothes for me - especially if I also bring the duffle bag. This is an indestructible bag. If you need to make repairs you can find what you need at Home Depot. It also doubles as a seat when you are waiting at the gate.|
 |Travel accessory|Bag Bungie|[link](https://www.amazon.com/gp/product/B001TR0UZI/)|I secure this to my carry-on and then can add a duffle bag on top|
-|Travel accessory|Jacket grip|[link](https://www.amazon.com/gp/product/B06XRD3VWN)|Lets you easily hang a jacket from your bag. I haven't tried, but I bet this would help with a poser tube as well|
+|Travel accessory|Jacket grip|[link](https://www.amazon.com/gp/product/B06XRD3VWN)|Lets you easily hang a jacket from your bag. I haven't tried, but I bet this would help with a poster tube as well|
 |Travel accessory|Travel vacuum bags|[link](https://www.amazon.com/gp/product/B015456YZ0)|This is a must. You can compress all your clothes without a vacuum. Just roll the air out using these bags. This is one of several brands I have used. Cary an extra one to keep your worn dainty unmentionables separated.|
 |Travel accessory|Travel umbrella|[link](https://www.amazon.com/gp/product/B000F1RGBU/)|A dependable, lightweight umbrella.|
 |Travel accessory|RFID neck stash wallet|[link](https://www.amazon.com/gp/product/B0082C62BO)|If you will be visiting shady locales, this may help keep your valuables safe.|
 |Travel accessory|Sleep mask|[link](https://www.amazon.com/gp/product/B00GSO1D9O/)|Comfortable!|
-|Travel accessory - electronic|Bluetooth Speaker|[link](https://www.amazon.com/gp/product/B016XTADG2)|I have to surround myself with music. This is very loud, compact, and holds a charge|
-|Travel accessory - electronic |Lightning cables|[link](https://www.amazon.com/gp/product/B01HXYNYUS/)|These cables for Apple mobile products won't crack|
+|Travel accessory|Ostrich Pillow|[link](https://ostrichpillow.com/)|For when you must block the outside world out.|
+|Travel accessory - electronic|Bluetooth Speaker|[link](https://www.amazon.com/gp/product/B016XTADG2)|I have to surround myself with music. This is very loud, compact, and holds a charge.|
+|Travel accessory - electronic |Lightning cables|[link](https://www.amazon.com/gp/product/B01HXYNYUS/)|These cables for Apple mobile products won't crack.|
 |Travel accessory - electronic|External battery|[link](https://www.amazon.com/gp/product/B00N2T7U90/)|Provides several charges for phone and iPad. Buy whatever you need but make sure that the mAh are not above [TSA/FAA standards](https://www.faa.gov/about/office_org/headquarters_offices/ash/ash_programs/hazmat/passenger_info/media/Airline_passengers_and_batteries.pdf); some countries you travel to may also have local standards - I've lost batteries this way. |
 |Travel accessory - electronic|Travel adaptor|[link](https://www.amazon.com/gp/product/B00Y3ABJKS/)|Perfect for foreign travel and has USB ports.|
-|Travel accessory - electronic|Parrot Headphone|[link](https://www.amazon.com/Parrot-Zik-3-Black-Leather-grain/dp/B016Y37M4I/)|My choice for noise-cancelling headphones. Make sure to get an [extra battery](https://www.amazon.com/HeadphoneMate-Rechargeable-Battery-Parrot-Headphones/dp/B013WSBTV0/)|
-|Travel accessory - electronic|Lapa Bluetooth tracker|[link](https://www.amazon.com/LAPA-Blue-everything-matters-phone/dp/B01EIKHNNY/)|I have a few that I can put in my bags. Besides the ability to help you find a lost item (in theory) via crowdsourced GPS; you can set a safety mode which will inform you if you (or your item) is more than a certain distance away|
+|Travel accessory - electronic|Parrot Headphone|[link](https://www.amazon.com/Parrot-Zik-3-Black-Leather-grain/dp/B016Y37M4I/)|My choice for noise-cancelling headphones. Make sure to get an [extra battery.](https://www.amazon.com/HeadphoneMate-Rechargeable-Battery-Parrot-Headphones/dp/B013WSBTV0/)|
+|Travel accessory - electronic|Lapa Bluetooth tracker|[link](https://www.amazon.com/LAPA-Blue-everything-matters-phone/dp/B01EIKHNNY/)|I have a few that I can put in my bags. Besides the ability to help you find a lost item (in theory) via crowdsourced GPS; you can set a safety mode which will inform you if you (or your item) is more than a certain distance away.|
 
 **Other Travel Items**
 - laser pointer/remote (e.g. [link](https://www.amazon.com/Kensington-Wireless-Presenter-Pointer-K72426AM/dp/B009K1PYG0/))
-- Extra backup dongle
+- Extra backup dongle (computer to projector)
 - Wireless hotspot (don't reply on hotel wireless, if you have a dedicated hotspot, buy it from a different carrier than your phone)
 - VPN software (e.g. [Express](https://www.expressvpn.com/) or [IVPN](https://www.ivpn.net/) - Wireless on the airplane/airport is not at all secure. You may also need a VPN when traveling abroad)
 
@@ -268,12 +275,12 @@ by nefarious forces.
 
 - **Travel Lysol**: Sanitize your airplane seat and anything you will touch or sleep on during the trip.
 - **Alcohol wipes**: Take several of these. Buy a good brand, but not too many because they dry out. Keep them everywhere because you will be in front of food and realize you have nothing to clean your hands with.
-- **Analgesics**: Aspirin, but also Tylenol and Advil for fevers, aches, sunburn etc.
+- **Analgesics**: Aspirin, Tylenol, and Advil for fevers, aches, sunburn etc.
 - **Hypnotics**: If you are traveling several time zones, a melatonin supplement is nice (low dose)
   is better. A diphenhydramine sleeping pill is also good. Avoid prescription ones if you can.
-- **Anti-cold/flu**: You probably I like to have some daytime/nighttime cold medication pills like NyQuill. I also am a fan of [Zicam](http://www.zicam.com/) which works for me. In addition, a Cepacol lozenge, or something that has benzocaine is great for a sore throat. I also like to have a menthol inhaler stick for congestion. You can also save a bottle of Jack Daniels or other whiskey from your plane ride.
+- **Anti-cold/flu**: I like to have some daytime/nighttime cold medication pills like NyQuill. I also am a fan of [Zicam](http://www.zicam.com/) which works for me. In addition, a Cepacol lozenge, or something that has benzocaine is great for a sore throat. I also like to have a menthol inhaler stick for congestion. You can also save a bottle of Jack Daniels or other whiskey from your plane ride.
 - **Ointment and Creams**: Take plenty of lotions (planes are very dehydrating). I am a fan of Aveeno and also unscented Shea butter products like [Out of Africa](http://outofafricashea.com/). Burts Bees lip balms are also good for winter travel. [Bubble bath](http://www.mrbubble.com/) products can be brought in your checked bags, or you can carry a small amount for shorter trips. Of course Frankincense, Myrrh, Sage, and other oils are a must. Don't forget anti mosquito creams like [Odomos](http://odomosprotect.com/) - mosquitos are everywhere, [for now](https://www.nature.com/news/gene-drive-mosquitoes-engineered-to-fight-malaria-1.18858).
-- **Things you may not think you need**: You don't know where to find a pharmacist, or you may have difficulty communicating. See the [CDC](https://wwwnc.cdc.gov/travel) for country-specific recommendations - Anti-diarrheal, Anti-allergy (I never had an attack until one foreign trip), dental filling repair kit, etc.
+- **Things you may not think you need**: Especially in a foreign country, you may not know where to find a pharmacist, or you may have difficulty communicating. See the [CDC](https://wwwnc.cdc.gov/travel) for country-specific recommendations - including an Anti-diarrheal and Anti-allergy (I never had an allergy attack until one foreign trip), dental filling repair kit, etc.
 
 
 **Travel Phrase Book**
@@ -290,10 +297,14 @@ for additions or corrections to translations so please submit a pull request.
 |"Do you know who I am?!"|你知道我是谁吗?!|
 |"Are you out of your mind? I am a citizen of the United States of America!"|你疯了吗？我是美国公民！|
 |"S/he's not expected to survive, I did everything I could"😏|他/她没有预期的生存，我尽我所能😏|
-|"I can't be connected to （this） in any way"|跟（这个）一点关系我要都没有|
+|"I can't be connected to（this）in any way"|跟（这个）一点关系我要都没有|
 |"Send a message to our listening posts..."|发送消息给我们的聆听帖子|
 |"I deserve the best!"|我应该得到最好的！|
 |"I thought it would amuse me"|我认为这会让我愉快|
 |"If I go down, you'll lose everything"|如果我失败，你会失去一切|
 |"I don't have time for this nonsense"|这个废话我没有时间了|
 |"I'll have another (beverage)"|再一杯！|
+|"I'm feeling attacked!"|我感觉到被攻击了!|
+|“I find accusations that I stole the cake, insulting and provocative”|我觉得无礼的传闻我偷了蛋糕是完全辱骂的，挑衅的。|
+|"By this time tomorrow, every cupcake within 1000 miles will be mine."|明天这个时间，每一个1000英里以内的纸杯蛋糕都将是我的。|
+|“Make it look like an accident”|使（它）看上去像一个事故了。|
