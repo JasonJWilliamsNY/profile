@@ -167,11 +167,13 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 
 |Role|Year|
 |----|----|
+|[Biodiversity Literacy in Undergraduate Education, NSF RCN-UBE](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1730526&HistoricalAwards=false) Steering Committee member|2018-|
 |**[NIH Data Commons](https://commonfund.nih.gov/bd2k/commons) - External Panel of Consultants**, National Institutes of Health|2017-|
 |**Steering Committee**: [Plantae](https://plantae.org/), American Society of Plant Biology/Global Plant Council|2017-|
 |**Chair**: International Science Advisory Group, [EMBL-Australian Bioinformatics Resource](https://www.embl-abr.org.au/)|2016-|
 |NSF RCN-UBE: [Network for Integrating Bioinformatics into Life Sciences Education (Bioinformatics Core Competencies Working Group)](https://qubeshub.org/groups/niblse)|2016-|
 |**Chair**: Steering Committee, [Software Carpentry Foundation](https://software-carpentry.org/)|2016-17|
+|[Open Bioinformatics Foundation](https://www.open-bio.org/wiki/Main_Page) Bioinformatics Open Source Conference Review Committee|2016-|
 |**Treasurer**: Steering Committee (founding committee) [Software Carpentry Foundation](https://software-carpentry.org/)|2015-16|
 |Software/[Data Carpentry](http://www.datacarpentry.org/) Instructor/Maintainer|2014-|
 |Founder, CSHL Biological Data Science Meeting|2014|
