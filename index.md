@@ -46,8 +46,8 @@ multi-day training events.
 |Chan-Zuckerberg Biohub|Data Carpentry: Ecology|San Francisco, CA||
 |University of New Orleans|Genomics Data Carpentry and CyVerse Tools and Services Workshops|New Orleans, LA||
 |University College, Dublin |Genomics Data Carpentry and Carpentry Con|Dublin, IE||
-|Bioinformatics Open Source Conference|Submitted: "Improving the Undergraduate Bioinformatics Curriculum"|Portland, OR||
-|Cold Spring Harbor Laboratory| Frontiers in Plant Science Course, Guest Instructor: Genomics Data Carpentry - Introduction to R|Cold Spring Harbor, NY||
+|Bioinformatics Open Source Conference|Submitted: "Improving the Undergraduate Bioinformatics Curriculum", **Panelist**: Awaiting final session title|Portland, OR||
+|Cold Spring Harbor Laboratory| Frontiers in Plant Science Course, **Invited Instructor**: Genomics Data Carpentry - Introduction to R|Cold Spring Harbor, NY||
 |Cold Spring Harbor Laboratory|Genomics Data Carpentry and Machine Learning |Cold Spring Harbor, NY||
 |Plant Biology 2018|Submitted: "The Next 10 Years of Data-Driven Plant Biology"/ Data Carpentry and RNA-Seq Workshop|Montreal, CN||
 |Colorado State University|Genomics Data Carpentry and CyVerse Tools and Services Workshops|Ft. Collins, CO||
