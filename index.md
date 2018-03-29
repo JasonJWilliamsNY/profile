@@ -42,7 +42,7 @@ multi-day training events.
 |NSF INCLUDES summit|Broadening Participation with Bioinformatics, Big Data, and Data Science|Alexandria, VA|[poster](https://de.cyverse.org/dl/d/7B7B65EA-3777-4F90-BAAA-EF8F02D465A6/WILLIAMS_Includes_2_2017.pdf)|
 |International Plant and Animal Genome Meeting (PAG XXVI)|**Session Chair/Organizer** - CyVerse Education: DNA Subway, Data Science, and Microbial Genomics - CyVerse - Software, Tools, and Services for Data-Driven Discovery; BOF-Organizer: Machine Learning, Imaging, Containers, Clouds and APIs|San Diego, CA||
 |North Carolina State University|Genomics Data Carpentry and CyVerse Tools and Services Workshops|Raleigh, NC||
-|ASPB Southern Section Regional Meeting|Symposium Keynote: "Data, Data Everywhere, Nor Any a Drop to Drink"|New Orleans, LA|[slides](https://de.cyverse.org/dl/d/0265EAF0-562B-4A26-8096-8E1AD6873E60/WILLIAMS_march_2018_aspb_ss_Keynote_small.pptx)|
+|ASPB Southern Section Regional Meeting| **Symposium Keynote Speaker**: "Data, Data Everywhere, Nor Any a Drop to Drink"|New Orleans, LA|[slides](https://de.cyverse.org/dl/d/0265EAF0-562B-4A26-8096-8E1AD6873E60/WILLIAMS_march_2018_aspb_ss_Keynote_small.pptx)|
 |Chan-Zuckerberg Biohub|Data Carpentry: Ecology|San Francisco, CA||
 |University of New Orleans|Genomics Data Carpentry and CyVerse Tools and Services Workshops|New Orleans, LA||
 |University College, Dublin |Genomics Data Carpentry and Carpentry Con|Dublin, IE||
