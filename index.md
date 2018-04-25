@@ -168,18 +168,18 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 
 |Role|Year|
 |----|----|
-|[NIH-NHLBI](https://www.nhlbi.nih.gov/) Data STAGE (Storage, Toolspace, Access and analytics for biG data Empowerment) - External Panel of Consultants**, National Institutes of Health|2018-|
-|[Biodiversity Literacy in Undergraduate Education, NSF RCN-UBE](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1730526&HistoricalAwards=false) Steering Committee member|2018-|
-|**[NIH Data Commons](https://commonfund.nih.gov/bd2k/commons) - External Panel of Consultants**, National Institutes of Health|2017-|
-|**Steering Committee**: [Plantae](https://plantae.org/), American Society of Plant Biology/Global Plant Council|2017-|
-|**Chair**: International Science Advisory Group, [EMBL-Australian Bioinformatics Resource](https://www.embl-abr.org.au/)|2016-|
-|NSF RCN-UBE: [Network for Integrating Bioinformatics into Life Sciences Education (Bioinformatics Core Competencies Working Group)](https://qubeshub.org/groups/niblse)|2016-|
-|**Chair**: Steering Committee, [Software Carpentry Foundation](https://software-carpentry.org/)|2016-17|
-|[Open Bioinformatics Foundation](https://www.open-bio.org/wiki/Main_Page) Bioinformatics Open Source Conference Review Committee|2016-|
-|**Treasurer**: Steering Committee (founding committee) [Software Carpentry Foundation](https://software-carpentry.org/)|2015-16|
-|Software/[Data Carpentry](http://www.datacarpentry.org/) Instructor/Maintainer|2014-|
-|Founder, CSHL Biological Data Science Meeting|2014|
-|Scientific Training Advisory Board, The Genome Analysis Centre, Norwich, UK|2013-15|
+| **External Panel of Consultants**:[National Institutes of Health-NHLBI](https://www.nhlbi.nih.gov/) Data STAGE (Storage, Toolspace, Access and analytics for biG data Empowerment)|2018-|
+| **Steering Committee member**: [Biodiversity Literacy in Undergraduate Education, NSF RCN-UBE](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1730526&HistoricalAwards=false) |2018-|
+| **External Panel of Consultants**: [National Institutes of Health Data Commons](https://commonfund.nih.gov/bd2k/commons) |2017-|
+| **Steering Committee member**: [Plantae](https://plantae.org/), American Society of Plant Biology/Global Plant Council|2017-|
+| **Chair**: International Science Advisory Group, [EMBL-Australian Bioinformatics Resource](https://www.embl-abr.org.au/)|2016-|
+| **Member**: NSF RCN-UBE: [Network for Integrating Bioinformatics into Life Sciences Education (Bioinformatics Core Competencies Working Group)](https://qubeshub.org/groups/niblse)|2016-|
+| **Steerting Committe Chair**: [Software Carpentry Foundation](https://software-carpentry.org/)|2016-17|
+| **Conference Review Committee member**: [Open Bioinformatics Foundation](https://www.open-bio.org/wiki/Main_Page) Bioinformatics Open Source Conference |2016-|
+| **Steering Committee Treasurer**: [Software Carpentry Foundation](https://software-carpentry.org/)- (Founding Committee) |2015-16|
+| **Trainer/Instructor/Maintainer**: Software/[Data Carpentry](http://www.datacarpentry.org/) |2014-|
+| **Founder**: CSHL Biological Data Science Meeting|2014|
+| **Scientific Training Advisory Board member**: The Genome Analysis Centre [Currently - Earlham Institute], Norwich, UK|2013-15|
 
 ## Things to Fund
 Any takers?
