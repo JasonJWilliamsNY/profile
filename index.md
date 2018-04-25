@@ -45,8 +45,9 @@ multi-day training events.
 |ASPB Southern Section Regional Meeting| **Symposium Keynote Speaker**: "Data, Data Everywhere, Nor Any a Drop to Drink"|New Orleans, LA|[slides](https://de.cyverse.org/dl/d/0265EAF0-562B-4A26-8096-8E1AD6873E60/WILLIAMS_march_2018_aspb_ss_Keynote_small.pptx)|
 |Chan-Zuckerberg Biohub|Data Carpentry: Ecology|San Francisco, CA||
 |University of New Orleans|Genomics Data Carpentry and CyVerse Tools and Services Workshops|New Orleans, LA||
+|Amazon Research| **Invited Seminar**: "Scaling Science by Scaling People, Purpose-built Cyberinfrastructure for the Life Sciences"|Cambridge, UK|
 |University College, Dublin |Genomics Data Carpentry and Carpentry Con|Dublin, IE||
-|Bioinformatics Open Source Conference|Submitted: "Improving the Undergraduate Bioinformatics Curriculum", **Panelist**: Awaiting final session title|Portland, OR||
+|Bioinformatics Open Source Conference|Talk: "Improving the Undergraduate Bioinformatics Curriculum", **Panelist**: Awaiting final session title|Portland, OR||
 |Cold Spring Harbor Laboratory| Frontiers in Plant Science Course, **Invited Instructor**: Genomics Data Carpentry - Introduction to R|Cold Spring Harbor, NY||
 |Cold Spring Harbor Laboratory|Genomics Data Carpentry and Machine Learning |Cold Spring Harbor, NY||
 |Plant Biology 2018|Submitted: "The Next 10 Years of Data-Driven Plant Biology"/ Data Carpentry and RNA-Seq Workshop|Montreal, CN||
@@ -167,6 +168,7 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 
 |Role|Year|
 |----|----|
+|[NIH-NHLBI](https://www.nhlbi.nih.gov/) Data STAGE (Storage, Toolspace, Access and analytics for biG data Empowerment) - External Panel of Consultants**, National Institutes of Health|2018-|
 |[Biodiversity Literacy in Undergraduate Education, NSF RCN-UBE](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1730526&HistoricalAwards=false) Steering Committee member|2018-|
 |**[NIH Data Commons](https://commonfund.nih.gov/bd2k/commons) - External Panel of Consultants**, National Institutes of Health|2017-|
 |**Steering Committee**: [Plantae](https://plantae.org/), American Society of Plant Biology/Global Plant Council|2017-|
