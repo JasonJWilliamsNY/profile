@@ -179,7 +179,7 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 | **Steering Committee Treasurer**: [Software Carpentry Foundation](https://software-carpentry.org/)- (Founding Committee) |2015-16|
 | **Trainer/Instructor/Maintainer**: Software/[Data Carpentry](http://www.datacarpentry.org/) |2014-|
 | **Founder**: CSHL Biological Data Science Meeting|2014|
-| **Scientific Training Advisory Board member**: The Genome Analysis Centre [Currently - Earlham Institute], Norwich, UK|2013-15|
+| **Scientific Training Advisory Board member**: The Genome Analysis Centre [Currently - Earlham Institute](http://www.earlham.ac.uk/), Norwich, UK|2013-15|
 
 ## Things to Fund
 Any takers?
