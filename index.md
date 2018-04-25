@@ -46,7 +46,8 @@ multi-day training events.
 |Chan-Zuckerberg Biohub|Data Carpentry: Ecology|San Francisco, CA||
 |University of New Orleans|Genomics Data Carpentry and CyVerse Tools and Services Workshops|New Orleans, LA||
 |Amazon Research| **Invited Seminar**: "Scaling Science by Scaling People, Purpose-built Cyberinfrastructure for the Life Sciences"|Cambridge, UK|
-|University College, Dublin |Genomics Data Carpentry and Carpentry Con|Dublin, IE||
+|University College, Dublin |Genomics Data Carpentry and Carpentry Con|Dublin, IE|
+|City University of New York|Software Carpentry Workshop|Brooklyn, NY||
 |Bioinformatics Open Source Conference|Talk: "Improving the Undergraduate Bioinformatics Curriculum", **Panelist**: Awaiting final session title|Portland, OR||
 |Cold Spring Harbor Laboratory| Frontiers in Plant Science Course, **Invited Instructor**: Genomics Data Carpentry - Introduction to R|Cold Spring Harbor, NY||
 |Cold Spring Harbor Laboratory|Genomics Data Carpentry and Machine Learning |Cold Spring Harbor, NY||
@@ -177,7 +178,7 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 | **Steerting Committe Chair**: [Software Carpentry Foundation](https://software-carpentry.org/)|2016-17|
 | **Conference Review Committee member**: [Open Bioinformatics Foundation](https://www.open-bio.org/wiki/Main_Page) Bioinformatics Open Source Conference |2016-|
 | **Steering Committee Treasurer**: [Software Carpentry Foundation](https://software-carpentry.org/)- (Founding Committee) |2015-16|
-| **Trainer/Instructor/Maintainer**: Software/[Data Carpentry](http://www.datacarpentry.org/) |2014-|
+| **Trainer/Instructor/Maintainer**: [The Carpentries](https://carpentries.org/) - Software and Data Carpentry |2014-|
 | **Founder**: CSHL Biological Data Science Meeting|2014|
 | **Scientific Training Advisory Board member**: The Genome Analysis Centre [Currently - Earlham Institute](http://www.earlham.ac.uk/), Norwich, UK|2013-15|
 
