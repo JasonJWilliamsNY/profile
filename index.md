@@ -199,8 +199,22 @@ An acceptable photo for your press releases
 
 If you are introducing me at a talk, feel free to use (or not) the following:
 
-Jason is Assistant Director, External Collaborations, at Cold Spring Harbor Laboratory's DNA Learning Center. and is the Education, Outreach, and Training lead for CyVerse (A U.S. national life science cyberinfrastructure funded by NSF). Jason's background and training is in molecular biology and plant genetics. Jason organizes, instructs, and speaks at a variety of bioinformatics workshops, conferences, and meetings annually. Jason also serves on committees and boards for several projects that advance science and science education. He is also a Software and Data Carpentry Instructor and
-a teacher at the Yeshiva University High School for Girls.
+Jason is Assistant Director, External Collaborations of Cold Spring Harbor
+Laboratory’s DNA Learning Center, and is the Education, Outreach, and Training
+lead for CyVerse (A U.S. national life science cyberinfrastructure funded by
+NSF). Jason organizes, instructs, and speaks at a variety of
+bioinformatics-related workshops, conferences, and meetings annually. He also
+serves in an advisory capacity on a variety of bioinformatics and open science
+projects including his service as Chair of the International Science Advisory
+Board for EMBL-Australian Bioinformatics Resource, and service on the External
+Panel of Consultants to the National Institutes of Health (NIH) Data Commons
+Initiative and the NIH’s National Heart Lung and Blood Institute’s Data STAGE
+(Storage, Toolspace, Access and analytics for biG data Empowerment). He is an
+active Software and Data Carpentry instructor, and a former Chair of the
+Software Carpentry foundation (an international organization of researchers
+that promote training and education in software development, scientific data
+management, and open science). Jason is also a teaching at the Yeshiva
+University High School for Girls.
 
 
 
