@@ -22,7 +22,7 @@ also get to teach my own science course a few hours a week at
 - **[Selected Publications and Products](https://jasonjwilliamsny.github.io/profile/#selected-publications-and-products)**
 - **[Things to Fund](https://jasonjwilliamsny.github.io/profile/#things-to-fund)**
 - **[Academic and Community Service](https://jasonjwilliamsny.github.io/profile/#academic-and-community-service)**
-- **[Photo and Speaker's Bio](https://jasonjwilliamsny.github.io/profile/#photo-and-speakers-bio)**
+- **[Photo and Speaker's Bio](https://jasonjwilliamsny.github.io/profile/#photo-and-speaking-bio)**
 - **[Other Things](https://jasonjwilliamsny.github.io/profile/#other-things)**
   - **[Travel Tips and Recommendations](https://jasonjwilliamsny.github.io/profile/#travel-tips-and-recommendations)**
 
