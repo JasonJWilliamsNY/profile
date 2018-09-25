@@ -22,7 +22,7 @@ also get to teach my own science course a few hours a week at
 - **[Selected Publications and Products](https://jasonjwilliamsny.github.io/profile/#selected-publications-and-products)**
 - **[Things to Fund](https://jasonjwilliamsny.github.io/profile/#things-to-fund)**
 - **[Academic and Community Service](https://jasonjwilliamsny.github.io/profile/#academic-and-community-service)**
-- **[Photo and Speaker's Bio](https://jasonjwilliamsny.github.io/profile/#photo-and-speakers-bio)**
+- **[Photo and Speaker's Bio](https://jasonjwilliamsny.github.io/profile/#photo-and-speaking-bio)**
 - **[Other Things](https://jasonjwilliamsny.github.io/profile/#other-things)**
   - **[Travel Tips and Recommendations](https://jasonjwilliamsny.github.io/profile/#travel-tips-and-recommendations)**
 
@@ -51,8 +51,10 @@ multi-day training events.
 |Bioinformatics Open Source Conference|Talk: "Improving the Undergraduate Bioinformatics Curriculum", **Panelist**: Awaiting final session title|Portland, OR||
 |Cold Spring Harbor Laboratory| Frontiers in Plant Science Course, **Invited Instructor**: Genomics Data Carpentry - Introduction to R|Cold Spring Harbor, NY||
 |Cold Spring Harbor Laboratory|Genomics Data Carpentry and Machine Learning |Cold Spring Harbor, NY||
-|Plant Biology 2018|Submitted: "The Next 10 Years of Data-Driven Plant Biology"/ Data Carpentry and RNA-Seq Workshop|Montreal, CN||
+|Plant Biology 2018|Poster: "The Next 10 Years of Data-Driven Plant Biology"/ Data Carpentry and RNA-Seq Workshop|Montreal, CN||
 |Colorado State University|Genomics Data Carpentry and CyVerse Tools and Services Workshops|Ft. Collins, CO||
+|CSHL Biological Data Science|**Submitted Abstract**|Cold Spring Harbor, NY||
+|BioInfoSummer|**Invited Instructor**|Perth, AU||
 |Earlham Institute|CyVerse UK Workshop|Norwich, UK||
 
 ## 2017
@@ -153,6 +155,10 @@ multi-day training events.
 |Cold Spring Harbor Laboratory|iPlant Train-the-Trainers|Cold Spring Harbor, NY||
 
 ## Selected Publications and Products
+
+-**[AgBioData consortium recommendations for sustainable genomics and genetics databases for agriculture](https://doi.org/10.1093/database/bay088)**
+Lisa Harper, Jacqueline Campbell, Ethalinda K S Cannon, Sook Jung, Monica Poelchau, Ramona Walls, Carson Andorf, Elizabeth Arnaud, Tanya Z Berardini, Clayton Birkett, Steve Cannon, James Carson, Bradford Condon, Laurel Cooper, Nathan Dunn, Christine G Elsik, Andrew Farmer, Stephen P Ficklin, David Grant, Emily Grau, Nic Herndon, Zhi-Liang Hu, Jodi Humann, Pankaj Jaiswal, Clement Jonquet, Marie-Angélique Laporte, Pierre Larmande, Gerard Lazo, Fiona McCarthy, Naama Menda, Christopher J Mungall, Monica C Munoz-Torres, Sushma Naithani, Rex Nelson, Daureen Nesdill, Carissa Park, James Reecy, Leonore Reiser, Lacey-Anne Sanderson, Taner Z Sen, Margaret Staton, Sabarinath Subramaniam, Marcela Karey Tello-Ruiz, Victor Unda, Deepak Unni, Liya Wang, Doreen Ware, Jill Wegrzyn, Jason Williams, Margaret Woodhouse, Jing Yu, Doreen Main
+Database, Volume 2018, 1 January 2018, Pages 1–32
 -  **[Pre-print: Barriers to Integration of Bioinformatics into Undergraduate Life Sciences Education](https://doi.org/10.1101/204420 )**
 Jason Williams, Jennifer Drew, Sebastian Galindo-Gonzalez, Srebrenka Robic, Elizabeth Dinsdale, William Morgan, Eric Triplett, James Burnette, Sam Donovan, Sarah Elgin, Edison Fowlks, Anya Goodman, Neal Grandgenett, Carlos Goller, Charles Hauser, John R. Jungck, Jeffrey Newman, William Pearson, Elizabeth Ryder, Melissa Wilson Sayres, Michael Sierk, Todd Smith, Rafael Tosado-Acevedo, William Tapprich, Tammy Tobin, Arlin Toro-Martínez, Lonnie Welch, Robin Wright, David Ebenbach, Mindy McWilliams, Anne Rosenwald, Mark Pauley
 bioRxiv 204420; doi: https://doi.org/10.1101/204420
@@ -169,6 +175,7 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 
 |Role|Year|
 |----|----|
+| **Science and Industry Advisory Board member**:[ELIXIR UK](http://www.elixiruknode.org/)|2018-|
 | **External Panel of Consultants**:[National Institutes of Health-NHLBI](https://www.nhlbi.nih.gov/) Data STAGE (Storage, Toolspace, Access and analytics for biG data Empowerment)|2018-|
 | **Steering Committee member**: [Biodiversity Literacy in Undergraduate Education, NSF RCN-UBE](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1730526&HistoricalAwards=false) |2018-|
 | **External Panel of Consultants**: [National Institutes of Health Data Commons](https://commonfund.nih.gov/bd2k/commons) |2017-|
@@ -199,8 +206,22 @@ An acceptable photo for your press releases
 
 If you are introducing me at a talk, feel free to use (or not) the following:
 
-Jason is Assistant Director, External Collaborations, at Cold Spring Harbor Laboratory's DNA Learning Center. and is the Education, Outreach, and Training lead for CyVerse (A U.S. national life science cyberinfrastructure funded by NSF). Jason's background and training is in molecular biology and plant genetics. Jason organizes, instructs, and speaks at a variety of bioinformatics workshops, conferences, and meetings annually. Jason also serves on committees and boards for several projects that advance science and science education. He is also a Software and Data Carpentry Instructor and
-teaches at the Yeshiva University High School for Girls.
+Jason is Assistant Director, External Collaborations of Cold Spring Harbor
+Laboratory’s DNA Learning Center, and is the Education, Outreach, and Training
+lead for CyVerse (A U.S. national life science cyberinfrastructure funded by
+NSF). Jason organizes, instructs, and speaks at a variety of
+bioinformatics-related workshops, conferences, and meetings annually. He also
+serves in an advisory capacity on a variety of bioinformatics and open science
+projects including his service as Chair of the International Science Advisory
+Board for EMBL-Australian Bioinformatics Resource, and service on the External
+Panel of Consultants to the National Institutes of Health (NIH) Data Commons
+Initiative and the NIH’s National Heart Lung and Blood Institute’s Data STAGE
+(Storage, Toolspace, Access and analytics for biG data Empowerment). He is an
+active Software and Data Carpentry instructor, and a former Chair of the
+Software Carpentry foundation (an international organization of researchers
+that promote training and education in software development, scientific data
+management, and open science). Jason is also a teaching at the Yeshiva
+University High School for Girls.
 
 
 
