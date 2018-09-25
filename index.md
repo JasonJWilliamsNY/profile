@@ -176,11 +176,11 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 |Role|Year|
 |----|----|
 | **Science and Industry Advisory Board member**: [ELIXIR UK](http://www.elixiruknode.org/)|2018-|
-| **External Panel of Consultants**:[National Institutes of Health-NHLBI](https://www.nhlbi.nih.gov/) Data STAGE (Storage, Toolspace, Access and analytics for biG data Empowerment)|2018-|
+| **External Panel of Consultants**: [National Institutes of Health-NHLBI](https://www.nhlbi.nih.gov/) Data STAGE (Storage, Toolspace, Access and analytics for biG data Empowerment)|2018-|
 | **Steering Committee member**: [Biodiversity Literacy in Undergraduate Education, NSF RCN-UBE](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1730526&HistoricalAwards=false) |2018-|
 | **External Panel of Consultants**: [National Institutes of Health Data Commons](https://commonfund.nih.gov/bd2k/commons) |2017-|
 | **Steering Committee member**: [Plantae](https://plantae.org/), American Society of Plant Biology/Global Plant Council|2017-|
-| **Chair**: International Science Advisory Group, [EMBL-Australian Bioinformatics Resource](https://www.embl-abr.org.au/)|2016-|
+| **Chair, International Science Advisory Group**: [EMBL-Australian Bioinformatics Resource](https://www.embl-abr.org.au/)|2016-|
 | **Member**: NSF RCN-UBE: [Network for Integrating Bioinformatics into Life Sciences Education (Bioinformatics Core Competencies Working Group)](https://qubeshub.org/groups/niblse)|2016-|
 | **Steerting Committe Chair**: [Software Carpentry Foundation](https://software-carpentry.org/)|2016-17|
 | **Conference Review Committee member**: [Open Bioinformatics Foundation](https://www.open-bio.org/wiki/Main_Page) Bioinformatics Open Source Conference |2016-|
@@ -194,7 +194,9 @@ Any takers?
 
 - [The Genomics Education Alliance - Pre-print](https://figshare.com/articles/A_Genomics_Education_Alliance/5197228) is a white paper for bringing together several
   genomics education initiatives to develop course-based research experiences.
-  **$500K + over 3-4 years depending on implementation**
+  *$500K + over 3-4 years depending on implementation*
+  **Update: [Funded](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1827130&HistoricalAwards=false), future info [here](https://qubeshub.org/community/groups/gea)**
+  *Will be looking for future implementation funding for GEA*
 - [Broadening the Pipeline: Best Practices for Training in Biomedical Data Science](https://github.com/JasonJWilliamsNY/profile/raw/master/docs/conference_plan.pdf) is a plan
   for organizing experts and communities to improve training in biomedical data science/
   bioinformatics while broadening participation. **$300K over 2 years**
