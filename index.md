@@ -85,8 +85,8 @@ multi-day training events.
 |Cold Spring Harbor Laboratory|Genomics Data Carpentry and Machine Learning |Cold Spring Harbor, NY||
 |Plant Biology 2018|Poster: "The Next 10 Years of Data-Driven Plant Biology"/ Data Carpentry and RNA-Seq Workshop|Montreal, CN||
 |Colorado State University|Genomics Data Carpentry and CyVerse Tools and Services Workshops|Ft. Collins, CO||
-|CSHL Biological Data Science|**Submitted Abstract**|Cold Spring Harbor, NY||
-|BioInfoSummer|**Invited Instructor**|Perth, AU||
+|CSHL Biological Data Science|*Poster*: "Improving the Bioinformatics Curriculum" |Cold Spring Harbor, NY||
+|BioInfoSummer|**Invited Keynote**:"Improving the Bioinformatics Curriculum" **Invited Instructor**: "Introduction to Kallisto and Sleuth RNA-Seq Workflows -Bulk and Single-cell RNA-Seq applications"|Perth, AU||
 |Earlham Institute|CyVerse UK Workshop|Norwich, UK||
 
 ## 2017
