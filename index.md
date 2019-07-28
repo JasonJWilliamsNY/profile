@@ -80,7 +80,8 @@ multi-day training events.
 |University of New Orleans|Genomics Data Carpentry and CyVerse Tools and Services Workshops|New Orleans, LA||
 |Amazon Research| **Invited Seminar**: "Scaling Science by Scaling People, Purpose-built Cyberinfrastructure for the Life Sciences"|Cambridge, UK|
 |University College, Dublin |Genomics Data Carpentry and Carpentry Con|Dublin, IE|
-|Bioinformatics Open Source Conference|Talk: "Improving the Undergraduate Bioinformatics Curriculum", **Panelist**: Awaiting final session title|Portland, OR||
+|Bioinformatics Open Source Conference/Galaxy Community Conference|**Joint Session Talk**: "Improving the Undergraduate Bioinformatics Curriculum", **Panelist**: Training and Documentation in Bioinformatics
+|Portland, OR||
 |Cold Spring Harbor Laboratory| Frontiers in Plant Science Course, **Invited Instructor**: Genomics Data Carpentry - Introduction to R|Cold Spring Harbor, NY||
 |Cold Spring Harbor Laboratory|Genomics Data Carpentry and Machine Learning |Cold Spring Harbor, NY||
 |Plant Biology 2018|Poster: "The Next 10 Years of Data-Driven Plant Biology"/ Data Carpentry and RNA-Seq Workshop|Montreal, CN||
