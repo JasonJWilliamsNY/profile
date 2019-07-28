@@ -1,9 +1,11 @@
-# Professional Profile
+archived# Professional Profile
 
     "You're like a celebrity that isn't famous"
     - E.M.; The 2nd best compliment I've ever received
     "Pull back three curtains and there's Jason"
     - C.T.B.; The 5th best compliment I've ever received
+    "You are an NBC sitcom but the writers room has the good cocaine"
+    - C.K.; The 17th best compliment I've ever received
 
 An incomplete list of things I do and have done, if you have to know for some
 reason.
@@ -13,9 +15,15 @@ at the bench in the Plant Science group and currently as Assistant Director,
 External Collaborations of the lab's [DNA Learning Center](http://www.dnalc.org). I
 also get to teach my own science course a few hours a week at
 [Yeshiva University High School for Girls](http://www.yushg.org).
-
+I think helping scientists keep up with changing technology is one of the most
+important things we can do to accelerate research. Moreover I think this can
+be sustainably achieved by building, supporting, and promoting the people who
+do this training - hence my founding of the group [Life Science Trainers](https://lifescitrainers.org/),
+a global community of practice for short-format training in the life sciences (
+open to anyone who provides training for life scientists).
 
 - **Workshops, Talks, Teaching, and Presentations**
+  - [2019](https://jasonjwilliamsny.github.io/profile/#2018)
   - [2018](https://jasonjwilliamsny.github.io/profile/#2018)
   - [2017](https://jasonjwilliamsny.github.io/profile/#2017)
   - [2016](https://jasonjwilliamsny.github.io/profile/#2016)
@@ -35,6 +43,29 @@ iPlant Collaborative), a project I work on that brings cyberinfrastructure to bi
 I am their Education, Outreach, and Training lead, so I get to help lots of
 biologists use computation in their teaching and research. Workshops are mainly
 multi-day training events.
+
+## 2019
+(includes scheduled events)
+
+|Venue|Presentation|Location|Notes|
+|------------|-----|--------|-----|
+|International Plant and Animal Genome Meeting (PAG XXVII)|**Session Chair/Organizer** - Advanced Computational Methods – Machine Learning, Containers, and Clouds|San Diego, CA||
+|International Plant and Animal Genome Meeting (PAG XXVII)|**Session Chair/Organizer** - CyVerse - Software, Tools, and Services for Data-Driven Discovery, Data Science, and Education|San Diego, CA||
+|International Plant and Animal Genome Meeting (PAG XXVII)|**Session Chair** - Resources and Programs for Undergraduate Education in Genomics|San Diego, CA||
+|International Plant and Animal Genome Meeting (PAG XXVII)|**Session Organizer** - Pragmatic solutions for scaling your analysis: Machine Learning, Imaging, Containers, Clouds and APIs|San Diego, CA||
+|5th Annual Meeting of the Arkansas Bioinformatics Consortium|**Invited Workshop**: Extensible Cyberinfrastructure for Life Science|Little Rock, AR||
+|Environmental Data Science Inclusion Network|*Lightning Talk*: Broadening Participation with Bioinformatics, Big Data, and Data Science|Boulder, CO||
+|CyVerse Foundational Open Source Skills Camp|Workshop developer|Tucson, AZ|[Course materials](https://cyverse-foundational-open-science-skills-2019.readthedocs-hosted.com/en/latest/)|
+|Genomics Data Carpentry - Genomics 2.0 Lesson Release Workshop|Workshop organizer/instructor|Tucson, AZ||
+|Cold Spring Harbor Laboratory| Frontiers in Plant Science Course, **Invited Instructor**: Introduction to R|Cold Spring Harbor, NY||
+|International Society for Computational Biology: Joint Annual meeting - 27th Intelligent Systems for Molecular Biology/ 18th European Conference on Computational Biology|**Invited Opening Keynote**: Education COSI - "Training, Teaching, Technology, Togetherness – Promoting Knowledge Exchange in Life Sciences Through Communities of Practice"|Basel, Switzerland|[slides](http://bit.ly/jwny-ismbeccb)|
+|International Society for Computational Biology: Joint Annual meeting - 27th Intelligent Systems for Molecular Biology/ 18th European Conference on Computational Biology|**Invited Speaker**: Scalable Plant-Research in Cloud Environments - "Overview of CyVerse tools and services: introduction to data/metadata management and sharing with CyVerse"|Basel, Switzerland|[slides](http://bit.ly/jwny-ismbeccb)|
+|International Society for Computational Biology: Joint Annual meeting - 27th Intelligent Systems for Molecular Biology/ 18th European Conference on Computational Biology|*Lightning Talk*: The Data Carpentry Genomics Curriculum: Overview and Impact"|Basel, Switzerland||
+|Swiss Institute of Bioinformatics|**Invited Seminar**: "Cyberinfrastructure for Scaling Research, Education, and People"|Lausanne, Switzerland||
+|CyVerse Foundational Open Science Skills: Practical Data and Software Skills for Reproducible Research|Workshop organizer/instructor|Rome, Italy|[Announcement and materials](https://cyverse-cyverse-data-and-software-management-workshop.readthedocs-hosted.com/en/latest/)|
+|||||
+
+
 
 ## 2018
 (includes scheduled events)
@@ -176,6 +207,8 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 
 |Role|Year|
 |----|----|
+|**Curriculum Advisory Board**: [Health Data Research UK](https://www.hdruk.ac.uk/)|2019- |
+|**Founder**: [LifeSciTrainers.org](https://lifescitrainers.org/)/LifeSciTrainer Slack|2018|
 | **Science and Industry Advisory Board member**: [ELIXIR UK](http://www.elixiruknode.org/)|2018-|
 | **External Panel of Consultants**: [National Institutes of Health-NHLBI](https://www.nhlbi.nih.gov/) Data STAGE (Storage, Toolspace, Access and analytics for biG data Empowerment)|2018-|
 | **Steering Committee member**: [Biodiversity Literacy in Undergraduate Education, NSF RCN-UBE](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1730526&HistoricalAwards=false) |2018-|
@@ -183,7 +216,7 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 | **Steering Committee member**: [Plantae](https://plantae.org/), American Society of Plant Biology/Global Plant Council|2017-|
 | **Chair, International Science Advisory Group**: [EMBL-Australian Bioinformatics Resource](https://www.embl-abr.org.au/)|2016-|
 | **Member**: NSF RCN-UBE: [Network for Integrating Bioinformatics into Life Sciences Education (Bioinformatics Core Competencies Working Group)](https://qubeshub.org/groups/niblse)|2016-|
-| **Steerting Committe Chair**: [Software Carpentry Foundation](https://software-carpentry.org/)|2016-17|
+| **Steering Committee Chair**: [Software Carpentry Foundation](https://software-carpentry.org/)|2016-17|
 | **Conference Review Committee member**: [Open Bioinformatics Foundation](https://www.open-bio.org/wiki/Main_Page) Bioinformatics Open Source Conference |2016-|
 | **Steering Committee Treasurer**: [Software Carpentry Foundation](https://software-carpentry.org/)- (Founding Committee) |2015-16|
 | **Trainer/Instructor/Maintainer**: [The Carpentries](https://carpentries.org/) - Software and Data Carpentry |2014-|
@@ -216,15 +249,15 @@ NSF). Jason organizes, instructs, and speaks at a variety of
 bioinformatics-related workshops, conferences, and meetings annually. He also
 serves in an advisory capacity on a variety of bioinformatics and open science
 projects including his service as Chair of the International Science Advisory
-Board for EMBL-Australian Bioinformatics Resource, and service on the External
-Panel of Consultants to the National Institutes of Health (NIH) Data Commons
-Initiative and the NIH’s National Heart Lung and Blood Institute’s Data STAGE
+Board for EMBL-Australian Bioinformatics Resource, and service on the  National
+Institutes of Health (NIH) National Heart Lung and Blood Institute’s Data STAGE
 (Storage, Toolspace, Access and analytics for biG data Empowerment). He is an
 active Software and Data Carpentry instructor, and a former Chair of the
 Software Carpentry foundation (an international organization of researchers
 that promote training and education in software development, scientific data
-management, and open science). Jason is also a teaching at the Yeshiva
-University High School for Girls.
+management, and open science). He is the founder of LifeSciTrainers.org,
+a global community of practice for short-format training in the life sciences.
+Jason is also a teacher at the Yeshiva University High School for Girls.
 
 
 
