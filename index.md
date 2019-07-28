@@ -242,6 +242,7 @@ An acceptable photo for your press releases
 
 If you are introducing me at a talk, feel free to use (or not) the following:
 
+
 Jason is Assistant Director, External Collaborations of Cold Spring Harbor
 Laboratory’s DNA Learning Center, and is the Education, Outreach, and Training
 lead for CyVerse (A U.S. national life science cyberinfrastructure funded by
@@ -258,8 +259,6 @@ that promote training and education in software development, scientific data
 management, and open science). He is the founder of LifeSciTrainers.org,
 a global community of practice for short-format training in the life sciences.
 Jason is also a teacher at the Yeshiva University High School for Girls.
-
-
 
 ## Other Things
 
