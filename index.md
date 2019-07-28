@@ -68,7 +68,6 @@ multi-day training events.
 
 
 ## 2018
-(includes scheduled events)
 
 |Venue|Presentation|Location|Notes|
 |------------|-----|--------|-----|
@@ -90,7 +89,6 @@ multi-day training events.
 |Earlham Institute|CyVerse UK Workshop|Norwich, UK||
 
 ## 2017
-(includes scheduled events)
 
 |Venue|Presentation|Location|Notes|
 |------------|-----|--------|-----|
