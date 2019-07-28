@@ -62,8 +62,8 @@ multi-day training events.
 |International Society for Computational Biology: Joint Annual meeting - 27th Intelligent Systems for Molecular Biology/ 18th European Conference on Computational Biology|**Invited Speaker**: Scalable Plant-Research in Cloud Environments - "Overview of CyVerse tools and services: introduction to data/metadata management and sharing with CyVerse"|Basel, CH|[slides](http://bit.ly/jwny-ismbeccb)|
 |International Society for Computational Biology: Joint Annual meeting - 27th Intelligent Systems for Molecular Biology/ 18th European Conference on Computational Biology|*Lightning Talk*: The Data Carpentry Genomics Curriculum: Overview and Impact"|Basel, CH||
 |Swiss Institute of Bioinformatics|**Invited Seminar**: "Cyberinfrastructure for Scaling Research, Education, and People"|Lausanne, CH||
-|CyVerse Foundational Open Science Skills: Practical Data and Software Skills for Reproducible Research|Workshop organizer/instructor|Rome, Italy|[Announcement and materials](https://cyverse-cyverse-data-and-software-management-workshop.readthedocs-hosted.com/en/latest/)|
-|||||
+|CyVerse Foundational Open Science Skills: Practical Data and Software Skills for Reproducible Research|Workshop organizer/instructor|Rome, IT|[Announcement and materials](https://cyverse-cyverse-data-and-software-management-workshop.readthedocs-hosted.com/en/latest/)|
+
 
 
 
