@@ -213,10 +213,10 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 | **External Panel of Consultants**: [National Institutes of Health Data Commons](https://commonfund.nih.gov/bd2k/commons) |2017-|
 | **Steering Committee member**: [Plantae](https://plantae.org/), American Society of Plant Biology/Global Plant Council|2017-|
 | **Chair, International Science Advisory Group**: [EMBL-Australian Bioinformatics Resource](https://www.embl-abr.org.au/)|2016-|
-| **Member**: NSF RCN-UBE: [Network for Integrating Bioinformatics into Life Sciences Education (Bioinformatics Core Competencies Working Group)](https://qubeshub.org/groups/niblse)|2016-|
 | **Steering Committee Chair**: [Software Carpentry Foundation](https://software-carpentry.org/)|2016-17|
 | **Conference Review Committee member**: [Open Bioinformatics Foundation](https://www.open-bio.org/wiki/Main_Page) Bioinformatics Open Source Conference |2016-|
-| **Steering Committee Treasurer**: [Software Carpentry Foundation](https://software-carpentry.org/)- (Founding Committee) |2015-16|
+| **Steering Committee Treasurer**: [Software Carpentry Foundation](https://software-carpentry.org/)- (Founding Committee) |2015-16||
+|Science Advisory Board member - [NIBLSE](https://qubeshub.org/community/groups/niblse) Network for Integrating Bioinformatics into Life Science Education|2016-|
 | **Trainer/Instructor/Maintainer**: [The Carpentries](https://carpentries.org/) - Software and Data Carpentry |2014-|
 | **Founder**: CSHL Biological Data Science Meeting|2014|
 | **Scientific Training Advisory Board member**: The Genome Analysis Centre [Currently - Earlham Institute](http://www.earlham.ac.uk/), Norwich, UK|2013-15|
