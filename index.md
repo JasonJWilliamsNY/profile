@@ -62,7 +62,9 @@ multi-day training events.
 |International Society for Computational Biology: Joint Annual meeting - 27th Intelligent Systems for Molecular Biology/ 18th European Conference on Computational Biology|**Invited Speaker**: Scalable Plant-Research in Cloud Environments - "Overview of CyVerse tools and services: introduction to data/metadata management and sharing with CyVerse"|Basel, CH||
 |International Society for Computational Biology: Joint Annual meeting - 27th Intelligent Systems for Molecular Biology/ 18th European Conference on Computational Biology|*Lightning Talk*: The Data Carpentry Genomics Curriculum: Overview and Impact"|Basel, CH||
 |Swiss Institute of Bioinformatics|**Invited Seminar**: "Cyberinfrastructure for Scaling Research, Education, and People"|Lausanne, CH||
+|[GOBLET Annual Meeting](https://genomicyarsi.id/goblet-agm-2019/#1557978278296-165b2631-ee69)|LifeSciTrainers.org A global community of practice for short-format training in the life sciences|Jakarta, ID (Virtual)|[slides](http://bit.ly/lifescigogblet092019)|
 |CyVerse Foundational Open Science Skills: Practical Data and Software Skills for Reproducible Research|Workshop organizer/instructor|Rome, IT|[Announcement and materials](https://cyverse-cyverse-data-and-software-management-workshop.readthedocs-hosted.com/en/latest/)|
+
 
 
 
