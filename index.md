@@ -64,6 +64,10 @@ multi-day training events.
 |Swiss Institute of Bioinformatics|**Invited Seminar**: "Cyberinfrastructure for Scaling Research, Education, and People"|Lausanne, CH||
 |[GOBLET Annual Meeting](https://genomicyarsi.id/goblet-agm-2019/#1557978278296-165b2631-ee69)|LifeSciTrainers.org A global community of practice for short-format training in the life sciences|Jakarta, ID (Virtual)|[slides](http://bit.ly/lifescigogblet092019)|
 |CyVerse Foundational Open Science Skills: Practical Data and Software Skills for Reproducible Research|Workshop organizer/instructor|Rome, IT|[Announcement and materials](https://cyverse-cyverse-data-and-software-management-workshop.readthedocs-hosted.com/en/latest/)|
+|Technical University of Graz|CyVerse Austria - Train the Trainers|Graz, Austria|[workshop site](https://learning.cyverse.org/projects/cyverse-austria-workshop/en/latest/)|
+|University of Puerto Rico|Computational Learning, Thinking, and Doing in 21st Century Biology|San Juan, Puerto Rico|[slides](http://bit.ly/upr-2019)|
+|University of Puerto Rico|CyVerse Tools, Services, Reproducibility workshop|San Juan, Puerto Rico|[workshop site](https://learning.cyverse.org/projects/cyverse-tools-services-and-reproducible-science-workshop/en/latest/index.html)|
+|Elixir UK All-hands, University of Dundee|The View from Nowhere in Computational Infrastructure |Dundee, Scotland|[slides](http://bit.ly/elixiruk2019)]|
 
 
 
