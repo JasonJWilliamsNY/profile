@@ -67,7 +67,7 @@ multi-day training events.
 |Technical University of Graz|CyVerse Austria - Train the Trainers|Graz, Austria|[workshop site](https://learning.cyverse.org/projects/cyverse-austria-workshop/en/latest/)|
 |University of Puerto Rico|**Invited Seminar**: Computational Learning, Thinking, and Doing in 21st Century Biology|San Juan, Puerto Rico|[slides](http://bit.ly/upr-2019)|
 |University of Puerto Rico|CyVerse Tools, Services, Reproducibility workshop|San Juan, Puerto Rico|[workshop site](https://learning.cyverse.org/projects/cyverse-tools-services-and-reproducible-science-workshop/en/latest/index.html)|
-|Elixir UK All-hands, University of Dundee|**Invited Keynote**: The View from Nowhere in Computational Infrastructure |Dundee, Scotland|[slides](http://bit.ly/elixiruk2019)]|
+|Elixir UK All-hands, University of Dundee|**Invited Keynote**: The View from Nowhere in Computational Infrastructure |Dundee, Scotland|[slides](http://bit.ly/elixiruk2019)|
 
 
 
