@@ -221,7 +221,7 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 | **Science and Industry Advisory Board member**: [ELIXIR UK](http://www.elixiruknode.org/)|2018-|
 | **External Expert Panel**: [National Institutes of Health-NHLBI](https://www.nhlbi.nih.gov/) Data STAGE (Storage, Toolspace, Access and analytics for biG data Empowerment)(now [BioData Catalyst](https://www.nhlbidatastage.org/))|2018-|
 | **Steering Committee member**: [Biodiversity Literacy in Undergraduate Education, NSF RCN-UBE](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1730526&HistoricalAwards=false) |2018-|
-| **External Panel of Consultants**: [National Institutes of Health Data Commons](https://commonfund.nih.gov/bd2k/commons) |2017-|
+| **External Panel of Consultants**: [National Institutes of Health Data Commons](https://commonfund.nih.gov/bd2k/commons) |2017-2019|
 | **Steering Committee member**: [Plantae](https://plantae.org/), American Society of Plant Biology/Global Plant Council|2017-|
 | **Chair, International Science Advisory Group**: [EMBL-Australian Bioinformatics Resource](https://www.embl-abr.org.au/)|2016-|
 | **Steering Committee Chair**: [Software Carpentry Foundation](https://software-carpentry.org/)|2016-17|
