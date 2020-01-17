@@ -32,7 +32,7 @@ open to anyone who provides training for life scientists).
   - [2014](https://jasonjwilliamsny.github.io/profile/#2014)
 - **[Selected Publications and Products](https://jasonjwilliamsny.github.io/profile/#selected-publications-and-products)**
 - **[Things to Fund](https://jasonjwilliamsny.github.io/profile/#things-to-fund)**
-- **[Academic, Community Service, Awards](https://jasonjwilliamsny.github.io/profile/#Academic,-Community-Service,-Awards)**
+- **[Academic, Community Service, Awards](https://jasonjwilliamsny.github.io/profile/#academic-community-service-and-awards)**
 - **[Photo and Speaker's Bio](https://jasonjwilliamsny.github.io/profile/#photo-and-speaking-bio)**
 - **[Other Things](https://jasonjwilliamsny.github.io/profile/#other-things)**
   - **[Travel Tips and Recommendations](https://jasonjwilliamsny.github.io/profile/#travel-tips-and-recommendations)**
@@ -220,7 +220,7 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 - **[Data mining with iPlant: A meeting report from the 2013 GARNet workshop, Data mining with iPlant](https://academic.oup.com/jxb/article-lookup/doi/10.1093/jxb/eru402)** Martin, L., Charis C., Matasci N., Williams, J., and Bastow R.,. J. Exp. Bot. (2015) 66 (1): 1-6. doi: 10.1093/jxb/eru402, http://dx.doi.org/10.1093/jxb/eru402
 - **[A Vision for Collaborative Training Infrastructure for Bioinformatics](http://onlinelibrary.wiley.com/doi/10.1111/nyas.13207/abstract)** Williams, Jason J. and Teal, Tracy K. (2016). Annals of the New York Academy of Sciences.
 
-## Academic, Community Service, Awards
+## Academic Community Service And Awards
 
 |Role|Year|
 |----|----|
