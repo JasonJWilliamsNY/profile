@@ -23,7 +23,8 @@ a global community of practice for short-format training in the life sciences (
 open to anyone who provides training for life scientists).
 
 - **Workshops, Talks, Teaching, and Presentations**
-  - [2019](https://jasonjwilliamsny.github.io/profile/#2018)
+  - [2020](https://jasonjwilliamsny.github.io/profile/#2020)
+  - [2019](https://jasonjwilliamsny.github.io/profile/#2019)
   - [2018](https://jasonjwilliamsny.github.io/profile/#2018)
   - [2017](https://jasonjwilliamsny.github.io/profile/#2017)
   - [2016](https://jasonjwilliamsny.github.io/profile/#2016)
@@ -31,7 +32,7 @@ open to anyone who provides training for life scientists).
   - [2014](https://jasonjwilliamsny.github.io/profile/#2014)
 - **[Selected Publications and Products](https://jasonjwilliamsny.github.io/profile/#selected-publications-and-products)**
 - **[Things to Fund](https://jasonjwilliamsny.github.io/profile/#things-to-fund)**
-- **[Academic and Community Service](https://jasonjwilliamsny.github.io/profile/#academic-and-community-service)**
+- **[Academic, Community Service, Awards](https://jasonjwilliamsny.github.io/profile/#Academic,-Community-Service,-Awards)**
 - **[Photo and Speaker's Bio](https://jasonjwilliamsny.github.io/profile/#photo-and-speaking-bio)**
 - **[Other Things](https://jasonjwilliamsny.github.io/profile/#other-things)**
   - **[Travel Tips and Recommendations](https://jasonjwilliamsny.github.io/profile/#travel-tips-and-recommendations)**
@@ -43,6 +44,17 @@ iPlant Collaborative), a project I work on that brings cyberinfrastructure to bi
 I am their Education, Outreach, and Training lead, so I get to help lots of
 biologists use computation in their teaching and research. Workshops are mainly
 multi-day training events.
+
+## 2020
+(includes scheduled events)
+
+|Venue|Presentation|Location|Notes|
+|------------|-----|--------|-----|
+|International Plant and Animal Genome Meeting (PAG XXVIII)|**Session Chair/Organizer** - Advanced Computational Methods – Machine Learning, Containers, and Clouds|San Diego, CA||
+|International Plant and Animal Genome Meeting (PAG XXVIII)|**Session Chair/Organizer** - CyVerse - Software, Tools, and Services for Data-Driven Discovery, Data Science, and Education|San Diego, CA||
+|International Plant and Animal Genome Meeting (PAG XXVIII)|**Invited Speaker** Resources and Programs for Undergraduate Education in Genomics: "Tools and Approaches for Making Bioinformatics Work in the Classroom"|San Diego, CA|[slides])(https://de.cyverse.org/dl/d/D0825895-0623-41D0-A5F4-B88FA8E07E79/WILLIAMS_Jason_tools-and-approaches.pdf)|
+|International Plant and Animal Genome Meeting (PAG XXVIII)|**Session Organizer** - Pragmatic solutions for scaling your analysis: Machine Learning, Imaging, Containers, Clouds and APIs|San Diego, CA||
+|International Plant and Animal Genome Meeting (PAG XXVIII)|**Invited Speaker**Cloud Computing for Genomics Data Analysis: "Reproducibility in the Clouds - Harnessing the *in nube* Paradigm"|San Diego, CA|[slides](https://de.cyverse.org/dl/d/1967BCDF-24C4-4D59-A77D-83943137BC7E/WILLIAMS_Jason_In-Nube.pdf)|
 
 ## 2019
 (includes scheduled events)
@@ -211,17 +223,17 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 - **[Data mining with iPlant: A meeting report from the 2013 GARNet workshop, Data mining with iPlant](https://academic.oup.com/jxb/article-lookup/doi/10.1093/jxb/eru402)** Martin, L., Charis C., Matasci N., Williams, J., and Bastow R.,. J. Exp. Bot. (2015) 66 (1): 1-6. doi: 10.1093/jxb/eru402, http://dx.doi.org/10.1093/jxb/eru402
 - **[A Vision for Collaborative Training Infrastructure for Bioinformatics](http://onlinelibrary.wiley.com/doi/10.1111/nyas.13207/abstract)** Williams, Jason J. and Teal, Tracy K. (2016). Annals of the New York Academy of Sciences.
 
-## Academic and Community Service/Awards 
+## Academic, Community Service, Awards
 
 |Role|Year|
 |----|----|
-|National Academy of Science [Kavli Frontiers of Science Fellow](http://www.nasonline.org/programs/kavli-frontiers-of-science/)|2020|
+|**National Academy of Sciences** [Kavli Frontiers of Science Fellow](http://www.nasonline.org/programs/kavli-frontiers-of-science/)|2020|
 |**Curriculum Advisory Board**: [Health Data Research UK](https://www.hdruk.ac.uk/)|2019- |
 |**Founder**: [LifeSciTrainers.org](https://lifescitrainers.org/)/LifeSciTrainer Slack|2018|
 | **Science and Industry Advisory Board member**: [ELIXIR UK](http://www.elixiruknode.org/)|2018-|
-| **External Panel of Consultants**: [National Institutes of Health-NHLBI](https://www.nhlbi.nih.gov/) Data STAGE (Storage, Toolspace, Access and analytics for biG data Empowerment)|2018-|
+| **External Expert Panel**: [National Institutes of Health-NHLBI](https://www.nhlbi.nih.gov/) Data STAGE (Storage, Toolspace, Access and analytics for biG data Empowerment)(now [BioData Catalyst](https://www.nhlbidatastage.org/))|2018-|
 | **Steering Committee member**: [Biodiversity Literacy in Undergraduate Education, NSF RCN-UBE](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1730526&HistoricalAwards=false) |2018-|
-| **External Panel of Consultants**: [National Institutes of Health Data Commons](https://commonfund.nih.gov/bd2k/commons) |2017-|
+| **External Panel of Consultants**: [National Institutes of Health Data Commons](https://commonfund.nih.gov/bd2k/commons) |2017-2019|
 | **Steering Committee member**: [Plantae](https://plantae.org/), American Society of Plant Biology/Global Plant Council|2017-|
 | **Chair, International Science Advisory Group**: [EMBL-Australian Bioinformatics Resource](https://www.embl-abr.org.au/)|2016-|
 | **Steering Committee Chair**: [Software Carpentry Foundation](https://software-carpentry.org/)|2016-17|
