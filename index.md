@@ -52,9 +52,9 @@ multi-day training events.
 |------------|-----|--------|-----|
 |International Plant and Animal Genome Meeting (PAG XXVIII)|**Session Chair/Organizer** - Advanced Computational Methods – Machine Learning, Containers, and Clouds|San Diego, CA||
 |International Plant and Animal Genome Meeting (PAG XXVIII)|**Session Chair/Organizer** - CyVerse - Software, Tools, and Services for Data-Driven Discovery, Data Science, and Education|San Diego, CA||
-|International Plant and Animal Genome Meeting (PAG XXVIII)|**Invited Speaker** Resources and Programs for Undergraduate Education in Genomics: "Tools and Approaches for Making Bioinformatics Work in the Classroom"|San Diego, CA|[slides])(https://de.cyverse.org/dl/d/D0825895-0623-41D0-A5F4-B88FA8E07E79/WILLIAMS_Jason_tools-and-approaches.pdf)|
+|International Plant and Animal Genome Meeting (PAG XXVIII)|**Invited Speaker** Resources and Programs for Undergraduate Education in Genomics: "Tools and Approaches for Making Bioinformatics Work in the Classroom"|San Diego, CA|[slides](https://de.cyverse.org/dl/d/D0825895-0623-41D0-A5F4-B88FA8E07E79/WILLIAMS_Jason_tools-and-approaches.pdf)|
 |International Plant and Animal Genome Meeting (PAG XXVIII)|**Session Organizer** - Pragmatic solutions for scaling your analysis: Machine Learning, Imaging, Containers, Clouds and APIs|San Diego, CA||
-|International Plant and Animal Genome Meeting (PAG XXVIII)|**Invited Speaker**Cloud Computing for Genomics Data Analysis: "Reproducibility in the Clouds - Harnessing the *in nube* Paradigm"|San Diego, CA|[slides](https://de.cyverse.org/dl/d/1967BCDF-24C4-4D59-A77D-83943137BC7E/WILLIAMS_Jason_In-Nube.pdf)|
+|International Plant and Animal Genome Meeting (PAG XXVIII)|**Invited Speaker** Cloud Computing for Genomics Data Analysis: "Reproducibility in the Clouds - Harnessing the *in nube* Paradigm"|San Diego, CA|[slides](https://de.cyverse.org/dl/d/1967BCDF-24C4-4D59-A77D-83943137BC7E/WILLIAMS_Jason_In-Nube.pdf)|
 
 ## 2019
 (includes scheduled events)
