@@ -82,9 +82,6 @@ multi-day training events.
 |Elixir UK All-hands, University of Dundee|**Invited Keynote**: The View from Nowhere in Computational Infrastructure |Dundee, Scotland|[slides](http://bit.ly/elixiruk2019)|
 
 
-
-
-
 ## 2018
 
 |Venue|Presentation|Location|Notes|
@@ -229,6 +226,7 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 |----|----|
 |**National Academy of Sciences** [Kavli Frontiers of Science Fellow](http://www.nasonline.org/programs/kavli-frontiers-of-science/)|2020|
 |**Curriculum Advisory Board**: [Health Data Research UK](https://www.hdruk.ac.uk/)|2019- |
+|**Founder**: [LifeSciTrainers.org](https://lifescitrainers.org/)/LifeSciTrainer Slack|2018|
 |**Founder**: [LifeSciTrainers.org](https://lifescitrainers.org/)/LifeSciTrainer Slack|2018|
 | **Science and Industry Advisory Board member**: [ELIXIR UK](http://www.elixiruknode.org/)|2018-|
 | **External Expert Panel**: [National Institutes of Health-NHLBI](https://www.nhlbi.nih.gov/) Data STAGE (Storage, Toolspace, Access and analytics for biG data Empowerment)(now [BioData Catalyst](https://www.nhlbidatastage.org/))|2018-|
