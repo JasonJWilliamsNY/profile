@@ -203,6 +203,7 @@ multi-day training events.
 
 - **[Biodiversity Science and the Twenty-First Century Workforce](https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biz147/5680446)**
 Elizabeth R Ellwood, Jocelyn Anne Sessa, Joel K Abraham, Amber E Budden, Natalie Douglas, Robert Guralnick, Erica Krimmel, Tom Langen, Debra Linton, Molly Phillips, Pamela S Soltis, Marie Studer, Lisa D White, Jason Williams, Anna K Monfils, December 2019 Biodiversity Science and the Twenty-First Century Workforce, BioScience. https://doi.org/10.1093/biosci/biz147
+- **[FAIRshake: Toolkit to evaluate the FAIRness of research digital resources](https://www.sciencedirect.com/science/article/pii/S240547121930345X)** Clarke DJB, Wang L, Jones A, Wojciechowicz ML, Torre D, Jagodnik KM, Jenkins SL, McQuilton P, Flamholz Z, Silverstein MC, Schilder BM, Robasky K, Castillo C, Idaszak R, Ahalt SC, Williams J, Schurer S, Cooper DJ, de Miranda Azevedo R, Klenk JA, Haendel MA, Nedzel J, Avillach P, Shimoyama ME, Harris RM, Gamble M, Poten R, Charbonneau AL, Larkin J, Brown CT, Bonazzi VR, Dumontier MJ, Sansone S-, Ma'ayan A. Cell Syst. 2019;9(5):417-21.
 - **[Pre-print: SciApps: A Cloud-Based Platform for Analyses and Distribution of the MaizeCODE data](https://www.biorxiv.org/content/10.1101/852269v1)**
 Liya Wang, Zhenyuan Lu, Melissa delaBastide, Peter Van Buren, Xiaofei Wang, Cornel Ghiban, Michael Regulski, Jorg Drenkow, Xiaosa Xu, Carlos Ortiz Ramirez, Cristina F. Marco, Jason Williams, Alexander Dobin, Kenneth D. Birnbaum, David P. Jackson, Robert A. Martienssen, William R. McCombie, David A. Micklos, Michael C. Schatz, Doreen H. Ware, Thomas R. Gingeras
 - **[Barriers to integration of bioinformatics into undergraduate life sciences education: A national study of US life sciences faculty uncover significant barriers to integrating bioinformatics into undergraduate instruction](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0224288)**
@@ -226,9 +227,9 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 
 |Role|Year|
 |----|----|
+|**National Science Foundation** [2026 Idea Machine Meritorius Prize Winner](https://www.nsf.gov/news/news_summ.jsp?cntn_id=299946&org=NSF&from=news)|2020
 |**National Academy of Sciences** [Kavli Frontiers of Science Fellow](http://www.nasonline.org/programs/kavli-frontiers-of-science/)|2020|
 |**Curriculum Advisory Board**: [Health Data Research UK](https://www.hdruk.ac.uk/)|2019- |
-|**Founder**: [LifeSciTrainers.org](https://lifescitrainers.org/)/LifeSciTrainer Slack|2018|
 |**Founder**: [LifeSciTrainers.org](https://lifescitrainers.org/)/LifeSciTrainer Slack|2018|
 | **Science and Industry Advisory Board member**: [ELIXIR UK](http://www.elixiruknode.org/)|2018-|
 | **External Expert Panel**: [National Institutes of Health-NHLBI](https://www.nhlbi.nih.gov/) Data STAGE (Storage, Toolspace, Access and analytics for biG data Empowerment)(now [BioData Catalyst](https://www.nhlbidatastage.org/))|2018-|
