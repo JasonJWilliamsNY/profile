@@ -240,7 +240,7 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 | **Steering Committee Chair**: [Software Carpentry Foundation](https://software-carpentry.org/)|2016-17|
 | **Conference Review Committee member**: [Open Bioinformatics Foundation](https://www.open-bio.org/wiki/Main_Page) Bioinformatics Open Source Conference |2016-|
 | **Steering Committee Treasurer**: [Software Carpentry Foundation](https://software-carpentry.org/)- (Founding Committee) |2015-16||
-|Science Advisory Board member - [NIBLSE](https://qubeshub.org/community/groups/niblse) Network for Integrating Bioinformatics into Life Science Education|2016-|
+| **Science Advisory Board member**: [NIBLSE](https://qubeshub.org/community/groups/niblse) Network for Integrating Bioinformatics into Life Science Education|2016-|
 | **Trainer/Instructor/Maintainer**: [The Carpentries](https://carpentries.org/) - Software and Data Carpentry |2014-|
 | **Founder**: CSHL Biological Data Science Meeting|2014|
 | **Scientific Training Advisory Board member**: The Genome Analysis Centre [Currently - Earlham Institute](http://www.earlham.ac.uk/), Norwich, UK|2013-15|
