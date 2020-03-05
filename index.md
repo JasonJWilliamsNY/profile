@@ -55,6 +55,7 @@ multi-day training events.
 |International Plant and Animal Genome Meeting (PAG XXVIII)|**Invited Speaker** Resources and Programs for Undergraduate Education in Genomics: "Tools and Approaches for Making Bioinformatics Work in the Classroom"|San Diego, CA|[slides](https://de.cyverse.org/dl/d/D0825895-0623-41D0-A5F4-B88FA8E07E79/WILLIAMS_Jason_tools-and-approaches.pdf)|
 |International Plant and Animal Genome Meeting (PAG XXVIII)|**Session Organizer** - Pragmatic solutions for scaling your analysis: Machine Learning, Imaging, Containers, Clouds and APIs|San Diego, CA||
 |International Plant and Animal Genome Meeting (PAG XXVIII)|**Invited Speaker** Cloud Computing for Genomics Data Analysis: "Reproducibility in the Clouds - Harnessing the *in nube* Paradigm"|San Diego, CA|[slides](https://de.cyverse.org/dl/d/1967BCDF-24C4-4D59-A77D-83943137BC7E/WILLIAMS_Jason_In-Nube.pdf)|
+|CyVerse Foundational Open Science Skills (FOSS) Camp|**Instructor**: Introduction to Reproducible Science|Tucson, AZ|[Lesson materials](https://learning.cyverse.org/projects/foss-2020/en/latest/reproducible_science/intro.html)|
 
 ## 2019
 (includes scheduled events)
@@ -201,6 +202,12 @@ multi-day training events.
 
 ## Selected Publications and Products
 
+- **[Pre-print: The Rockerverse: Packages and Applications for Containerization with R](https://arxiv.org/abs/2001.10641)**
+Daniel Nüst, Dirk Eddelbuettel, Dom Bennett, Robrecht Cannoodt, Dav Clark,
+Gergely Daroczi, Mark Edmondson, Colin Fay, Ellis Hughes, Lars Kjeldgaard,
+Sean Lopp, Ben Marwick, Heather Nolis, Jacqueline Nolis, Hong Ooi, Karthik Ram,
+Noam Ross, Lori Shepherd, Péter Sólymos, Tyson Lee Swetnam, Nitesh Turaga,
+Jason Williams, Craig Willis, Nan Xiao, Charlotte Van Petegem
 - **[Biodiversity Science and the Twenty-First Century Workforce](https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biz147/5680446)**
 Elizabeth R Ellwood, Jocelyn Anne Sessa, Joel K Abraham, Amber E Budden, Natalie Douglas, Robert Guralnick, Erica Krimmel, Tom Langen, Debra Linton, Molly Phillips, Pamela S Soltis, Marie Studer, Lisa D White, Jason Williams, Anna K Monfils, December 2019 Biodiversity Science and the Twenty-First Century Workforce, BioScience. https://doi.org/10.1093/biosci/biz147
 - **[FAIRshake: Toolkit to evaluate the FAIRness of research digital resources](https://www.sciencedirect.com/science/article/pii/S240547121930345X)** Clarke DJB, Wang L, Jones A, Wojciechowicz ML, Torre D, Jagodnik KM, Jenkins SL, McQuilton P, Flamholz Z, Silverstein MC, Schilder BM, Robasky K, Castillo C, Idaszak R, Ahalt SC, Williams J, Schurer S, Cooper DJ, de Miranda Azevedo R, Klenk JA, Haendel MA, Nedzel J, Avillach P, Shimoyama ME, Harris RM, Gamble M, Poten R, Charbonneau AL, Larkin J, Brown CT, Bonazzi VR, Dumontier MJ, Sansone S-, Ma'ayan A. Cell Syst. 2019;9(5):417-21.
@@ -236,7 +243,7 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 | **Steering Committee member**: [Biodiversity Literacy in Undergraduate Education, NSF RCN-UBE](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1730526&HistoricalAwards=false) |2018-|
 | **External Panel of Consultants**: [National Institutes of Health Data Commons](https://commonfund.nih.gov/bd2k/commons) |2017-2019|
 | **Steering Committee member**: [Plantae](https://plantae.org/), American Society of Plant Biology/Global Plant Council|2017-|
-| **Chair, International Science Advisory Group**: [EMBL-Australian Bioinformatics Resource](https://www.embl-abr.org.au/)|2016-|
+| **Chair, International Science Advisory Group**: [EMBL-Australian Bioinformatics Resource](https://www.embl-abr.org.au/)|2016-2019|
 | **Steering Committee Chair**: [Software Carpentry Foundation](https://software-carpentry.org/)|2016-17|
 | **Conference Review Committee member**: [Open Bioinformatics Foundation](https://www.open-bio.org/wiki/Main_Page) Bioinformatics Open Source Conference |2016-|
 | **Steering Committee Treasurer**: [Software Carpentry Foundation](https://software-carpentry.org/)- (Founding Committee) |2015-16||
@@ -271,16 +278,14 @@ lead for CyVerse (A U.S. national life science cyberinfrastructure funded by
 NSF). Jason organizes, instructs, and speaks at a variety of
 bioinformatics-related workshops, conferences, and meetings annually. He also
 serves in an advisory capacity on a variety of bioinformatics and open science
-projects including his service as Chair of the International Science Advisory
-Board for EMBL-Australian Bioinformatics Resource, and service on the  National
-Institutes of Health (NIH) National Heart Lung and Blood Institute’s Data STAGE
-(Storage, Toolspace, Access and analytics for biG data Empowerment). He is an
-active Software and Data Carpentry instructor, and a former Chair of the
-Software Carpentry foundation (an international organization of researchers
-that promote training and education in software development, scientific data
-management, and open science). He is the founder of LifeSciTrainers.org,
-a global community of practice for short-format training in the life sciences.
-Jason is also a teacher at the Yeshiva University High School for Girls.
+projects including the Australian BioCommons, National Institutes of Health
+(NIH), and ELIXIR UK. He is an active Software and Data Carpentry instructor,
+and a former Chair of the Software Carpentry foundation (an international
+organization of researchers that promote training and education in software
+development, scientific data management, and open science). He is the founder of
+LifeSciTrainers.org, a global community of practice for short-format training in
+the life sciences. Jason is also a teacher at the Yeshiva University High School
+for Girls.
 
 ## Other Things
 
