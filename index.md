@@ -60,7 +60,6 @@ multi-day training events.
 |The Allied Genetics Conference 2020|**Selected Talk**|Online|[Slides](https://bit.ly/tagc-gea-2020)|
 
 ## 2019
-(includes scheduled events)
 
 |Venue|Presentation|Location|Notes|
 |------------|-----|--------|-----|
