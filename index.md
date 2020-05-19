@@ -265,12 +265,15 @@ Any takers?
   of a diverse life science STEM workforce; and 2) how global SFT efforts that
   promote career-spanning “workforce development” can be connected into an
   inclusive community of practice framework
+
   **Status:** Awaiting NSF Decision
+
 - [The Genomics Education Alliance - Pre-print](https://figshare.com/articles/A_Genomics_Education_Alliance/5197228) is a white paper for bringing together several
   genomics education initiatives to develop course-based research experiences.
   *$500K + over 3-4 years depending on implementation*
-  **Update: [Funded](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1827130&HistoricalAwards=false), future info [here](https://qubeshub.org/community/groups/gea)**
-  *Will be looking for future implementation funding for GEA*
+
+  **Update: [Funded](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1827130&HistoricalAwards=false), future info [here](https://qubeshub.org/community/groups/gea)**. *Will be looking for future implementation funding for GEA*
+  
 - [Broadening the Pipeline: Best Practices for Training in Biomedical Data Science](https://github.com/JasonJWilliamsNY/profile/raw/master/docs/conference_plan.pdf) is a plan
   for organizing experts and communities to improve training in biomedical data science/
   bioinformatics while broadening participation. **$300K over 2 years**
