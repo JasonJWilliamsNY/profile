@@ -236,12 +236,12 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 
 |Role|Year|
 |----|----|
-|**[Global Alliance for Genomics and Health (GA4GH)](https://www.ga4gh.org/)** Equity, Diversity, and Inclusion (EDI) Advisory Group, Member|2020- |
-|**[Australian BioCommons](https://www.biocommons.org.au/)** Training Advisory Group, Chair|2020- |
-|**National Science Foundation**: [2026 Idea Machine Meritorius Prize Winner](https://www.nsf.gov/news/news_summ.jsp?cntn_id=299946&org=NSF&from=news)|2020
-|**National Academy of Sciences**: [Kavli Frontiers of Science Fellow](http://www.nasonline.org/programs/kavli-frontiers-of-science/)|2020|
-|**Curriculum Advisory Board**: [Health Data Research UK](https://www.hdruk.ac.uk/)|2019-2020|
-|**Founder**: [LifeSciTrainers.org](https://lifescitrainers.org/)/LifeSciTrainer Slack|2018|
+| **Member, Equity, Diversity, and Inclusion (EDI) Advisory**: [Global Alliance for Genomics and Health (GA4GH)](https://www.ga4gh.org/)|2020- |
+| **Chair, Training Advisory Group**: [Australian BioCommons](https://www.biocommons.org.au/)|2020- |
+| **National Science Foundation**: [2026 Idea Machine Meritorius Prize Winner](https://www.nsf.gov/news/news_summ.jsp?cntn_id=299946&org=NSF&from=news)|2020
+| **National Academy of Sciences**: [Kavli Frontiers of Science Fellow](http://www.nasonline.org/programs/kavli-frontiers-of-science/)|2020|
+| **Curriculum Advisory Board**: [Health Data Research UK](https://www.hdruk.ac.uk/)|2019-2020|
+| **Founder**: [LifeSciTrainers.org](https://lifescitrainers.org/)/LifeSciTrainer Slack|2018|
 | **Science and Industry Advisory Board member**: [ELIXIR UK](http://www.elixiruknode.org/)|2018- |
 | **External Expert Panel**: [National Institutes of Health-NHLBI](https://www.nhlbi.nih.gov/) Data STAGE (Storage, Toolspace, Access and analytics for biG data Empowerment)(now [BioData Catalyst](https://www.nhlbidatastage.org/))|2018- |
 | **Steering Committee member**: [Biodiversity Literacy in Undergraduate Education, NSF RCN-UBE](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1730526&HistoricalAwards=false) |2018- |
@@ -273,7 +273,7 @@ Any takers?
   *$500K + over 3-4 years depending on implementation*
 
   **Update: [Funded](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1827130&HistoricalAwards=false), future info [here](https://qubeshub.org/community/groups/gea)**. *Will be looking for future implementation funding for GEA*
-  
+
 - [Broadening the Pipeline: Best Practices for Training in Biomedical Data Science](https://github.com/JasonJWilliamsNY/profile/raw/master/docs/conference_plan.pdf) is a plan
   for organizing experts and communities to improve training in biomedical data science/
   bioinformatics while broadening participation. **$300K over 2 years**
