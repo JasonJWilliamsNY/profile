@@ -55,7 +55,9 @@ multi-day training events.
 |International Plant and Animal Genome Meeting (PAG XXVIII)|**Invited Speaker** Resources and Programs for Undergraduate Education in Genomics: "Tools and Approaches for Making Bioinformatics Work in the Classroom"|San Diego, CA|[slides](https://de.cyverse.org/dl/d/D0825895-0623-41D0-A5F4-B88FA8E07E79/WILLIAMS_Jason_tools-and-approaches.pdf)|
 |International Plant and Animal Genome Meeting (PAG XXVIII)|**Session Organizer** - Pragmatic solutions for scaling your analysis: Machine Learning, Imaging, Containers, Clouds and APIs|San Diego, CA||
 |International Plant and Animal Genome Meeting (PAG XXVIII)|**Invited Speaker** Cloud Computing for Genomics Data Analysis: "Reproducibility in the Clouds - Harnessing the *in nube* Paradigm"|San Diego, CA|[slides](https://de.cyverse.org/dl/d/1967BCDF-24C4-4D59-A77D-83943137BC7E/WILLIAMS_Jason_In-Nube.pdf)|
+|National Science Foundational| **Awardee** - NSF 2026 Idea Machine Award Ceremony - Reinventing Scientific Talent  |Alexandria, VA|[Press release](https://www.nsf.gov/news/special_reports/nsf2026ideamachine/index.jsp)  |
 |CyVerse Foundational Open Science Skills (FOSS) Camp|**Instructor**: Introduction to Reproducible Science|Tucson, AZ|[Lesson materials](https://learning.cyverse.org/projects/foss-2020/en/latest/reproducible_science/intro.html)|
+|The Allied Genetics Conference 2020|**Selected Talk**|Online|[Slides](https://bit.ly/tagc-gea-2020)|
 
 ## 2019
 (includes scheduled events)
@@ -234,6 +236,8 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 
 |Role|Year|
 |----|----|
+|**[Global Alliance for Genomics and Health (GA4GH)](https://www.ga4gh.org/) Equity, Diversity, and Inclusion (EDI) Advisory Group, Member**|2020- |
+|**[Australian BioCommons](https://www.biocommons.org.au/)Training Advisory Group, Chair** |2020- |
 |**National Science Foundation**: [2026 Idea Machine Meritorius Prize Winner](https://www.nsf.gov/news/news_summ.jsp?cntn_id=299946&org=NSF&from=news)|2020
 |**National Academy of Sciences**: [Kavli Frontiers of Science Fellow](http://www.nasonline.org/programs/kavli-frontiers-of-science/)|2020|
 |**Curriculum Advisory Board**: [Health Data Research UK](https://www.hdruk.ac.uk/)|2019- |
@@ -255,6 +259,13 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 ## Things to Fund
 Any takers?
 
+- [What Works in Workshops – Evolving Short-format Training to Serve STEM Life Sciences Professionals in the 21st Century](https://de.cyverse.org/dl/d/5AC02FEB-9E5E-4740-8D70-8CD258BC2E42/for-circulation_Williams_NSF Conference_Application.pdf)
+  This was a submitted proposal for a think-tank conference on 1) how
+  short-format training can be improved to serve career-spanning learning needs
+  of a diverse life science STEM workforce; and 2) how global SFT efforts that
+  promote career-spanning “workforce development” can be connected into an
+  inclusive community of practice framework
+  **Status:** Awaiting NSF Decision
 - [The Genomics Education Alliance - Pre-print](https://figshare.com/articles/A_Genomics_Education_Alliance/5197228) is a white paper for bringing together several
   genomics education initiatives to develop course-based research experiences.
   *$500K + over 3-4 years depending on implementation*
