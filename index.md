@@ -57,8 +57,7 @@ multi-day training events.
 |International Plant and Animal Genome Meeting (PAG XXVIII)|**Invited Speaker**: Cloud Computing for Genomics Data Analysis: "Reproducibility in the Clouds - Harnessing the *in nube* Paradigm"|San Diego, CA|[slides](https://de.cyverse.org/dl/d/1967BCDF-24C4-4D59-A77D-83943137BC7E/WILLIAMS_Jason_In-Nube.pdf)|
 |National Science Foundational| **Awardee**: NSF 2026 Idea Machine Award Ceremony - Reinventing Scientific Talent  |Alexandria, VA|[Press release](https://www.nsf.gov/news/special_reports/nsf2026ideamachine/index.jsp)  |
 |CyVerse Foundational Open Science Skills (FOSS) Camp|**Instructor**: Introduction to Reproducible Science|Tucson, AZ|[Lesson materials](https://learning.cyverse.org/projects/foss-2020/en/latest/reproducible_science/intro.html)|
-|The Allied Genetics Conference 2020|**Selected Talk**: The Genomics Education Alliance
-Scalable, Sustainable Infrastructure for Undergraduate CUREs|Online|[Slides](https://bit.ly/tagc-gea-2020)|
+|The Allied Genetics Conference 2020|**Selected Talk**: The Genomics Education Alliance Scalable, Sustainable Infrastructure for Undergraduate CUREs|Online|[Slides](https://bit.ly/tagc-gea-2020)|
 
 ## 2019
 
