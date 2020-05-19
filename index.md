@@ -235,7 +235,7 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 
 |Role|Year|
 |----|----|
-| **Member, Equity, Diversity, and Inclusion (EDI) Advisory**: [Global Alliance for Genomics and Health (GA4GH)](https://www.ga4gh.org/)|2020- |
+| **Member, Equity, Diversity, and Inclusion (EDI) Advisory Group**: [Global Alliance for Genomics and Health (GA4GH)](https://www.ga4gh.org/)|2020- |
 | **Chair, Training Advisory Group**: [Australian BioCommons](https://www.biocommons.org.au/)|2020- |
 | **National Science Foundation**: [2026 Idea Machine Meritorius Prize Winner](https://www.nsf.gov/news/news_summ.jsp?cntn_id=299946&org=NSF&from=news)|2020
 | **National Academy of Sciences**: [Kavli Frontiers of Science Fellow](http://www.nasonline.org/programs/kavli-frontiers-of-science/)|2020|
