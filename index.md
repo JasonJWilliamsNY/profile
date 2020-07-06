@@ -285,20 +285,21 @@ An acceptable photo for your press releases
 If you are introducing me at a talk, feel free to use (or not) the following:
 
 
-Jason is Assistant Director, External Collaborations of Cold Spring Harbor
-Laboratory’s DNA Learning Center, and is the Education, Outreach, and Training
-lead for CyVerse (A U.S. national life science cyberinfrastructure funded by
-NSF). Jason organizes, instructs, and speaks at a variety of
-bioinformatics-related workshops, conferences, and meetings annually. He also
-serves in an advisory capacity on a variety of bioinformatics and open science
-projects including the Australian BioCommons, National Institutes of Health
-(NIH), and ELIXIR UK. He is an active Software and Data Carpentry instructor,
-and a former Chair of the Software Carpentry foundation (an international
-organization of researchers that promote training and education in software
-development, scientific data management, and open science). He is the founder of
-LifeSciTrainers.org, a global community of practice for short-format training in
-the life sciences. Jason is also a teacher at the Yeshiva University High School
-for Girls.
+Jason Williams is Assistant Director, External Collaborations at the Cold Spring
+Harbor Laboratory DNA Learning Center where he develops national biology
+education programs, including minority-focused outreach. Williams has led
+education, outreach, and training for CyVerse (NSF-funded cyberinfrastructure
+for the life sciences) and has trained thousands of researchers and educators
+in bioinformatics, data science, and molecular biology. Williams has focused
+on bioinformatics in undergraduate education and career-spanning learning for
+biologists. He was the author of “Reinventing Scientific Talent” - an NSF 2026
+Idea Machine winning entry for the next set of NSF “Big Ideas”.  He is also the
+founder of LifeSciTrainers.org – a global effort to promote community of
+practice among professionals who develop training for life scientists. He is a
+member of and has chaired science advisory boards in the US, UK, and Australia
+and was recognized as a 2020 National Academy of Sciences Kavli Frontiers of
+Science Fellow.Jason is also a teacher at the Yeshiva University High School for
+Girls.
 
 ## Other Things
 
