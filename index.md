@@ -287,19 +287,21 @@ If you are introducing me at a talk, feel free to use (or not) the following:
 
 Jason Williams is Assistant Director, External Collaborations at the Cold Spring
 Harbor Laboratory DNA Learning Center where he develops national biology
-education programs, including minority-focused outreach. Williams has led
-education, outreach, and training for CyVerse (NSF-funded cyberinfrastructure
-for the life sciences) and has trained thousands of researchers and educators
-in bioinformatics, data science, and molecular biology. Williams has focused
-on bioinformatics in undergraduate education and career-spanning learning for
-biologists. He was the author of “Reinventing Scientific Talent” - an NSF 2026
-Idea Machine winning entry for the next set of NSF “Big Ideas”.  He is also the
-founder of LifeSciTrainers.org – a global effort to promote community of
-practice among professionals who develop training for life scientists. He is a
-member of and has chaired science advisory boards in the US, UK, and Australia
-and was recognized as a 2020 National Academy of Sciences Kavli Frontiers of
-Science Fellow.Jason is also a teacher at the Yeshiva University High School for
-Girls.
+education programs. Jason leads education, outreach, and training for CyVerse
+(US national cyberinfrastructure for the life sciences) and has trained
+thousands of students, researchers and educators in bioinformatics, data science
+, and molecular biology. Jason's focus has been developing bioinformatics in
+undergraduate education and career-spanning learning for biologists. Jason’s
+“Reinventing Scientific Talent” proposal was a winning entry in the US National
+Science Foundation’s NSF 2026 Idea Machine search for the next set of
+“Big Ideas”; proposals that will shape funding priorities for the foundation.
+Jason is founder of LifeSciTrainers.org – a global effort to promote community
+of practice among professionals who develop short-format training for life
+scientists. Jason is also a member of and has chaired science advisory boards in
+the US, UK, and Australia, and is a former chair of the Software Carpentry
+Foundation. In 2020, Jason was recognized as a US National Academy of Sciences
+Kavli Frontiers of Science Fellow. Jason is also a teacher at the Yeshiva
+University High School for Girls.
 
 ## Other Things
 
