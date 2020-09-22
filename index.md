@@ -235,6 +235,7 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 
 |Role|Year|
 |----|----|
+|**Member, Board of Directors**: [Data Dryad](https://datadryad.org/)|2020-23|
 | **Member, Equity, Diversity, and Inclusion (EDI) Advisory Group**: [Global Alliance for Genomics and Health (GA4GH)](https://www.ga4gh.org/)|2020- |
 | **Chair, Training Advisory Group**: [Australian BioCommons](https://www.biocommons.org.au/)|2020- |
 | **National Science Foundation**: [2026 Idea Machine Meritorius Prize Winner](https://www.nsf.gov/news/news_summ.jsp?cntn_id=299946&org=NSF&from=news)|2020
@@ -265,7 +266,7 @@ Any takers?
   promote career-spanning “workforce development” can be connected into an
   inclusive community of practice framework
 
-  **Status:** Awaiting NSF Decision
+  **Update: [Funded](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2027025&HistoricalAwards=false), blog post [here](https://lifescitrainers.org/2020/09/15/what-works-in-workshops-conference/)**.
 
 - [The Genomics Education Alliance - Pre-print](https://figshare.com/articles/A_Genomics_Education_Alliance/5197228) is a white paper for bringing together several
   genomics education initiatives to develop course-based research experiences.
@@ -291,17 +292,11 @@ education programs. Jason leads education, outreach, and training for CyVerse
 (US national cyberinfrastructure for the life sciences) and has trained
 thousands of students, researchers and educators in bioinformatics, data science
 , and molecular biology. Jason's focus has been developing bioinformatics in
-undergraduate education and career-spanning learning for biologists. Jason’s
-“Reinventing Scientific Talent” proposal was a winning entry in the US National
-Science Foundation’s NSF 2026 Idea Machine search for the next set of
-“Big Ideas”; proposals that will shape funding priorities for the foundation.
+undergraduate education and career-spanning learning for biologists.
 Jason is founder of LifeSciTrainers.org – a global effort to promote community
 of practice among professionals who develop short-format training for life
 scientists. Jason is also a member of and has chaired science advisory boards in
-the US, UK, and Australia, and is a former chair of the Software Carpentry
-Foundation. In 2020, Jason was recognized as a US National Academy of Sciences
-Kavli Frontiers of Science Fellow. Jason is also a teacher at the Yeshiva
-University High School for Girls.
+the US, UK, and Australia, He is also a teacher at the Yeshiva University High School for Girls.
 
 ## Other Things
 
