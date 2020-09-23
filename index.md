@@ -231,7 +231,7 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 - **[Data mining with iPlant: A meeting report from the 2013 GARNet workshop, Data mining with iPlant](https://academic.oup.com/jxb/article-lookup/doi/10.1093/jxb/eru402)** Martin, L., Charis C., Matasci N., Williams, J., and Bastow R.,. J. Exp. Bot. (2015) 66 (1): 1-6. doi: 10.1093/jxb/eru402, http://dx.doi.org/10.1093/jxb/eru402
 - **[A Vision for Collaborative Training Infrastructure for Bioinformatics](http://onlinelibrary.wiley.com/doi/10.1111/nyas.13207/abstract)** Williams, Jason J. and Teal, Tracy K. (2016). Annals of the New York Academy of Sciences.
 
-## Academic Community Service And Awards
+## Academic Community Service and Awards
 
 |Role|Year|
 |----|----|
