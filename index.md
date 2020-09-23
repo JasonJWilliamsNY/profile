@@ -237,6 +237,7 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 |----|----|
 | **Member, Board of Directors**: [Data Dryad](https://datadryad.org/)|2020-23|
 | **Education-track co-chair**: [JupyterCon](https://jupytercon.com/)   |2020   |
+| **Member, ASPB Forward** (Strategic planning committee for [American Society of Plant Biology](https://aspb.org/) ) |2020-   |
 | **Member, Equity, Diversity, and Inclusion (EDI) Advisory Group**: [Global Alliance for Genomics and Health (GA4GH)](https://www.ga4gh.org/)|2020- |
 | **Chair, Training Advisory Group**: [Australian BioCommons](https://www.biocommons.org.au/)|2020- |
 | **National Science Foundation**: [2026 Idea Machine Meritorius Prize Winner](https://www.nsf.gov/news/news_summ.jsp?cntn_id=299946&org=NSF&from=news)|2020
