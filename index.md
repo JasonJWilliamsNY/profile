@@ -51,9 +51,9 @@ multi-day training events.
 |Venue|Presentation|Location|Notes|
 |------------|-----|--------|-----|
 |NSF NorthEast Big Data Hub|**Invited Speaker**:  Northeast Student Data Corps (NSDC) Data Science Career Panel|Online|   |
-|James Madison University|**Workshop**:JMU Center for Genome and Metagenome Studies (CGEMS) - Getting started with R and CyVerse|Online|   |
 |North Carolina State University|**Workshop**: RNA-Seq|Online|   |
-|Atlanta University Consortium Data Science Initiative|**Workshop**: Genomics Data Carpentry|Online|   |   
+|James Madison University|**Workshop**:JMU Center for Genome and Metagenome Studies (CGEMS) - Getting started with R and CyVerse|Online|   |
+|Atlanta University Center Consortium Data Science Initiative|**Workshop**: Genomics Data Carpentry|Online|   |   
 |Bioinformatics Open Source Conference|Organizing Committee|Online|   |   |
 |NIH National Human Genomics Research Institute|**Invited Keynote**: 2021 NHGRI Short Course in Genomics|Online|   |   |
 |2021 U.S. Kavli Frontiers of Science Symposium|Invited Fellow/Organizing committee|Irvine, CA||   |
