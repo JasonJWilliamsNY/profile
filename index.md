@@ -54,9 +54,9 @@ multi-day training events.
 |North Carolina State University|**Workshop**: RNA-Seq|Online|   |
 |James Madison University|**Workshop**:JMU Center for Genome and Metagenome Studies (CGEMS) - Getting started with R and CyVerse|Online|   |
 |Atlanta University Center Consortium Data Science Initiative|**Workshop**: Genomics Data Carpentry|Online|   |   
-|Bioinformatics Open Source Conference|Organizing Committee|Online|   |   |
+|Bioinformatics Open Source Conference|**Organizing Committee**|Online|   |   |
 |NIH National Human Genomics Research Institute|**Invited Keynote**: 2021 NHGRI Short Course in Genomics|Online|   |   |
-|2021 U.S. Kavli Frontiers of Science Symposium|Invited Fellow/Organizing committee|Irvine, CA||   |
+|2021 U.S. Kavli Frontiers of Science Symposium|**Invited Fellow/Organizing committee**|Irvine, CA||   |
 |Bioinformatics Open Source Conference|Organizing Committee|Online|   |   
 |CSHL Banbury Center|**Organizer**: Making Career-spanning Learning in the Life Sciences Inclusive and Effective for All|TBA|   |   |
 
