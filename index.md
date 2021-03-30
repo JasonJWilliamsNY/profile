@@ -23,6 +23,7 @@ a global community of practice for short-format training in the life sciences (
 open to anyone who provides training for life scientists).
 
 - **Workshops, Talks, Teaching, and Presentations**
+  - [2021](https://jasonjwilliamsny.github.io/profile/#2021)
   - [2020](https://jasonjwilliamsny.github.io/profile/#2020)
   - [2019](https://jasonjwilliamsny.github.io/profile/#2019)
   - [2018](https://jasonjwilliamsny.github.io/profile/#2018)
@@ -39,14 +40,29 @@ open to anyone who provides training for life scientists).
 
 # Workshops, Talks, Teaching, and Presentations
 
-This list mainly reflects my work with [CyVerse](http://www.cyverse.org) (formerly
-iPlant Collaborative), a project I work on that brings cyberinfrastructure to biologists.
+This list significantly includes my work with [CyVerse](http://www.cyverse.org), a project I work on that brings cyberinfrastructure to biologists.
 I am their Education, Outreach, and Training lead, so I get to help lots of
 biologists use computation in their teaching and research. Workshops are mainly
 multi-day training events.
 
-## 2020
+## 2021
 (includes scheduled events)
+
+|Venue|Presentation|Location|Notes|
+|------------|-----|--------|-----|
+|NSF NorthEast Big Data Hub|**Invited Speaker**:  Northeast Student Data Corps (NSDC) Data Science Career Panel|Online|   |
+|James Madison University|**Workshop**:JMU Center for Genome and Metagenome Studies (CGEMS) - Getting started with R and CyVerse|Online|   |
+|North Carolina State University|**Workshop**: RNA-Seq|Online|   |
+|Atlanta University Consortium Data Science Initiative|**Workshop**: Genomics Data Carpentry|Online|   |   
+|Bioinformatics Open Source Conference|Organizing Committee|Online|   |   |
+|NIH National Human Genomics Research Institute|**Invited Keynote**: 2021 NHGRI Short Course in Genomics|Online|   |   |
+|2021 U.S. Kavli Frontiers of Science Symposium|Invited Fellow/Organizing committee|Irvine, CA||   |
+|Bioinformatics Open Source Conference|Organizing Committee|Online|   |   
+|CSHL Banbury Center|**Organizer**: Making Career-spanning Learning in the Life Sciences Inclusive and Effective for All|TBA|   |   |
+
+
+
+## 2020
 
 |Venue|Presentation|Location|Notes|
 |------------|-----|--------|-----|
@@ -57,7 +73,15 @@ multi-day training events.
 |International Plant and Animal Genome Meeting (PAG XXVIII)|**Invited Speaker**: Cloud Computing for Genomics Data Analysis: "Reproducibility in the Clouds - Harnessing the *in nube* Paradigm"|San Diego, CA|[slides](https://de.cyverse.org/dl/d/1967BCDF-24C4-4D59-A77D-83943137BC7E/WILLIAMS_Jason_In-Nube.pdf)|
 |National Science Foundational| **Awardee**: NSF 2026 Idea Machine Award Ceremony - Reinventing Scientific Talent  |Alexandria, VA|[Press release](https://www.nsf.gov/news/special_reports/nsf2026ideamachine/index.jsp)  |
 |CyVerse Foundational Open Science Skills (FOSS) Camp|**Instructor**: Introduction to Reproducible Science|Tucson, AZ|[Lesson materials](https://learning.cyverse.org/projects/foss-2020/en/latest/reproducible_science/intro.html)|
-|The Allied Genetics Conference 2020|**Selected Talk**: The Genomics Education Alliance Scalable, Sustainable Infrastructure for Undergraduate CUREs|Online|[Slides](https://bit.ly/tagc-gea-2020)|
+|The Allied Genetics Conference 2020|**Selected Talk**: The Genomics Education Alliance Scalable, Sustainable Infrastructure for Undergraduate CUREs|Online|[slides](https://bit.ly/tagc-gea-2020)|
+|Plant Biology 2020 Online|**Selected Talk**: Reproducible Analyses with Jupyter and R on CyVerse|Online|[slides](https://de.cyverse.org/dl/d/6A6E9BEE-5EC7-49FF-94CA-C4A9581E21F5/WILLIAMS_Jason_Reproducible_Analyses_with_Jupyter_and_R_on_CyVerse.pdf)|
+|2021 Biology and Mathematics Educators (BIOME) Institute|**Selected Workshop**: RNA-Seq and Jupyter - Bringing Genomics Into the Classroom|Online||   |
+|2021 Biology and Mathematics Educators (BIOME) Institute|**Poster**: Making bioinformatics tools classroom-friendly|Online||   |
+|2020 U.S. Kavli Frontiers of Science Symposium|Invited Fellow/Participant|Online||   |
+|Carnegie-mellon University|**Invited Seminar; Computational Biology**|Online|   |   |
+|University of Arizona|**Invited Ecology Graduate Seminar**|Online|   |   |
+
+
 
 ## 2019
 
@@ -84,6 +108,7 @@ multi-day training events.
 |Elixir UK All-hands, University of Dundee|**Invited Keynote**: The View from Nowhere in Computational Infrastructure |Dundee, Scotland|[slides](http://bit.ly/elixiruk2019)|
 
 
+
 ## 2018
 
 |Venue|Presentation|Location|Notes|
@@ -105,6 +130,8 @@ multi-day training events.
 |BioInfoSummer|**Invited Keynote**:"Improving the Bioinformatics Curriculum" **Invited Instructor**: "Introduction to Kallisto and Sleuth RNA-Seq Workflows -Bulk and Single-cell RNA-Seq applications"|Perth, AU||
 |Earlham Institute|CyVerse UK Workshop|Norwich, UK||
 
+
+
 ## 2017
 
 |Venue|Presentation|Location|Notes|
@@ -120,6 +147,7 @@ multi-day training events.
 |New Mexico State University|Genomics Data Carpentry and CyVerse Tools and Services Workshops|Las Cruces, NM||
 |ASPB Conviron Scholars|**Panelist:** Plantae Conviron Scholars Career Panel|Online||
 |Toronto Bioinformatics User Group|**Invited Speaker:** TorBUG Bioinformatics Seminar - "The Bioinformatics Training Landscape"|Toronto, CN|[slides](https://de.cyverse.org/dl/d/DF632022-42BA-40A9-BE3E-8D99F1739652/TorBug_2017_bioinformatics_training_lanscape_WILLIAMS.pdf)|
+
 
 
 ## 2016
@@ -147,6 +175,8 @@ multi-day training events.
 |Biological Data Science|Poster: Required Parameters - What Does it Take to Bring Bioinformatics into the Classroom at a National Level?|Cold Spring Harbor, NY|[poster](https://de.cyverse.org/dl/d/A3717FBA-CC99-4B39-92C5-5D32FA9FDBBD/biological_data_science_2016_final.pdf)|
 |EMBL-Australian Bioinformatics Resource|**Invited Lecture/Workshop Organizer:** EMBL-ABR workshop on Open Source and Software Development Best Practice|Melbourne, AU|[agenda](https://www.embl-abr.org.au/bioinformatics-sw-workshop/)|
 |EMBL-Australian Bioinformatics Resource|**Invited Lecture/Workshop Organizer:** EMBL-ABR Open and Scalable Training workshop|Melbourne, AU|[agenda](https://www.embl-abr.org.au/open-scalable-workshop/)|
+
+
 
 ## 2015
 
@@ -176,6 +206,7 @@ multi-day training events.
 |Plant Genomes & Biotechnology: From Genes to Networks|**Invited Talk**: Scaling plant science (and scientists) using Biological Cyberinfrastructure|Cold Spring Harbor, NY||
 
 
+
 ## 2014
 
 |Venue|Presentation|Location|Notes|
@@ -201,6 +232,8 @@ multi-day training events.
 |Cold Spring Harbor Laboratory|**Meeting founder/organizer/session chair**: Biological Data Science (Inaugural Meeting)/|Cold Spring Harbor, NY||
 |Cold Spring Harbor Laboratory|iPlant Train-the-Trainers|Cold Spring Harbor, NY||
 
+
+
 ## Selected Publications and Products
 
 - **[Pre-print: The Rockerverse: Packages and Applications for Containerization with R](https://arxiv.org/abs/2001.10641)**
@@ -220,7 +253,7 @@ Williams JJ, Drew JC, Galindo-Gonzalez S, Robic S, Dinsdale E, et al. (2019) Bar
 Lisa Harper, Jacqueline Campbell, Ethalinda K S Cannon, Sook Jung, Monica Poelchau, Ramona Walls, Carson Andorf, Elizabeth Arnaud, Tanya Z Berardini, Clayton Birkett, Steve Cannon, James Carson, Bradford Condon, Laurel Cooper, Nathan Dunn, Christine G Elsik, Andrew Farmer, Stephen P Ficklin, David Grant, Emily Grau, Nic Herndon, Zhi-Liang Hu, Jodi Humann, Pankaj Jaiswal, Clement Jonquet, Marie-Angélique Laporte, Pierre Larmande, Gerard Lazo, Fiona McCarthy, Naama Menda, Christopher J Mungall, Monica C Munoz-Torres, Sushma Naithani, Rex Nelson, Daureen Nesdill, Carissa Park, James Reecy, Leonore Reiser, Lacey-Anne Sanderson, Taner Z Sen, Margaret Staton, Sabarinath Subramaniam, Marcela Karey Tello-Ruiz, Victor Unda, Deepak Unni, Liya Wang, Doreen Ware, Jill Wegrzyn, Jason Williams, Margaret Woodhouse, Jing Yu, Doreen Main
 Database, Volume 2018, 1 January 2018, Pages 1–32
 - **[Pre-print: A Genomics Education Alliance](https://figshare.com/articles/preprint/A_Genomics_Education_Alliance/5197228/1)**
-Sarah C R Elgin, Gita Bangera, Vincent P. Buonaccorsi, Douglas L. Chalker, Elizabeth Dinsdale, Erin L. Dolan, Linnea Fletcher, Arthur Hunt, Carolyn J. Lawrence-Dill, Wilson Leung, Laura K. Reed, Anne G. Rosenwald, Sandesh Subramanya, Emily Wiley, Jason Williams. (2017): A Genomics Education Alliance. figshare. Preprint[https://doi.org/10.6084/m9.figshare.5197228.v1](https://doi.org/10.6084/m9.figshare.5197228.v1). 
+Sarah C R Elgin, Gita Bangera, Vincent P. Buonaccorsi, Douglas L. Chalker, Elizabeth Dinsdale, Erin L. Dolan, Linnea Fletcher, Arthur Hunt, Carolyn J. Lawrence-Dill, Wilson Leung, Laura K. Reed, Anne G. Rosenwald, Sandesh Subramanya, Emily Wiley, Jason Williams. (2017): A Genomics Education Alliance. figshare. Preprint[https://doi.org/10.6084/m9.figshare.5197228.v1](https://doi.org/10.6084/m9.figshare.5197228.v1).
 -  **[Pre-print: Barriers to Integration of Bioinformatics into Undergraduate Life Sciences Education](https://doi.org/10.1101/204420 )**
 Jason Williams, Jennifer Drew, Sebastian Galindo-Gonzalez, Srebrenka Robic, Elizabeth Dinsdale, William Morgan, Eric Triplett, James Burnette, Sam Donovan, Sarah Elgin, Edison Fowlks, Anya Goodman, Neal Grandgenett, Carlos Goller, Charles Hauser, John R. Jungck, Jeffrey Newman, William Pearson, Elizabeth Ryder, Melissa Wilson Sayres, Michael Sierk, Todd Smith, Rafael Tosado-Acevedo, William Tapprich, Tammy Tobin, Arlin Toro-Martínez, Lonnie Welch, Robin Wright, David Ebenbach, Mindy McWilliams, Anne Rosenwald, Mark Pauley
 bioRxiv 204420
@@ -237,7 +270,9 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 
 |Role|Year|
 |----|----|
-| **Member, Board of Directors**: [Data Dryad](https://datadryad.org/)|2020-23|
+| **Member, [National Academy of Sciences Kavli Frontiers of Science 2021, US Symposium Organizing Committee](http://www.nasonline.org/programs/kavli-frontiers-of-science/)**|2021|
+| **Member, [Bioinformatics Open Source Conference](https://www.open-bio.org/events/bosc-2021/) Organizing Committee**|2021-   |
+| **Secretary, Board of Directors**: [Data Dryad](https://datadryad.org/)|2020-23|
 | **Education track co-chair**: [JupyterCon](https://jupytercon.com/)   |2020   |
 | **Member, ASPB Forward**: (Strategic planning committee for [American Society of Plant Biology](https://aspb.org/) ) |2020-   |
 | **Member, Equity, Diversity, and Inclusion (EDI) Advisory Group**: [Global Alliance for Genomics and Health (GA4GH)](https://www.ga4gh.org/)|2020- |
