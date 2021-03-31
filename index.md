@@ -50,6 +50,7 @@ multi-day training events.
 
 |Venue|Presentation|Location|Notes|
 |------------|-----|--------|-----|
+|CyVerse Foundational Open Science Skills|**Instructor**|Online|   |
 |NSF NorthEast Big Data Hub|**Invited Speaker**:  Northeast Student Data Corps (NSDC) Data Science Career Panel|Online|   |
 |North Carolina State University|**Workshop**: RNA-Seq|Online|   |
 |James Madison University|**Workshop**:JMU Center for Genome and Metagenome Studies (CGEMS) - Getting started with R and CyVerse|Online|   |
