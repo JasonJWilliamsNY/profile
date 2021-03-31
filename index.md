@@ -270,6 +270,7 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 
 |Role|Year|
 |----|----|
+|Editor, [Journal of Open Source Software](https://jose.theoj.org/)|2021-   |
 | **Member, [National Academy of Sciences Kavli Frontiers of Science 2021, US Symposium Organizing Committee](http://www.nasonline.org/programs/kavli-frontiers-of-science/)**|2021|
 | **Member, [Bioinformatics Open Source Conference](https://www.open-bio.org/events/bosc-2021/) Organizing Committee**|2021-   |
 | **Secretary, Board of Directors**: [Data Dryad](https://datadryad.org/)|2020-23|
@@ -329,13 +330,12 @@ Jason Williams is Assistant Director, External Collaborations at the Cold Spring
 Harbor Laboratory DNA Learning Center where he develops national biology
 education programs. Jason leads education, outreach, and training for CyVerse
 (US national cyberinfrastructure for the life sciences) and has trained
-thousands of students, researchers and educators in bioinformatics, data science
-, and molecular biology. Jason's focus has been developing bioinformatics in
-undergraduate education and career-spanning learning for biologists.
-Jason is founder of LifeSciTrainers.org – a global effort to promote community
-of practice among professionals who develop short-format training for life
-scientists. Jason is also a member of and has chaired science advisory boards in
-the US, UK, and Australia, He is also a teacher at the Yeshiva University High School for Girls.
+thousands of students, researchers and educators in bioinformatics, data
+science, and molecular biology. Jason's focus has been developing
+bioinformatics in undergraduate education and career-spanning learning for
+biologists. Jason is founder of LifeSciTrainers.org – a global effort to
+promote community of practice among professionals who develop short-format
+training for life scientists. Jason is advisory to cyberinfrastructure, bioinformatics, and education projects and initiatives in the US, UK, Europe, and Australia. He is also a teacher at the Yeshiva University High School for Girls.
 
 ## Other Things
 
