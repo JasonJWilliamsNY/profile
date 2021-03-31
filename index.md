@@ -271,8 +271,8 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 |Role|Year|
 |----|----|
 | **Editor, [Journal of Open Source Software](https://jose.theoj.org/)** |2021-   |
-| **Member, [National Academy of Sciences Kavli Frontiers of Science 2021, US Symposium Organizing Committee](http://www.nasonline.org/programs/kavli-frontiers-of-science/)**|2021|
-| **Member, [Bioinformatics Open Source Conference](https://www.open-bio.org/events/bosc-2021/) Organizing Committee**|2021-   |
+| **Member, Organizing Committee** [National Academy of Sciences Kavli Frontiers of Science 2021, US Symposium ](http://www.nasonline.org/programs/kavli-frontiers-of-science/)**|2021|
+| **Member, Organizing Committee** [Bioinformatics Open Source Conference](https://www.open-bio.org/events/bosc-2021/) |2021-   |
 | **Secretary, Board of Directors**: [Data Dryad](https://datadryad.org/)|2020-23|
 | **Education track co-chair**: [JupyterCon](https://jupytercon.com/)   |2020   |
 | **Member, ASPB Forward**: (Strategic planning committee for [American Society of Plant Biology](https://aspb.org/) ) |2020-   |
