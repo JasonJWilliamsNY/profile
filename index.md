@@ -59,7 +59,7 @@ multi-day training events.
 |NIH National Human Genomics Research Institute|**Invited Keynote**: 2021 NHGRI Short Course in Genomics|Online|   |   |
 |2021 U.S. Kavli Frontiers of Science Symposium|**Invited Fellow/Organizing committee**|Irvine, CA||   |
 |Bioinformatics Open Source Conference|Organizing Committee|Online|   |   
-|CSHL Banbury Center|**Organizer**: Making Career-spanning Learning in the Life Sciences Inclusive and Effective for All|TBA|   |   |
+|CSHL Banbury Center|**Organizer/PI**: Making Career-spanning Learning in the Life Sciences Inclusive and Effective for All|TBA|   |   |
 
 
 
