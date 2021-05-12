@@ -11,8 +11,7 @@ An incomplete list of things I do and have done, if you have to know for some
 reason.
 
 I've worked at [Cold Spring Harbor Laboratory](http://www.cshl.edu) since 2004, first
-at the bench in the Plant Science group and currently as Assistant Director,
-External Collaborations of the lab's [DNA Learning Center](http://www.dnalc.org). I
+at the bench in the Plant Science group and currently as an Assistant Director at the lab's [DNA Learning Center](http://www.dnalc.org). I
 also get to teach my own science course a few hours a week at
 [Yeshiva University High School for Girls](http://www.yushg.org).
 I think helping scientists keep up with changing technology is one of the most
@@ -327,16 +326,19 @@ An acceptable photo for your press releases
 If you are introducing me at a talk, feel free to use (or not) the following:
 
 
-Jason Williams is Assistant Director, External Collaborations at the Cold Spring
-Harbor Laboratory DNA Learning Center where he develops national biology
-education programs. Jason leads education, outreach, and training for CyVerse
-(US national cyberinfrastructure for the life sciences) and has trained
+Jason Williams is Assistant Director, Inclusion and Research Readiness at the
+Cold Spring Harbor Laboratory DNA Learning Center where he develops national
+biology education programs. Jason leads education, outreach, and training for
+CyVerse (US national cyberinfrastructure for the life sciences) and has trained
 thousands of students, researchers and educators in bioinformatics, data
 science, and molecular biology. Jason's focus has been developing
 bioinformatics in undergraduate education and career-spanning learning for
 biologists. Jason is founder of LifeSciTrainers.org – a global effort to
 promote community of practice among professionals who develop short-format
-training for life scientists. Jason is advisory to cyberinfrastructure, bioinformatics, and education projects and initiatives in the US, UK, Europe, and Australia. He is also a teacher at the Yeshiva University High School for Girls.
+training for life scientists. Jason is advisory to cyberinfrastructure,
+bioinformatics, and education projects and initiatives in the US, UK, Europe,
+and Australia. He is also a teacher at the Yeshiva University High School for
+Girls.
 
 ## Other Things
 
