@@ -236,6 +236,8 @@ multi-day training events.
 
 ## Selected Publications and Products
 
+- **[Pre-print: Building Back More Equitable STEM Education: Teach Science by Engaging Students in Doing Science](https://www.biorxiv.org/content/10.1101/2021.06.01.446616v1)**
+Sarah C R Elgin, Shan Hays, Vida Mingo, Christopher D Shaffer, Jason Williams 
 - **[Pre-print: The Rockerverse: Packages and Applications for Containerization with R](https://arxiv.org/abs/2001.10641)**
 Daniel Nüst, Dirk Eddelbuettel, Dom Bennett, Robrecht Cannoodt, Dav Clark,
 Gergely Daroczi, Mark Edmondson, Colin Fay, Ellis Hughes, Lars Kjeldgaard,
