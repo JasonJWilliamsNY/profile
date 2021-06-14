@@ -53,11 +53,11 @@ multi-day training events.
 |NSF NorthEast Big Data Hub|**Invited Speaker**:  Northeast Student Data Corps (NSDC) Data Science Career Panel|Online|   |
 |North Carolina State University|**Workshop**: RNA-Seq|Online|   |
 |James Madison University|**Workshop**:JMU Center for Genome and Metagenome Studies (CGEMS) - Getting started with R and CyVerse|Online|   |
-|Atlanta University Center Consortium Data Science Initiative|**Workshop**: Genomics Data Carpentry|Online|   |   
-|Bioinformatics Open Source Conference|**Organizing Committee**|Online|   |   |
-|NIH National Human Genomics Research Institute|**Invited Keynote**: 2021 NHGRI Short Course in Genomics|Online|   |   |
+|Atlanta University Center Consortium Data Science Initiative|**Workshop**: Genomics Data Carpentry|Online|   |  
+|Plant Biology 2021|CyVerse Tools for Reproducible Research|Online| |
+|NIH National Human Genomics Research Institute|**Invited Keynote**: 2021 NHGRI Short Course in Genomics; title TBA|Online|   |   |
+|National Academies of Science|**Invited Seminar**: TBA|Irvine, CA| |
 |2021 U.S. Kavli Frontiers of Science Symposium|**Invited Fellow/Organizing committee**|Irvine, CA||   |
-|Bioinformatics Open Source Conference|Organizing Committee|Online|   |   
 |CSHL Banbury Center|**Organizer/PI**: Making Career-spanning Learning in the Life Sciences Inclusive and Effective for All|TBA|   |   |
 
 
@@ -237,7 +237,7 @@ multi-day training events.
 ## Selected Publications and Products
 
 - **[Pre-print: Building Back More Equitable STEM Education: Teach Science by Engaging Students in Doing Science](https://www.biorxiv.org/content/10.1101/2021.06.01.446616v1)**
-Sarah C R Elgin, Shan Hays, Vida Mingo, Christopher D Shaffer, Jason Williams 
+Sarah C R Elgin, Shan Hays, Vida Mingo, Christopher D Shaffer, Jason Williams
 - **[Pre-print: The Rockerverse: Packages and Applications for Containerization with R](https://arxiv.org/abs/2001.10641)**
 Daniel Nüst, Dirk Eddelbuettel, Dom Bennett, Robrecht Cannoodt, Dav Clark,
 Gergely Daroczi, Mark Edmondson, Colin Fay, Ellis Hughes, Lars Kjeldgaard,
