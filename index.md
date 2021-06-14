@@ -51,9 +51,10 @@ multi-day training events.
 |------------|-----|--------|-----|
 |CyVerse Foundational Open Science Skills|**Instructor**|Online|[course site](https://learning.cyverse.org/projects/cyverse-foss/en/latest/index.html)|
 |NSF NorthEast Big Data Hub|**Invited Speaker**:  Northeast Student Data Corps (NSDC) Data Science Career Panel|Online|   |
-|North Carolina State University|**Workshop**: RNA-Seq|Online|   |
-|James Madison University|**Workshop**:JMU Center for Genome and Metagenome Studies (CGEMS) - Getting started with R and CyVerse|Online|   |
+|North Carolina State University|**Workshop**:Introduction to Bioinformatics with CyVerse|Online|   |
 |Atlanta University Center Consortium Data Science Initiative|**Workshop**: Genomics Data Carpentry|Online|   |  
+|SfAM International Applied Microbiology Conference 2021|**Invited Workshop**: Introduction to RNA-Seq with the Kallisto and Sleuth workflows|Online| |
+|James Madison University|**Workshop**:JMU Center for Genome and Metagenome Studies (CGEMS) - Getting started with R and CyVerse|Online|   |
 |Plant Biology 2021|CyVerse Tools for Reproducible Research|Online| |
 |NIH National Human Genomics Research Institute|**Invited Keynote**: 2021 NHGRI Short Course in Genomics; title TBA|Online|   |   |
 |National Academies of Science|**Invited Seminar**: TBA|Irvine, CA| |
