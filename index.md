@@ -56,8 +56,9 @@ multi-day training events.
 |SfAM International Applied Microbiology Conference 2021|**Invited Workshop**: Introduction to RNA-Seq with the Kallisto and Sleuth workflows|Online| |
 |James Madison University|**Workshop**:JMU Center for Genome and Metagenome Studies (CGEMS) - Getting started with R and CyVerse|Online|   |
 |Plant Biology 2021|CyVerse Tools for Reproducible Research|Online| |
-|NIH National Human Genomics Research Institute|**Invited Keynote**: 2021 NHGRI Short Course in Genomics; title TBA|Online|   |   |
-|National Academies of Science|**Invited Lecture**: TBA|Irvine, CA| |
+|Prairie View A&M University College of Engineering|**Invited Speaker**:Extending the Possibilities ofBiology with Open Science|Online| |
+|NIH National Human Genomics Research Institute|**Invited Keynote**: 2021 NHGRI Short Course in Genomics: Owning the Genome|Online|   |   |
+|National Academies of Science|**Invited Lecture**: Open Science and Learning in the Genome Age|Irvine, CA| |
 |2021 U.S. Kavli Frontiers of Science Symposium|**Invited Fellow/Organizing committee**|Irvine, CA||   |
 |CSHL Banbury Center|**Organizer/PI**: Making Career-spanning Learning in the Life Sciences Inclusive and Effective for All|TBA|   |   |
 
