@@ -58,6 +58,8 @@ multi-day training events.
 |Plant Biology 2021|CyVerse Tools for Reproducible Research|Online| |
 |Prairie View A&M University College of Engineering|**Invited Speaker**:Extending the Possibilities ofBiology with Open Science|Online| |
 |NIH National Human Genomics Research Institute|**Invited Keynote**: 2021 NHGRI Short Course in Genomics: Owning the Genome|Online|   |   |
+|American Society of Cell Biology Public Engagement Webinar|Relevance and RapportPromoting inclusion through public engagement|Online   |   |
+|Black Women in Computational Biology|Opening Doors - Preparing the Next Generation of Computational Biologists|Online| |
 |National Academies of Science|**Invited Lecture**: Open Science and Learning in the Genome Age|Irvine, CA| |
 |2021 U.S. Kavli Frontiers of Science Symposium|**Invited Fellow/Organizing committee**|Irvine, CA||   |
 |CSHL Banbury Center|**Organizer/PI**: Making Career-spanning Learning in the Life Sciences Inclusive and Effective for All|TBA|   |   |
