@@ -276,6 +276,7 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 
 |Role|Year|
 |----|----|
+|**Member, Scientific Advisory Board**:[Lupus Research Alliance](https://www.lupusresearch.org/)|2022-|
 | **Member, Diversity, Equity, Inclusion, and Justice committee**: [Earth BioGenome Project](https://www.earthbiogenome.org/) |2021-   |
 | **Editor**: [Journal of Open Source Software](https://jose.theoj.org/) |2021-   |
 | **Member, Organizing Committee**: [National Academy of Sciences Kavli Frontiers of Science 2021, US Symposium ](http://www.nasonline.org/programs/kavli-frontiers-of-science/)|2021|
