@@ -51,15 +51,13 @@ multi-day training events.
 
 |Venue|Presentation|Location|Notes|
 |------------|-----|--------|-----|
-|Chan Zuckerberg Initiative|**Workshop attendee**: Workshop on Support for
-Open Science Training and Education
-|Online| |
+|Chan Zuckerberg Initiative|**Workshop attendee**: Workshop on Support for Open Science Training and Education|Online| |
 |National Society of Black Engineers|**Workshop**: Plotting and Programing in Python|Anaheim, CA| |
 |North-East Regional Meeting Society for Developmental Biology|**Invited talk**: Career-spanning Learning in the Life Sciences; Supporting Open, Data-driven Biology |Woods Hole, MA| |
 |BioIT World Conference & Expo 2022 |**Invited Chair**: Session: Application and Utility of FAIR Data Principles|Boston, MA| |
 |2022 U.S. Kavli Frontiers of Science Symposium|**Invited Fellow/Organizing committee**|Irvine, CA| |   |
 |National Academies of Science|**Invited Lecture**: Open Science and Learning in the Genome Age|Irvine, CA|[upcoming link](http://www.nasonline.org/programs/distinctive-voices/upcoming-events.html) |
-|CSHL Banbury Center|**Organizer/PI**: Making Career-spanning Learning in the Life Sciences Inclusive and Effective for All|Cold Spring Harbor, NY|   |   |
+|CSHL Banbury Center|**Organizer/PI**: Making Career-spanning Learning in the Life Sciences Inclusive and Effective for All|Cold Spring Harbor, NY| | |
 |National Institutes of Health| **Invited attendee, session moderator**: NINDS Workshop on Catalyzing Communities of Research Rigor Champions|Bethesda, MD| |
 |CyVerse Foundational Open Science Skills|**Instructor**|Tucson, AZ|[course site](https://cyverse.org/foss)|
 |Frontiers and Techniques In Plant Science|**Invited Workshop**: Title:TBD |Cold Spring Harbor, NY| |
@@ -297,7 +295,8 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 
 |Role|Year|
 |----|----|
-|**Member, Scientific Advisory Board**:[Lupus Research Alliance](https://www.lupusresearch.org/)|2022-|
+|**Member**: Federation of Scientific Societies - [Data Works Advisory Committee](https://www.faseb.org/resources/data-science-and-informatics) |2022- |
+|**Member, Scientific Advisory Board**: [Lupus Research Alliance](https://www.lupusresearch.org/)|2022-|
 | **Member, Diversity, Equity, Inclusion, and Justice committee**: [Earth BioGenome Project](https://www.earthbiogenome.org/) |2021-   |
 | **Editor**: [Journal of Open Source Software](https://jose.theoj.org/) |2021-   |
 | **Member, Organizing Committee**: [National Academy of Sciences Kavli Frontiers of Science 2021, US Symposium ](http://www.nasonline.org/programs/kavli-frontiers-of-science/)|2021|
