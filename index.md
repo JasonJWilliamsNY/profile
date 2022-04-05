@@ -22,6 +22,7 @@ a global community of practice for short-format training in the life sciences (
 open to anyone who provides training for life scientists).
 
 - **Workshops, Talks, Teaching, and Presentations**
+  - [2022](https://jasonjwilliamsny.github.io/profile/#2022)
   - [2021](https://jasonjwilliamsny.github.io/profile/#2021)
   - [2020](https://jasonjwilliamsny.github.io/profile/#2020)
   - [2019](https://jasonjwilliamsny.github.io/profile/#2019)
@@ -44,6 +45,26 @@ I am their Education, Outreach, and Training lead, so I get to help lots of
 biologists use computation in their teaching and research. Workshops are mainly
 multi-day training events.
 
+
+## 2022
+(includes scheduled events)
+
+|Venue|Presentation|Location|Notes|
+|------------|-----|--------|-----|
+|Chan Zuckerberg Initiative|**Workshop attendee**: Workshop on Support for
+Open Science Training and Education
+|Online| |
+|National Society of Black Engineers|**Workshop**: Plotting and Programing in Python|Anaheim, CA| |
+|North-East Regional Meeting Society for Developmental Biology|**Invited talk**: Career-spanning Learning in the Life Sciences; Supporting Open, Data-driven Biology |Woods Hole, MA| |
+|BioIT World Conference & Expo 2022 |**Invited Chair**: Session: Application and Utility of FAIR Data Principles|Boston, MA| |
+|2022 U.S. Kavli Frontiers of Science Symposium|**Invited Fellow/Organizing committee**|Irvine, CA| |   |
+|National Academies of Science|**Invited Lecture**: Open Science and Learning in the Genome Age|Irvine, CA|[upcoming link](http://www.nasonline.org/programs/distinctive-voices/upcoming-events.html) |
+|CSHL Banbury Center|**Organizer/PI**: Making Career-spanning Learning in the Life Sciences Inclusive and Effective for All|Cold Spring Harbor, NY|   |   |
+|National Institutes of Health| **Invited attendee, session moderator**: NINDS Workshop on Catalyzing Communities of Research Rigor Champions|Bethesda, MD| |
+|CyVerse Foundational Open Science Skills|**Instructor**|Tucson, AZ|[course site](https://cyverse.org/foss)|
+|Frontiers and Techniques In Plant Science|**Invited Workshop**: Title:TBD |Cold Spring Harbor, NY| |
+|Bioinformatics Open Source Conference|**Conference Organizer/Panel Host**: Building and Maintaining Inclusive Open Science |Madison, WI| |
+
 ## 2021
 (includes scheduled events)
 
@@ -60,9 +81,7 @@ multi-day training events.
 |NIH National Human Genomics Research Institute|**Invited Keynote**: 2021 NHGRI Short Course in Genomics: Owning the Genome|Online|   |   |
 |American Society of Cell Biology Public Engagement Webinar|Relevance and RapportPromoting inclusion through public engagement|Online   |   |
 |Black Women in Computational Biology|Opening Doors - Preparing the Next Generation of Computational Biologists|Online| |
-|National Academies of Science|**Invited Lecture**: Open Science and Learning in the Genome Age|Irvine, CA| |
-|2021 U.S. Kavli Frontiers of Science Symposium|**Invited Fellow/Organizing committee**|Irvine, CA||   |
-|CSHL Banbury Center|**Organizer/PI**: Making Career-spanning Learning in the Life Sciences Inclusive and Effective for All|TBA|   |   |
+
 
 
 
