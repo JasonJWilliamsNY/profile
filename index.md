@@ -81,6 +81,10 @@ Open Science Training and Education
 |NIH National Human Genomics Research Institute|**Invited Keynote**: 2021 NHGRI Short Course in Genomics: Owning the Genome|Online|   |   |
 |American Society of Cell Biology Public Engagement Webinar|Relevance and RapportPromoting inclusion through public engagement|Online   |   |
 |Black Women in Computational Biology|Opening Doors - Preparing the Next Generation of Computational Biologists|Online| |
+|CyVerse Webinar Series|**Webinar**: CyVerse Visual Interactive Computing Environment |Online | |
+|George Washington University|**Workshop attendee**: Computing for Teaching and Learning with Jupyter|Washington, DC| |
+|American Society of Cell Biology, Cell Bio Virtual 2021|**Selected Workshop**: Integrating Bioinformatics into Your Courses|Online| |
+
 
 
 
