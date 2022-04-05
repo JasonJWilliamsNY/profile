@@ -64,7 +64,7 @@ multi-day training events.
 |Bioinformatics Open Source Conference|**Conference Organizer/Panel Host**: Building and Maintaining Inclusive Open Science |Madison, WI| |
 
 ## 2021
-(includes scheduled events)
+
 
 |Venue|Presentation|Location|Notes|
 |------------|-----|--------|-----|
@@ -295,7 +295,7 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 
 |Role|Year|
 |----|----|
-|**Member**: Federation of Scientific Societies - [Data Works Advisory Committee](https://www.faseb.org/resources/data-science-and-informatics) |2022- |
+|**Member**: Federation of Scientific Societies for Experimental Biology - [Data Works Advisory Committee](https://www.faseb.org/resources/data-science-and-informatics) |2022- |
 |**Member, Scientific Advisory Board**: [Lupus Research Alliance](https://www.lupusresearch.org/)|2022-|
 | **Member, Diversity, Equity, Inclusion, and Justice committee**: [Earth BioGenome Project](https://www.earthbiogenome.org/) |2021-   |
 | **Editor**: [Journal of Open Source Software](https://jose.theoj.org/) |2021-   |
