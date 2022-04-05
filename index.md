@@ -87,8 +87,6 @@ Open Science Training and Education
 
 
 
-
-
 ## 2020
 
 |Venue|Presentation|Location|Notes|
