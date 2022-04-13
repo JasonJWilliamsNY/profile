@@ -295,6 +295,7 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 
 |Role|Year|
 |----|----|
+| **Chair, Organizing Committee**: [National Academy of Sciences Kavli Frontiers of Science 2023, US Symposium ](http://www.nasonline.org/programs/kavli-frontiers-of-science/)|2022-3|
 |**Member**: Federation of Scientific Societies for Experimental Biology - [Data Works Advisory Committee](https://www.faseb.org/resources/data-science-and-informatics) |2022- |
 |**Member, Scientific Advisory Board**: [Lupus Research Alliance](https://www.lupusresearch.org/)|2022-|
 | **Member, Diversity, Equity, Inclusion, and Justice committee**: [Earth BioGenome Project](https://www.earthbiogenome.org/) |2021-   |
