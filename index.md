@@ -54,14 +54,18 @@ multi-day training events.
 |Chan Zuckerberg Initiative|**Workshop attendee**: Workshop on Support for Open Science Training and Education|Online| |
 |National Society of Black Engineers|**Workshop**: Plotting and Programing in Python|Anaheim, CA| |
 |North-East Regional Meeting Society for Developmental Biology|**Invited talk**: Career-spanning Learning in the Life Sciences; Supporting Open, Data-driven Biology |Woods Hole, MA| |
-|BioIT World Conference & Expo 2022 |**Invited Chair**: Session: Application and Utility of FAIR Data Principles|Boston, MA| |
+|BioIT World Conference & Expo 2022 (Canceled) |**Invited Chair**: Session: Application and Utility of FAIR Data Principles|Boston, MA| |
 |2022 U.S. Kavli Frontiers of Science Symposium|**Invited Fellow/Organizing committee**|Irvine, CA| |   |
 |National Academies of Science|**Invited Lecture**: Open Science and Learning in the Genome Age|Irvine, CA|[upcoming link](http://www.nasonline.org/programs/distinctive-voices/upcoming-events.html) |
 |CSHL Banbury Center|**Organizer/PI**: Making Career-spanning Learning in the Life Sciences Inclusive and Effective for All|Cold Spring Harbor, NY| | |
 |National Institutes of Health| **Invited attendee, session moderator**: NINDS Workshop on Catalyzing Communities of Research Rigor Champions|Bethesda, MD| |
 |CyVerse Foundational Open Science Skills|**Instructor**|Tucson, AZ|[course site](https://cyverse.org/foss)|
-|Frontiers and Techniques In Plant Science|**Invited Workshop**: Title:TBD |Cold Spring Harbor, NY| |
-|Bioinformatics Open Source Conference|**Conference Organizer/Panel Host**: Building and Maintaining Inclusive Open Science |Madison, WI| |
+|Frontiers and Techniques In Plant Science|**Invited Workshop**: Title:Computational Basics for Plant Biology |Cold Spring Harbor, NY| |
+|Bioinformatics Open Source Conference|**Conference Organizer/Panel Host/BOSC and Education COSI Joint-Keynote**: Keynote - "Riding the Bicycle — Including All Scientists on a Path to Excellence"; Panel Organizer - Building and Maintaining Inclusive Open Science |Madison, WI| |
+|NIH National Human Genomics Research Institute|**Workshop**: 2021 NHGRI Short Course in Genomics: DNA Barcoding|Online|   |   |
+|NASA Ames Horizons in Biosciences and Informatics Seminar Series|**Invited Speaker**  Title:TBD|Online | |
+|John Hopkins Welsh Symposium on R<sup>3</sup>eforming Graduate Science Education|**Invited Speaker**  Title:TBD|Online | |
+|Southwest Society for Developmental Biology Meeting|**Invited Speaker**  Title:TBD|Austin, TX| |
 
 ## 2021
 
@@ -259,6 +263,7 @@ multi-day training events.
 
 ## Selected Publications and Products
 
+- **[Achieving STEM diversity: Fix the classrooms](https://www.science.org/doi/10.1126/science.abn9515)** J. Handelsman, S. Elgin, M. Estrada, T. Johnson, S. Miller, V. Mingo, C. Shaffer, J. Williams
 - **[Pre-print: Building Back More Equitable STEM Education: Teach Science by Engaging Students in Doing Science](https://www.biorxiv.org/content/10.1101/2021.06.01.446616v1)**
 Sarah C R Elgin, Shan Hays, Vida Mingo, Christopher D Shaffer, Jason Williams
 - **[Pre-print: The Rockerverse: Packages and Applications for Containerization with R](https://arxiv.org/abs/2001.10641)**
