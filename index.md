@@ -300,16 +300,16 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 
 |Role|Year|
 |----|----|
-| **Chair, Organizing Committee**: [National Academy of Sciences Kavli Frontiers of Science 2023, US Symposium ](http://www.nasonline.org/programs/kavli-frontiers-of-science/)|2022-3|
+| **Chair, Organizing Committee**: [National Academy of Sciences Kavli Frontiers of Science 2023, US Symposium ](http://www.nasonline.org/programs/kavli-frontiers-of-science/)|2022-2023|
 |**Member**: Federation of Scientific Societies for Experimental Biology - [Data Works Advisory Committee](https://www.faseb.org/resources/data-science-and-informatics) |2022- |
 |**Member, Scientific Advisory Board**: [Lupus Research Alliance](https://www.lupusresearch.org/)|2022-|
 | **Member, Diversity, Equity, Inclusion, and Justice committee**: [Earth BioGenome Project](https://www.earthbiogenome.org/) |2021-   |
 | **Editor**: [Journal of Open Source Software](https://jose.theoj.org/) |2021-   |
 | **Member, Organizing Committee**: [National Academy of Sciences Kavli Frontiers of Science 2021, US Symposium ](http://www.nasonline.org/programs/kavli-frontiers-of-science/)|2021|
 | **Member, Organizing Committee**: [Bioinformatics Open Source Conference](https://www.open-bio.org/events/bosc-2021/) |2021-   |
-| **Secretary, Board of Directors**: [Data Dryad](https://datadryad.org/)|2020-23|
+| **Secretary, Board of Directors**: [Data Dryad](https://datadryad.org/)|2020-2023|
 | **Education track co-chair**: [JupyterCon](https://jupytercon.com/)   |2020   |
-| **Member, ASPB Forward**: (Strategic planning committee for [American Society of Plant Biology](https://aspb.org/) ) |2020-   |
+| **Member, ASPB Forward**: (Strategic planning committee for [American Society of Plant Biology](https://aspb.org/) ) |2020-2021 |
 | **Member, Equity, Diversity, and Inclusion (EDI) Advisory Group**: [Global Alliance for Genomics and Health (GA4GH)](https://www.ga4gh.org/)|2020- |
 | **Chair, Training Advisory Group**: [Australian BioCommons](https://www.biocommons.org.au/)|2020- |
 | **National Science Foundation**: [2026 Idea Machine Meritorius Prize Winner](https://www.nsf.gov/news/news_summ.jsp?cntn_id=299946&org=NSF&from=news)|2020
@@ -322,13 +322,13 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 | **External Panel of Consultants**: [National Institutes of Health Data Commons](https://commonfund.nih.gov/bd2k/commons) |2017-2019|
 | **Steering Committee member**: [Plantae](https://plantae.org/), American Society of Plant Biology/Global Plant Council|2017- |
 | **Chair, International Science Advisory Group**: [EMBL-Australian Bioinformatics Resource](https://www.embl-abr.org.au/)|2016-2019|
-| **Steering Committee Chair**: [Software Carpentry Foundation](https://software-carpentry.org/)|2016-17|
+| **Steering Committee Chair**: [Software Carpentry Foundation](https://software-carpentry.org/)|2016-2017|
 | **Conference Review Committee member**: [Open Bioinformatics Foundation](https://www.open-bio.org/wiki/Main_Page) Bioinformatics Open Source Conference |2016- |
-| **Steering Committee Treasurer**: [Software Carpentry Foundation](https://software-carpentry.org/)- (Founding Committee) |2015-16||
+| **Steering Committee Treasurer**: [Software Carpentry Foundation](https://software-carpentry.org/)- (Founding Committee) |2015-2016||
 | **Science Advisory Board member**: [NIBLSE](https://qubeshub.org/community/groups/niblse) Network for Integrating Bioinformatics into Life Science Education|2016- |
 | **Trainer/Instructor/Maintainer**: [The Carpentries](https://carpentries.org/) - Software and Data Carpentry |2014- |
 | **Founder**: CSHL Biological Data Science Meeting|2014|
-| **Scientific Training Advisory Board member**: The Genome Analysis Centre [Currently - Earlham Institute](http://www.earlham.ac.uk/), Norwich, UK|2013-15|
+| **Scientific Training Advisory Board member**: The Genome Analysis Centre [Currently - Earlham Institute](http://www.earlham.ac.uk/), Norwich, UK|2013-2015|
 
 ## Things to Fund
 Any takers?
