@@ -263,6 +263,7 @@ multi-day training events.
 
 ## Selected Publications and Products
 
+- **[Making Change Sustainable: Network for Integrating Bioinformatics into Life Sciences Education (NIBLSE) Meeting Review](https://doi.org/10.24918/cs.2022.10)** Toby I, Williams J, Lu G, Cai C, Crandall KA, Dinsdale EA, Drew J, Edgington NP, Goller CC, Grandgenett NF, Grant BJ, Hauser C, Johnson KA, Jones CJ, Jue NK, Jungck FR, Kerby J, Kleinschmit AJ, Miller KG, Morgan WR, Murdoch B, Noutsios G, Nunez-Castilla J, Pauley M, Pearson WR, Robertson SD, Robic S, Rosenwald A, Seah YM, Shofner M, Sierk M, Siltberg-Liberles J, Smith T, Stover NA, Tapprich W, Triplett EW, Ryder EF
 - **[Achieving STEM diversity: Fix the classrooms](https://www.science.org/doi/10.1126/science.abn9515)** J. Handelsman, S. Elgin, M. Estrada, T. Johnson, S. Miller, V. Mingo, C. Shaffer, J. Williams
 - **[Pre-print: Building Back More Equitable STEM Education: Teach Science by Engaging Students in Doing Science](https://www.biorxiv.org/content/10.1101/2021.06.01.446616v1)**
 Sarah C R Elgin, Shan Hays, Vida Mingo, Christopher D Shaffer, Jason Williams
