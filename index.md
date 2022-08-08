@@ -63,9 +63,10 @@ multi-day training events.
 |Frontiers and Techniques In Plant Science|**Invited Workshop**: Title:Computational Basics for Plant Biology |Cold Spring Harbor, NY| |
 |Bioinformatics Open Source Conference|**Conference Organizer/Panel Host/BOSC and Education COSI Joint-Keynote**: Keynote - "Riding the Bicycle — Including All Scientists on a Path to Excellence"; Panel Organizer - Building and Maintaining Inclusive Open Science |Madison, WI| |
 |NIH National Human Genomics Research Institute|**Workshop**: 2021 NHGRI Short Course in Genomics: DNA Barcoding|Online|   |   |
+|John Hopkins Welsh Symposium on R<sup>3</sup>eforming Graduate Science Education|**Invited Speaker**  Title:Opening the Door to Good Science Education|Online | |
 |NASA Ames Horizons in Biosciences and Informatics Seminar Series|**Invited Speaker**  Title:TBD|Online | |
-|John Hopkins Welsh Symposium on R<sup>3</sup>eforming Graduate Science Education|**Invited Speaker**  Title:TBD|Online | |
 |Southwest Society for Developmental Biology Meeting|**Invited Speaker**  Title:TBD|Austin, TX| |
+|Australian Bioinformatics and Computational Biology Society Annual meeting |**Invited Keynote**  Title:TBD|Melbourne, AU| |
 
 ## 2021
 
