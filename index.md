@@ -22,6 +22,7 @@ a global community of practice for short-format training in the life sciences (
 open to anyone who provides training for life scientists).
 
 - **Workshops, Talks, Teaching, and Presentations**
+  - [2023](https://jasonjwilliamsny.github.io/profile/#2023)
   - [2022](https://jasonjwilliamsny.github.io/profile/#2022)
   - [2021](https://jasonjwilliamsny.github.io/profile/#2021)
   - [2020](https://jasonjwilliamsny.github.io/profile/#2020)
@@ -46,8 +47,28 @@ biologists use computation in their teaching and research. Workshops are mainly
 multi-day training events.
 
 
-## 2022
+## 2023
 (includes scheduled events)
+
+|Venue|Presentation|Location|Notes|
+|------------|-----|--------|-----|
+|International Plant and Animal Genome Meeting (PAG 30)|**Session Chair/Organizer**: Advanced Computational Methods – CyVerse for Machine Learning, Containers, and Clouds|San Diego, CA| |
+|International Plant and Animal Genome Meeting (PAG 30)|**Session Organizer**: A Moderated Discussion on the Missing Components in Genomics: Justice, Equity, Diversity, Inclusion|San Diego, CA| |
+|International Plant and Animal Genome Meeting (PAG 30)|**Invited Speaker**: Understanding Barriers to Bioinformatics Education- Network for Integrating Bioinformatics into Life Sciences Education |San Diego, CA| |
+|Australian Research Data Commons Skills Summit|**Invited Keynote**: Professionalizing TrainingOrigin Stories for the Modern Researcher|Online| |
+|CyVerse Foundational Open Science Skills|**Instructor**|Online|[course site](https://cyverse.org/foss)|
+|NIH Office of Data Science, Generalist Repository Ecosystem Initiative (GREI) Workshop|**Invited panelist**:Researcher Perspectives –NIH Generalist Repository Ecosystem Initiative (GREI) Workshop|Online   |   |
+|OpenScapes - Pathways to Open Science |**Invited panelist**: Career-spanning Learning in the Life Sciences– Supporting Open, Data-driven Biology |Online   |   |
+|University of Florida, Rigor and Reproducibility Seminar Series |**Invited speaker**: Training and Re-Trainingin Open and Reproducible Research |Online   |   |
+|2023 U.S. Kavli Frontiers of Science Symposium|**Invited Fellow/Organizing Committee Chair**; Organizer: Proteins, Biology, and Artificial Intelligence
+|Irvine, CA| |  
+|CZI - Accelerating Open Science in Latin America|**Invited Participant** |Buenos Aires, AR|  |
+|AgBioData Annual Conference |**Invited Keynote**: Title TBD|Chicago, IL |  |
+|HudsonAlpha|**Invited Seminar**: Title TBD| Huntsville, AL  |   |
+|Bioinformatics Open Source Conference|**Organizing Committee** |Lyon, FR| |
+
+
+## 2022
 
 |Venue|Presentation|Location|Notes|
 |------------|-----|--------|-----|
@@ -55,18 +76,22 @@ multi-day training events.
 |National Society of Black Engineers|**Workshop**: Plotting and Programing in Python|Anaheim, CA| |
 |North-East Regional Meeting Society for Developmental Biology|**Invited talk**: Career-spanning Learning in the Life Sciences; Supporting Open, Data-driven Biology |Woods Hole, MA| |
 |BioIT World Conference & Expo 2022 (Canceled) |**Invited Chair**: Session: Application and Utility of FAIR Data Principles|Boston, MA| |
-|2022 U.S. Kavli Frontiers of Science Symposium|**Invited Fellow/Organizing committee**|Irvine, CA| |   |
-|National Academies of Science|**Invited Lecture**: Open Science and Learning in the Genome Age|Irvine, CA|[upcoming link](http://www.nasonline.org/programs/distinctive-voices/upcoming-events.html) |
+|Federation of American Societies for Experimental Biology DataWorks!| **Invited Speaker**: Learning New Tricks– Data Sharing and Career-Spanning Learning in STEM  |Online   |   |
+|2022 U.S. Kavli Frontiers of Science Symposium|**Invited Fellow/Organizing committee**; Organizer: COVID-19 Vaccine Development and Therapeutic RNA Molecules.
+|Irvine, CA| |   
+|National Academies of Science|**Invited Lecture**: Open Science and Learning in the Genome Age|Irvine, CA|[YouTube](https://youtu.be/iih64N3AN9A) |
 |CSHL Banbury Center|**Organizer/PI**: Making Career-spanning Learning in the Life Sciences Inclusive and Effective for All|Cold Spring Harbor, NY| | |
 |National Institutes of Health| **Invited attendee, session moderator**: NINDS Workshop on Catalyzing Communities of Research Rigor Champions|Bethesda, MD| |
 |CyVerse Foundational Open Science Skills|**Instructor**|Tucson, AZ|[course site](https://cyverse.org/foss)|
 |Frontiers and Techniques In Plant Science|**Invited Workshop**: Title:Computational Basics for Plant Biology |Cold Spring Harbor, NY| |
 |Bioinformatics Open Source Conference|**Conference Organizer/Panel Host/BOSC and Education COSI Joint-Keynote**: Keynote - "Riding the Bicycle — Including All Scientists on a Path to Excellence"; Panel Organizer - Building and Maintaining Inclusive Open Science |Madison, WI| |
 |NIH National Human Genomics Research Institute|**Workshop**: 2021 NHGRI Short Course in Genomics: DNA Barcoding|Online|   |   |
-|John Hopkins Welsh Symposium on R<sup>3</sup>eforming Graduate Science Education|**Invited Speaker**  Title:Opening the Door to Good Science Education|Online | |
-|NASA Ames Horizons in Biosciences and Informatics Seminar Series|**Invited Speaker**  Title:TBD|Online | |
-|Southwest Society for Developmental Biology Meeting|**Invited Speaker**  Title:TBD|Austin, TX| |
-|Australian Bioinformatics and Computational Biology Society Annual meeting |**Invited Keynote**  Title:TBD|Melbourne, AU| |
+|John Hopkins Welsh Symposium on R<sup>3</sup>Reforming Graduate Science Education|**Invited Speaker**  Title:Opening the Door to Good Science Education|Online | |
+|NASA Ames Horizons in Biosciences and Informatics Seminar Series|**Invited Speaker**  Title:Open Science: The Next Generation|Online | |
+|Southwest Society for Developmental Biology Meeting|**Invited Speaker**  Title: Career-spanning Learning in the Life Sciences– Supporting Open, Data-driven Biology|Austin, TX| |
+|Advanced Sequencing Technologies & Bioinformatics Analysis |**Invited Workshop**: Title:Computational Basics for Plant Biology |Cold Spring Harbor, NY| |
+|Australian Bioinformatics and Computational Biology Society Annual meeting |**Invited Keynote** Title: Running to Stand Still– Traversing skill gaps in computational biology|Melbourne, AU|[slides](https://bit.ly/abacbs-22
+) |
 
 ## 2021
 
@@ -264,38 +289,40 @@ multi-day training events.
 
 ## Selected Publications and Products
 
-- **[Making Change Sustainable: Network for Integrating Bioinformatics into Life Sciences Education (NIBLSE) Meeting Review](https://doi.org/10.24918/cs.2022.10)** Toby I, Williams J, Lu G, Cai C, Crandall KA, Dinsdale EA, Drew J, Edgington NP, Goller CC, Grandgenett NF, Grant BJ, Hauser C, Johnson KA, Jones CJ, Jue NK, Jungck FR, Kerby J, Kleinschmit AJ, Miller KG, Morgan WR, Murdoch B, Noutsios G, Nunez-Castilla J, Pauley M, Pearson WR, Robertson SD, Robic S, Rosenwald A, Seah YM, Shofner M, Sierk M, Siltberg-Liberles J, Smith T, Stover NA, Tapprich W, Triplett EW, Ryder EF
-- **[Achieving STEM diversity: Fix the classrooms](https://www.science.org/doi/10.1126/science.abn9515)** J. Handelsman, S. Elgin, M. Estrada, T. Johnson, S. Miller, V. Mingo, C. Shaffer, J. Williams
+- **[Preprint: Optimizing Short-format Training: an International Consensus on Effective, Inclusive, and Career-spanning Professional Development in the Life Sciences and Beyond](https://doi.org/10.1101/2023.03.10.531570)** Jason J. Williams, Rochelle E. Tractenberg, Bérénice Batut, Erin A. Becker, Anne M. Brown, Melissa L. Burke, Ben Busby, Nisha K. Cooch, Allissa A. Dillman, Samuel S. Donovan, Maria A. Doyle, Celia W.G. van Gelder, Christina R. Hall, Kate L. Hertweck, Kari L. Jordan, John R. Jungck, Ainsley R. Latour, Jessica M. Lindvall, Marta Lloret-Llinares, Gary S. McDowell, Rana Morris, Teresa Mourad, Amy Nisselle, Patricia Ordóñez, Lisanna Paladin, Patricia M. Palagi, Mahadeo A. Sukhai, Tracy K. Teal, Louise Woodley.
+- **[Bikeprinciples.org](https://www.bikeprinciples.org/)**
+- **[Roadmap for implementation of 14 Recommendations for career-spanning short format training in life sciences that is effective and accessible to all](https://osf.io/preprints/socarxiv/7d2yx/)** Tractenberg RE, Williams J.
+- **[Making Change Sustainable: Network for Integrating Bioinformatics into Life Sciences Education (NIBLSE) Meeting Review](https://doi.org/10.24918/cs.2022.10)** Toby I, Williams J, Lu G, Cai C, Crandall KA, Dinsdale EA, Drew J, Edgington NP, Goller CC, Grandgenett NF, Grant BJ, Hauser C, Johnson KA, Jones CJ, Jue NK, Jungck FR, Kerby J, Kleinschmit AJ, Miller KG, Morgan WR, Murdoch B, Noutsios G, Nunez-Castilla J, Pauley M, Pearson WR, Robertson SD, Robic S, Rosenwald A, Seah YM, Shofner M, Sierk M, Siltberg-Liberles J, Smith T, Stover NA, Tapprich W, Triplett EW, Ryder EF.
+- **[Achieving STEM diversity: Fix the classrooms](https://www.science.org/doi/10.1126/science.abn9515)** J. Handelsman, S. Elgin, M. Estrada, T. Johnson, S. Miller, V. Mingo, C. Shaffer, J. Williams.
 - **[Pre-print: Building Back More Equitable STEM Education: Teach Science by Engaging Students in Doing Science](https://www.biorxiv.org/content/10.1101/2021.06.01.446616v1)**
-Sarah C R Elgin, Shan Hays, Vida Mingo, Christopher D Shaffer, Jason Williams
+Sarah C R Elgin, Shan Hays, Vida Mingo, Christopher D Shaffer, Jason Williams.
 - **[Pre-print: The Rockerverse: Packages and Applications for Containerization with R](https://arxiv.org/abs/2001.10641)**
 Daniel Nüst, Dirk Eddelbuettel, Dom Bennett, Robrecht Cannoodt, Dav Clark,
 Gergely Daroczi, Mark Edmondson, Colin Fay, Ellis Hughes, Lars Kjeldgaard,
 Sean Lopp, Ben Marwick, Heather Nolis, Jacqueline Nolis, Hong Ooi, Karthik Ram,
 Noam Ross, Lori Shepherd, Péter Sólymos, Tyson Lee Swetnam, Nitesh Turaga,
-Jason Williams, Craig Willis, Nan Xiao, Charlotte Van Petegem
+Jason Williams, Craig Willis, Nan Xiao, Charlotte Van Petegem.
 - **[Biodiversity Science and the Twenty-First Century Workforce](https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biz147/5680446)**
-Elizabeth R Ellwood, Jocelyn Anne Sessa, Joel K Abraham, Amber E Budden, Natalie Douglas, Robert Guralnick, Erica Krimmel, Tom Langen, Debra Linton, Molly Phillips, Pamela S Soltis, Marie Studer, Lisa D White, Jason Williams, Anna K Monfils, December 2019 Biodiversity Science and the Twenty-First Century Workforce, BioScience. https://doi.org/10.1093/biosci/biz147
+Elizabeth R Ellwood, Jocelyn Anne Sessa, Joel K Abraham, Amber E Budden, Natalie Douglas, Robert Guralnick, Erica Krimmel, Tom Langen, Debra Linton, Molly Phillips, Pamela S Soltis, Marie Studer, Lisa D White, Jason Williams, Anna K Monfils, December 2019 Biodiversity Science and the Twenty-First Century Workforce, BioScience.
 - **[FAIRshake: Toolkit to evaluate the FAIRness of research digital resources](https://www.sciencedirect.com/science/article/pii/S240547121930345X)** Clarke DJB, Wang L, Jones A, Wojciechowicz ML, Torre D, Jagodnik KM, Jenkins SL, McQuilton P, Flamholz Z, Silverstein MC, Schilder BM, Robasky K, Castillo C, Idaszak R, Ahalt SC, Williams J, Schurer S, Cooper DJ, de Miranda Azevedo R, Klenk JA, Haendel MA, Nedzel J, Avillach P, Shimoyama ME, Harris RM, Gamble M, Poten R, Charbonneau AL, Larkin J, Brown CT, Bonazzi VR, Dumontier MJ, Sansone S-, Ma'ayan A. Cell Syst. 2019;9(5):417-21.
-- **[Pre-print: SciApps: A Cloud-Based Platform for Analyses and Distribution of the MaizeCODE data](https://www.biorxiv.org/content/10.1101/852269v1)**
-Liya Wang, Zhenyuan Lu, Melissa delaBastide, Peter Van Buren, Xiaofei Wang, Cornel Ghiban, Michael Regulski, Jorg Drenkow, Xiaosa Xu, Carlos Ortiz Ramirez, Cristina F. Marco, Jason Williams, Alexander Dobin, Kenneth D. Birnbaum, David P. Jackson, Robert A. Martienssen, William R. McCombie, David A. Micklos, Michael C. Schatz, Doreen H. Ware, Thomas R. Gingeras
+- **[Preprint: SciApps: A Cloud-Based Platform for Analyses and Distribution of the MaizeCODE data](https://www.biorxiv.org/content/10.1101/852269v1)**
+Liya Wang, Zhenyuan Lu, Melissa delaBastide, Peter Van Buren, Xiaofei Wang, Cornel Ghiban, Michael Regulski, Jorg Drenkow, Xiaosa Xu, Carlos Ortiz Ramirez, Cristina F. Marco, Jason Williams, Alexander Dobin, Kenneth D. Birnbaum, David P. Jackson, Robert A. Martienssen, William R. McCombie, David A. Micklos, Michael C. Schatz, Doreen H. Ware, Thomas R. Gingeras.
 - **[Barriers to integration of bioinformatics into undergraduate life sciences education: A national study of US life sciences faculty uncover significant barriers to integrating bioinformatics into undergraduate instruction](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0224288)**
 Williams JJ, Drew JC, Galindo-Gonzalez S, Robic S, Dinsdale E, et al. (2019) Barriers to integration of bioinformatics into undergraduate life sciences education: A national study of US life sciences faculty uncover significant barriers to integrating bioinformatics into undergraduate instruction. PLOS ONE 14(11): e0224288.
 -  **[AgBioData consortium recommendations for sustainable genomics and genetics databases for agriculture](https://doi.org/10.1093/database/bay088)**
 Lisa Harper, Jacqueline Campbell, Ethalinda K S Cannon, Sook Jung, Monica Poelchau, Ramona Walls, Carson Andorf, Elizabeth Arnaud, Tanya Z Berardini, Clayton Birkett, Steve Cannon, James Carson, Bradford Condon, Laurel Cooper, Nathan Dunn, Christine G Elsik, Andrew Farmer, Stephen P Ficklin, David Grant, Emily Grau, Nic Herndon, Zhi-Liang Hu, Jodi Humann, Pankaj Jaiswal, Clement Jonquet, Marie-Angélique Laporte, Pierre Larmande, Gerard Lazo, Fiona McCarthy, Naama Menda, Christopher J Mungall, Monica C Munoz-Torres, Sushma Naithani, Rex Nelson, Daureen Nesdill, Carissa Park, James Reecy, Leonore Reiser, Lacey-Anne Sanderson, Taner Z Sen, Margaret Staton, Sabarinath Subramaniam, Marcela Karey Tello-Ruiz, Victor Unda, Deepak Unni, Liya Wang, Doreen Ware, Jill Wegrzyn, Jason Williams, Margaret Woodhouse, Jing Yu, Doreen Main
-Database, Volume 2018, 1 January 2018, Pages 1–32
-- **[Pre-print: A Genomics Education Alliance](https://figshare.com/articles/preprint/A_Genomics_Education_Alliance/5197228/1)**
-Sarah C R Elgin, Gita Bangera, Vincent P. Buonaccorsi, Douglas L. Chalker, Elizabeth Dinsdale, Erin L. Dolan, Linnea Fletcher, Arthur Hunt, Carolyn J. Lawrence-Dill, Wilson Leung, Laura K. Reed, Anne G. Rosenwald, Sandesh Subramanya, Emily Wiley, Jason Williams. (2017): A Genomics Education Alliance. figshare. Preprint[https://doi.org/10.6084/m9.figshare.5197228.v1](https://doi.org/10.6084/m9.figshare.5197228.v1).
--  **[Pre-print: Barriers to Integration of Bioinformatics into Undergraduate Life Sciences Education](https://doi.org/10.1101/204420 )**
-Jason Williams, Jennifer Drew, Sebastian Galindo-Gonzalez, Srebrenka Robic, Elizabeth Dinsdale, William Morgan, Eric Triplett, James Burnette, Sam Donovan, Sarah Elgin, Edison Fowlks, Anya Goodman, Neal Grandgenett, Carlos Goller, Charles Hauser, John R. Jungck, Jeffrey Newman, William Pearson, Elizabeth Ryder, Melissa Wilson Sayres, Michael Sierk, Todd Smith, Rafael Tosado-Acevedo, William Tapprich, Tammy Tobin, Arlin Toro-Martínez, Lonnie Welch, Robin Wright, David Ebenbach, Mindy McWilliams, Anne Rosenwald, Mark Pauley
-bioRxiv 204420
+Database, Volume 2018, 1 January 2018, Pages 1–32.
+- **[Preprint: A Genomics Education Alliance](https://figshare.com/articles/preprint/A_Genomics_Education_Alliance/5197228/1)**
+Sarah C R Elgin, Gita Bangera, Vincent P. Buonaccorsi, Douglas L. Chalker, Elizabeth Dinsdale, Erin L. Dolan, Linnea Fletcher, Arthur Hunt, Carolyn J. Lawrence-Dill, Wilson Leung, Laura K. Reed, Anne G. Rosenwald, Sandesh Subramanya, Emily Wiley, Jason Williams. (2017): A Genomics Education Alliance. figshare.
+-  **[Preprint: Barriers to Integration of Bioinformatics into Undergraduate Life Sciences Education](https://doi.org/10.1101/204420 )**
+Jason Williams, Jennifer Drew, Sebastian Galindo-Gonzalez, Srebrenka Robic, Elizabeth Dinsdale, William Morgan, Eric Triplett, James Burnette, Sam Donovan, Sarah Elgin, Edison Fowlks, Anya Goodman, Neal Grandgenett, Carlos Goller, Charles Hauser, John R. Jungck, Jeffrey Newman, William Pearson, Elizabeth Ryder, Melissa Wilson Sayres, Michael Sierk, Todd Smith, Rafael Tosado-Acevedo, William Tapprich, Tammy Tobin, Arlin Toro-Martínez, Lonnie Welch, Robin Wright, David Ebenbach, Mindy McWilliams, Anne Rosenwald, Mark Pauley.
 - **[Unmet needs for analyzing biological big data: A survey of 704 NSF principal investigators](https://doi.org/10.1371/journal.pcbi.1005755)** Barone L, Williams J, Micklos D (2017). PLoS Comput Biol 13(10): e1005755
 -  **[Pre-print: Bioinformatics Core Competencies for Undergraduate Life Sciences Education](https://www.biorxiv.org/content/early/2017/08/03/170993)**
 Melissa A. Wilson Sayres, Charles Hauser, Michael Sierk, Srebrenka Robic, Anne G. Rosenwald, Todd M. Smith, Eric W. Triplett, Jason J. Williams, Elizabeth Dinsdale, William Morgan, James M. Burnette III, Sam S. Donovan, Jennifer C. Drew, Sarah C. R. Elgin, Edison R. Fowlks, Sebastian Galindo-Gonzalez, Anya L. Goodman, Neal F. Grandgenett, Carlos C. Goller, John Jungck, Jeffrey D. Newman, William R. Pearson, Elizabeth Ryder, Rafael Tosado-Acevedo, William Tapprich, Tammy C. Tobin, Arlín Toro-Martínez, Lonnie R. Welch, Robin Wright, David Ebenbach, Kimberly C. Olney, Mindy McWilliams, Mark A. Pauley
 bioRxiv 170993; doi: https://doi.org/10.1101/170993
 - **[DNA Subway – Fast Track to Gene Annotation and Genome Analysis](https://dnasubway.cyverse.org/)** U. Hilgert, Williams, J., S. McKay, M. Khalfan, C. Ghiban, S. Lauter, E.S. Jeong, and D. Micklos  (online resource for bioinformatics analysis in the classroom)
 - **[DNA Subway – An Educational Bioinformatics Platform for Gene and Genome Analysis: DNA Barcoding, and RNA-Seq](https://asas.org/docs/default-source/wcgalp-proceedings-oral/227_paper_9798_manuscript_948_0.pdf?sfvrsn=2)** Williams, J., S. McKay, M. Khalfan, C. Ghiban, U. Hilgert, S. Lauter, E.S. Jeong, and D. Micklos, . Proceedings, 10th World Congress of Genetics Applied to Livestock Production
-- **[Data mining with iPlant: A meeting report from the 2013 GARNet workshop, Data mining with iPlant](https://academic.oup.com/jxb/article-lookup/doi/10.1093/jxb/eru402)** Martin, L., Charis C., Matasci N., Williams, J., and Bastow R.,. J. Exp. Bot. (2015) 66 (1): 1-6. doi: 10.1093/jxb/eru402, http://dx.doi.org/10.1093/jxb/eru402
+- **[Data mining with iPlant: A meeting report from the 2013 GARNet workshop, Data mining with iPlant](http://dx.doi.org/10.1093/jxb/eru402)** Martin, L., Charis C., Matasci N., Williams, J., and Bastow R.,. J. Exp. Bot. (2015) 66 (1): 1-6. doi: 10.1093/jxb/eru402,
 - **[A Vision for Collaborative Training Infrastructure for Bioinformatics](http://onlinelibrary.wiley.com/doi/10.1111/nyas.13207/abstract)** Williams, Jason J. and Teal, Tracy K. (2016). Annals of the New York Academy of Sciences.
 
 ## Academic Community Service and Awards
@@ -314,7 +341,7 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 | **Member, ASPB Forward**: (Strategic planning committee for [American Society of Plant Biology](https://aspb.org/) ) |2020-2021 |
 | **Member, Equity, Diversity, and Inclusion (EDI) Advisory Group**: [Global Alliance for Genomics and Health (GA4GH)](https://www.ga4gh.org/)|2020- |
 | **Chair, Training Advisory Group**: [Australian BioCommons](https://www.biocommons.org.au/)|2020- |
-| **National Science Foundation**: [2026 Idea Machine Meritorius Prize Winner](https://www.nsf.gov/news/news_summ.jsp?cntn_id=299946&org=NSF&from=news)|2020
+| **National Science Foundation**: [2026 Idea Machine Meritorious Prize Winner](https://www.nsf.gov/news/news_summ.jsp?cntn_id=299946&org=NSF&from=news)|2020
 | **National Academy of Sciences**: [Kavli Frontiers of Science Fellow](http://www.nasonline.org/programs/kavli-frontiers-of-science/)|2020|
 | **Curriculum Advisory Board**: [Health Data Research UK](https://www.hdruk.ac.uk/)|2019-2020|
 | **Founder**: [LifeSciTrainers.org](https://lifescitrainers.org/)/LifeSciTrainer Slack|2018|
