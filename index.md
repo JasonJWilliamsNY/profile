@@ -89,8 +89,7 @@ multi-day training events.
 |NASA Ames Horizons in Biosciences and Informatics Seminar Series|**Invited Speaker**  Title:Open Science: The Next Generation|Online | |
 |Southwest Society for Developmental Biology Meeting|**Invited Speaker**  Title: Career-spanning Learning in the Life Sciences– Supporting Open, Data-driven Biology|Austin, TX| |
 |Advanced Sequencing Technologies & Bioinformatics Analysis |**Invited Workshop**: Title:Computational Basics for Plant Biology |Cold Spring Harbor, NY| |
-|Australian Bioinformatics and Computational Biology Society Annual meeting |**Invited Keynote** Title: Running to Stand Still– Traversing skill gaps in computational biology|Melbourne, AU|[slides](https://bit.ly/abacbs-22
-) |
+|Australian Bioinformatics and Computational Biology Society Annual meeting |**Invited Keynote** Title: Running to Stand Still– Traversing skill gaps in computational biology|Melbourne, AU|[slides](https://bit.ly/abacbs-22) |
 
 ## 2021
 
@@ -289,7 +288,8 @@ multi-day training events.
 ## Selected Publications and Products
 
 - **[Preprint: Optimizing Short-format Training: an International Consensus on Effective, Inclusive, and Career-spanning Professional Development in the Life Sciences and Beyond](https://doi.org/10.1101/2023.03.10.531570)** Jason J. Williams, Rochelle E. Tractenberg, Bérénice Batut, Erin A. Becker, Anne M. Brown, Melissa L. Burke, Ben Busby, Nisha K. Cooch, Allissa A. Dillman, Samuel S. Donovan, Maria A. Doyle, Celia W.G. van Gelder, Christina R. Hall, Kate L. Hertweck, Kari L. Jordan, John R. Jungck, Ainsley R. Latour, Jessica M. Lindvall, Marta Lloret-Llinares, Gary S. McDowell, Rana Morris, Teresa Mourad, Amy Nisselle, Patricia Ordóñez, Lisanna Paladin, Patricia M. Palagi, Mahadeo A. Sukhai, Tracy K. Teal, Louise Woodley.
-- **[Bikeprinciples.org](https://www.bikeprinciples.org/)**
+- **[Bikeprinciples.org](https://www.bikeprinciples.org/)**: The Bicycle Principles for Effective, Inclusive, and Career-spanning Short-format Training;
+Improving Professional Development in the Life Sciences and Beyond.
 - **[Roadmap for implementation of 14 Recommendations for career-spanning short format training in life sciences that is effective and accessible to all](https://osf.io/preprints/socarxiv/7d2yx/)** Tractenberg RE, Williams J.
 - **[Making Change Sustainable: Network for Integrating Bioinformatics into Life Sciences Education (NIBLSE) Meeting Review](https://doi.org/10.24918/cs.2022.10)** Toby I, Williams J, Lu G, Cai C, Crandall KA, Dinsdale EA, Drew J, Edgington NP, Goller CC, Grandgenett NF, Grant BJ, Hauser C, Johnson KA, Jones CJ, Jue NK, Jungck FR, Kerby J, Kleinschmit AJ, Miller KG, Morgan WR, Murdoch B, Noutsios G, Nunez-Castilla J, Pauley M, Pearson WR, Robertson SD, Robic S, Rosenwald A, Seah YM, Shofner M, Sierk M, Siltberg-Liberles J, Smith T, Stover NA, Tapprich W, Triplett EW, Ryder EF.
 - **[Achieving STEM diversity: Fix the classrooms](https://www.science.org/doi/10.1126/science.abn9515)** J. Handelsman, S. Elgin, M. Estrada, T. Johnson, S. Miller, V. Mingo, C. Shaffer, J. Williams.
@@ -335,7 +335,7 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 | **Editor**: [Journal of Open Source Software](https://jose.theoj.org/) |2021-   |
 | **Member, Organizing Committee**: [National Academy of Sciences Kavli Frontiers of Science 2021, US Symposium ](http://www.nasonline.org/programs/kavli-frontiers-of-science/)|2021|
 | **Member, Organizing Committee**: [Bioinformatics Open Source Conference](https://www.open-bio.org/events/bosc-2021/) |2021-   |
-| **Secretary, Board of Directors**: [Data Dryad](https://datadryad.org/)|2020-2023|
+| **Board of Directors**: [Data Dryad](https://datadryad.org/) (2020-22, Secretary, 22-23, Chair)|2020-2023|
 | **Education track co-chair**: [JupyterCon](https://jupytercon.com/)   |2020   |
 | **Member, ASPB Forward**: (Strategic planning committee for [American Society of Plant Biology](https://aspb.org/) ) |2020-2021 |
 | **Member, Equity, Diversity, and Inclusion (EDI) Advisory Group**: [Global Alliance for Genomics and Health (GA4GH)](https://www.ga4gh.org/)|2020- |
@@ -445,9 +445,9 @@ I travel a fair bit. Here are some of my favorite items for the road-warrior sci
 
 |Category|Item|Link|Notes|
 |--------|----|----|-----|
-|Bag|Arkiv Modular Backpack|[link](https://missionworkshop.com/products/arkiv-bag-series)|This is my FAVORITE bag. I have the rucksack for everyday use, but this is a buy-it-for life quality travel bag. You can fully customize the bag for all your travel needs. I have the large 40L R6. I have compartments for my laptop, iPad/small electronics, and water bottle. You can add more accessories as needed. I have gone on a 10-day international trip including an clothes and an extra pair of shoes with just this bag. You will only need one.|
-|Bag|Adidas Rumble Sack|[link](https://www.amazon.com/gp/product/B00P28C67U/)|The Arkiv bag can split into smaller bags, but is too much for days on a trip when I am not flying. This bag is very light, sturdy, and good for carrying my laptop and few small supplies. Also nice if you are going shopping for a few small things.|
-|AV equipment (airplane iPad holder)|High View|[link](https://www.amazon.com/gp/product/B00NNTO2JA/)|This is perfect for watching movies on your iPad mini or other small tablet on a plane. Even when a TV is available, I usually am watching highbrow classical concerts not available even in first-class. This will secure your small tablet to the seat in front of you.|
+|Bag|Arkiv Modular Backpack|[link](https://missionworkshop.com/collections/arkiv-modular-backpacks)|This is my FAVORITE bag. I have the rucksack for everyday use, but this is a buy-it-for life quality travel bag. You can fully customize the bag for all your travel needs. I have the large 40L R6. I have compartments for my laptop, iPad/small electronics, and water bottle. You can add more accessories as needed. I have gone on a 10-day international trip including an clothes and an extra pair of shoes with just this bag. You will only need one.|
+|Bag|Drawstring|[link](https://www.amazon.com/gp/product/B081V4YWBM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)|The Arkiv bag can split into smaller bags, but is too much for days on a trip when I am not flying. This bag is very light, sturdy, and good for carrying my laptop and few small supplies. Also nice if you are going shopping for a few small things.|
+|AV equipment (airplane iPad holder)|High View|[link](https://www.amazon.com/gp/product/B00NNTO2JA/)|This is perfect for watching movies on your iPad mini or other small tablet on a plane. Even when a TV is available, I usually am watching highbrow classical concerts not available even in first-class. This will secure your small tablet to the seat in front of you. (2023: No longer available but should be easy to sew your own. I don't have a replacement recommendation at this time.)|
 |Bag|Foldable Duffle Bag|[link](https://www.amazon.com/gp/product/B01KZN263K/)|You never know when a casual seminar will turn into a bank heist. This foldable duffle bag is helpful if you do a fair bit of shopping on your trip and need the extra room. Also on a longer trip, I will use this with my carry-on bag.|
 |Suitcase/carry-on|Zuca Flyer Business Bag|[link](https://www.zuca.com/control/product/~product_id=11940)|This really is the ULTIMATE suitcase. It is a carry-on size, but this plus the Arikiv are a month's worth of clothes for me - especially if I also bring the duffle bag. This is an indestructible bag. If you need to make repairs you can find what you need at Home Depot. It also doubles as a seat when you are waiting at the gate.|
 |Travel accessory|Bag Bungie|[link](https://www.amazon.com/gp/product/B001TR0UZI/)|I secure this to my carry-on and then can add a duffle bag on top|
@@ -462,7 +462,7 @@ I travel a fair bit. Here are some of my favorite items for the road-warrior sci
 |Travel accessory - electronic|External battery|[link](https://www.amazon.com/gp/product/B00N2T7U90/)|Provides several charges for phone and iPad. Buy whatever you need but make sure that the mAh are not above [TSA/FAA standards](https://www.faa.gov/about/office_org/headquarters_offices/ash/ash_programs/hazmat/passenger_info/media/Airline_passengers_and_batteries.pdf); some countries you travel to may also have local standards - I've lost batteries this way. |
 |Travel accessory - electronic|Travel adaptor|[link](https://www.amazon.com/gp/product/B00Y3ABJKS/)|Perfect for foreign travel and has USB ports.|
 |Travel accessory - electronic|Parrot Headphone|[link](https://www.amazon.com/Parrot-Zik-3-Black-Leather-grain/dp/B016Y37M4I/)|My choice for noise-cancelling headphones. Make sure to get an [extra battery.](https://www.amazon.com/HeadphoneMate-Rechargeable-Battery-Parrot-Headphones/dp/B013WSBTV0/)|
-|Travel accessory - electronic|Lapa Bluetooth tracker|[link](https://www.amazon.com/LAPA-Blue-everything-matters-phone/dp/B01EIKHNNY/)|I have a few that I can put in my bags. Besides the ability to help you find a lost item (in theory) via crowdsourced GPS; you can set a safety mode which will inform you if you (or your item) is more than a certain distance away.|
+|Travel accessory - electronic|Lapa Bluetooth tracker|[link](https://www.amazon.com/LAPA-Blue-everything-matters-phone/dp/B01EIKHNNY/)|I have a few that I can put in my bags. Besides the ability to help you find a lost item (in theory) via crowdsourced GPS; you can set a safety mode which will inform you if you (or your item) is more than a certain distance away. (2023 update: I now use Apple Airtags)|
 
 **Other Travel Items**
 - laser pointer/remote (e.g. [link](https://www.amazon.com/Kensington-Wireless-Presenter-Pointer-K72426AM/dp/B009K1PYG0/))
