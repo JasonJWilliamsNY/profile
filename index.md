@@ -77,8 +77,7 @@ multi-day training events.
 |North-East Regional Meeting Society for Developmental Biology|**Invited talk**: Career-spanning Learning in the Life Sciences; Supporting Open, Data-driven Biology |Woods Hole, MA| |
 |BioIT World Conference & Expo 2022 (Canceled) |**Invited Chair**: Session: Application and Utility of FAIR Data Principles|Boston, MA| |
 |Federation of American Societies for Experimental Biology DataWorks!| **Invited Speaker**: Learning New Tricks– Data Sharing and Career-Spanning Learning in STEM  |Online   |   |
-|2022 U.S. Kavli Frontiers of Science Symposium|**Invited Fellow/Organizing committee**; Organizer: COVID-19 Vaccine Development and Therapeutic RNA Molecules.
-|Irvine, CA| |   
+|2022 U.S. Kavli Frontiers of Science Symposium|**Invited Fellow/Organizing committee**; Organizer: COVID-19 Vaccine Development and Therapeutic RNA Molecules.|Irvine, CA| |   
 |National Academies of Science|**Invited Lecture**: Open Science and Learning in the Genome Age|Irvine, CA|[YouTube](https://youtu.be/iih64N3AN9A) |
 |CSHL Banbury Center|**Organizer/PI**: Making Career-spanning Learning in the Life Sciences Inclusive and Effective for All|Cold Spring Harbor, NY| | |
 |National Institutes of Health| **Invited attendee, session moderator**: NINDS Workshop on Catalyzing Communities of Research Rigor Champions|Bethesda, MD| |
