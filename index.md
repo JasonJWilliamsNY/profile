@@ -57,15 +57,19 @@ multi-day training events.
 |International Plant and Animal Genome Meeting (PAG 30)|**Invited Speaker**: Understanding Barriers to Bioinformatics Education- Network for Integrating Bioinformatics into Life Sciences Education |San Diego, CA| |
 |Australian Research Data Commons Skills Summit|**Invited Keynote**: Professionalizing TrainingOrigin Stories for the Modern Researcher|Online| |
 |CyVerse Foundational Open Science Skills|**Instructor**|Online|[course site](https://cyverse.org/foss)|
-|NIH Office of Data Science, Generalist Repository Ecosystem Initiative (GREI) Workshop|**Invited panelist**:Researcher Perspectives –NIH Generalist Repository Ecosystem Initiative (GREI) Workshop|Online   |   |
-|OpenScapes - Pathways to Open Science |**Invited panelist**: Career-spanning Learning in the Life Sciences– Supporting Open, Data-driven Biology |Online   |   |
-|University of Florida, Rigor and Reproducibility Seminar Series |**Invited speaker**: Training and Re-Trainingin Open and Reproducible Research |Online   |   |
-|2023 U.S. Kavli Frontiers of Science Symposium|**Invited Fellow/Organizing Committee Chair**; Organizer: Proteins, Biology, and Artificial Intelligence
-|Irvine, CA| |  
+|NIH Office of Data Science, Generalist Repository Ecosystem Initiative (GREI) Workshop|**Invited Panelist**:Researcher Perspectives –NIH Generalist Repository Ecosystem Initiative (GREI) Workshop|Online   |   |
+|OpenScapes - Pathways to Open Science |**Invited Panelist**: Career-spanning Learning in the Life Sciences– Supporting Open, Data-driven Biology |Online   |   |
+|University of Florida, Rigor and Reproducibility Seminar Series |**Invited Speaker**: Training and Re-Trainingin Open and Reproducible Research |Online   |   |
+|2023 U.S. Kavli Frontiers of Science Symposium|**Invited Fellow/Organizing Committee Chair**; Organizer: Proteins, Biology, and Artificial Intelligence|Irvine, CA| |  
 |CZI - Accelerating Open Science in Latin America|**Invited Participant** |Buenos Aires, AR|  |
-|AgBioData Annual Conference |**Invited Keynote**: Title TBD|Chicago, IL |  |
-|HudsonAlpha|**Invited Seminar**: Title TBD| Huntsville, AL  |   |
+|AgBioData Annual Conference |**Invited Keynote**: It’s Impossible to Keep UpCareer-spanning Learning in the Life Sciences|Chicago, IL |  |
+|HudsonAlpha|**Invited Seminar**: It’s Impossible to Keep UpCareer-spanning Learning in the Life Sciences| Huntsville, AL  |   |
+|Bioinformatics Education Summit|**Invited Speaker**: Building Communities of Practice |Hinxton, UK|   |
+|Nanopore Sequencing Foundations for Course-based Research|**Organizer/Instructor**|New York, NY|   |
+|Gordon Research Conference: Undergraduate Biology Education Research|**Invited Keynote**: Making Life Science CURESInclusive and Accessible|Lewiston, ME|   |
 |Bioinformatics Open Source Conference|**Organizing Committee** |Lyon, FR| |
+|CSHL Course - Advanced Sequencing Technologies & Bioinformatics Analysis|   |**Instructor**|   |
+|North Carolina State University, Genetics and Genomics Academy|**Invited Seminar**: It’s Impossible to Keep Up; Career-spanning learning in the Life Sciences |Raleigh, NC|   |
 
 
 ## 2022
@@ -287,6 +291,7 @@ multi-day training events.
 
 ## Selected Publications and Products
 
+- **[Preprint:CyVerse: Cyberinfrastructure for Open Science](https://www.biorxiv.org/content/10.1101/2023.06.16.545223v1)** Tyson L. Swetnam, Parker B. Antin, Ryan Bartelme, Alexander Bucksch, David Camhy, View ORCID ProfileGreg Chism, Illyoung Choi, Amanda M. Cooksey, Michele Cosi, Cindy Cowen, Michael Culshaw-Maurer, Robert Davey, Sean Davey, Upendra Devisetty, Tony Edgin, Andy Edmonds, Dmitry Fedorov, Jeremy Frady, John Fonner, Jeffrey K. Gillan, Iqbal Hossain, Blake Joyce, Konrad Lang, Tina Lee, Shelley Littin, Ian Mcewen, Nirav Merchant, David Micklos, View ORCID ProfileAndrew Nelson, Ashley Ramsey, Sarah Roberts, Paul Sarando, Edwin Skidmore, Jawon Song, Mary Margaret Sprinkle, Sriram Srinivasan, Jonathan D. Strootman, Sarah Stryeck, Reetu Tuteja, Matthew Vaughn, Mojib Wali, Mariah Wall, Ramona Walls, Liya Wang, Todd Wickizer, Jason Williams, John Wregglesworth, Eric Lyons
 - **[Preprint: Optimizing Short-format Training: an International Consensus on Effective, Inclusive, and Career-spanning Professional Development in the Life Sciences and Beyond](https://doi.org/10.1101/2023.03.10.531570)** Jason J. Williams, Rochelle E. Tractenberg, Bérénice Batut, Erin A. Becker, Anne M. Brown, Melissa L. Burke, Ben Busby, Nisha K. Cooch, Allissa A. Dillman, Samuel S. Donovan, Maria A. Doyle, Celia W.G. van Gelder, Christina R. Hall, Kate L. Hertweck, Kari L. Jordan, John R. Jungck, Ainsley R. Latour, Jessica M. Lindvall, Marta Lloret-Llinares, Gary S. McDowell, Rana Morris, Teresa Mourad, Amy Nisselle, Patricia Ordóñez, Lisanna Paladin, Patricia M. Palagi, Mahadeo A. Sukhai, Tracy K. Teal, Louise Woodley.
 - **[Bikeprinciples.org](https://www.bikeprinciples.org/)**: The Bicycle Principles for Effective, Inclusive, and Career-spanning Short-format Training;
 Improving Professional Development in the Life Sciences and Beyond.
@@ -328,6 +333,11 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 
 |Role|Year|
 |----|----|
+|**Member, Learning and Training Advisory Board**: [Wellcome Connecting Science](https://www.wellcomeconnectingscience.org/)|2023-   |
+|**Member, EDI Committee** [International Society for Computational Biology](https://c4r.io/)   |   |
+|**Member, External Advisory Board** [Community for Rigor](https://c4r.io/)   |2023-   |
+|**Member, Researcher Advisory Committee/External Advisory Board** [ACCESS-CI](https://access-ci.org/)|2023-   |
+|**Member, Scientific Advisory Board**, [HudsonAlpha Institute](https://www.hudsonalpha.org/) |2023-   |
 | **Chair, Organizing Committee**: [National Academy of Sciences Kavli Frontiers of Science 2023, US Symposium ](http://www.nasonline.org/programs/kavli-frontiers-of-science/)|2022-2023|
 |**Member**: Federation of Scientific Societies for Experimental Biology - [Data Works Advisory Committee](https://www.faseb.org/resources/data-science-and-informatics) |2022- |
 |**Member, Scientific Advisory Board**: [Lupus Research Alliance](https://www.lupusresearch.org/)|2022-|
