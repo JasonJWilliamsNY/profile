@@ -68,7 +68,7 @@ multi-day training events.
 |Nanopore Sequencing Foundations for Course-based Research|**Organizer/Instructor**|New York, NY|   |
 |Gordon Research Conference: Undergraduate Biology Education Research|**Invited Keynote**: Making Life Science CURESInclusive and Accessible|Lewiston, ME|   |
 |Bioinformatics Open Source Conference|**Organizing Committee** |Lyon, FR| |
-|CSHL Course - Advanced Sequencing Technologies & Bioinformatics Analysis|   |**Instructor**|   |
+|CSHL Course - Advanced Sequencing Technologies & Bioinformatics Analysis| **Instructor**|   |
 |North Carolina State University, Genetics and Genomics Academy|**Invited Seminar**: It’s Impossible to Keep Up; Career-spanning learning in the Life Sciences |Raleigh, NC|   |
 
 
@@ -334,10 +334,10 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 |Role|Year|
 |----|----|
 |**Member, Learning and Training Advisory Board**: [Wellcome Connecting Science](https://www.wellcomeconnectingscience.org/)|2023-   |
-|**Member, EDI Committee** [International Society for Computational Biology](https://c4r.io/)   |   |
-|**Member, External Advisory Board** [Community for Rigor](https://c4r.io/)   |2023-   |
-|**Member, Researcher Advisory Committee/External Advisory Board** [ACCESS-CI](https://access-ci.org/)|2023-   |
-|**Member, Scientific Advisory Board**, [HudsonAlpha Institute](https://www.hudsonalpha.org/) |2023-   |
+|**Member, EDI Committee**: [International Society for Computational Biology](https://c4r.io/)   |2023-   |
+|**Member, External Advisory Board**: [Community for Rigor](https://c4r.io/)   |2023-   |
+|**Member, Researcher Advisory Committee/External Advisory Board**: [ACCESS-CI](https://access-ci.org/)|2023-   |
+|**Member, Scientific Advisory Board**: [HudsonAlpha Institute](https://www.hudsonalpha.org/) |2023-   |
 | **Chair, Organizing Committee**: [National Academy of Sciences Kavli Frontiers of Science 2023, US Symposium ](http://www.nasonline.org/programs/kavli-frontiers-of-science/)|2022-2023|
 |**Member**: Federation of Scientific Societies for Experimental Biology - [Data Works Advisory Committee](https://www.faseb.org/resources/data-science-and-informatics) |2022- |
 |**Member, Scientific Advisory Board**: [Lupus Research Alliance](https://www.lupusresearch.org/)|2022-|
