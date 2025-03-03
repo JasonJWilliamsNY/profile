@@ -64,8 +64,8 @@ multi-day training events.
 |International Plant and Animal Genome Meeting (PAG 31)|**Session Chair/Organizer**: Advanced Computational Methods – CyVerse for Machine Learning, Containers, and Clouds|San Diego, CA| |
 |International Plant and Animal Genome Meeting (PAG 31)|**Session Organizer/Speaker**: Earth BioGenome Project: The missing components in genomics: Justice, Equity, Diversity, Inclusion + (JEDI+)|San Diego, CA| |
 |Cocktails and Chromosomes Outreach Event|**Invited Speaker**: Decoding DNA|Huntington, NY||
-|Effectively Communicating Bioimage Analysis|**Invited Speaker**:|Effective and Inclusive Professional Development|East Sussex, UK||
-|Center for Scientific Collaboration and Community Engagement|**Invited Speaker**:|Effective and Inclusive Professional Development|Online||
+|Effectively Communicating Bioimage Analysis|**Invited Speaker**: Effective and Inclusive Professional Development|East Sussex, UK||
+|Center for Scientific Collaboration and Community Engagement|**Invited Speaker**: Effective and Inclusive Professional Development|Online||
 |NIH Outreach Event, J.F.K. High School|**Workshop**:Nanopore for Educators Workshop|Tamuning, Guam||
 |American Society of Human Genetics|**Invited Organizer/Speaker**:Inclusive Genomics Education: Empowering Everyone to Sequence Everything|Online||
 |6th Global Bioinformatics Education Summit|**Summit Chair/Session Organizer:** Bicycle Principles|New York, NY||
