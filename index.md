@@ -22,6 +22,8 @@ a global community of practice for short-format training in the life sciences (
 open to anyone who provides training for life scientists).
 
 - **Workshops, Talks, Teaching, and Presentations**
+  - [2025](https://jasonjwilliamsny.github.io/profile/#2025)
+  - [2024](https://jasonjwilliamsny.github.io/profile/#2024)
   - [2023](https://jasonjwilliamsny.github.io/profile/#2023)
   - [2022](https://jasonjwilliamsny.github.io/profile/#2022)
   - [2021](https://jasonjwilliamsny.github.io/profile/#2021)
@@ -75,7 +77,7 @@ multi-day training events.
 |American Association for the Advancement of Science|**Invited Participant**: The Next Steps for Vision and Change|Washington, DC||
 |Fulfilling the Promise of Nanopore Sequencing in Education |**Session Chair/Organizer**:Holistic Genomics Research Experiences—a path to equity|Huntington, NY||
 |CSHL Course - Advanced Sequencing Technologies & Bioinformatics Analysis| **Instructor**| Cold Spring Harbor, NY ||
-|Westminster College|**Invited Talk**: It’s Impossible to Keep UpCareer-spanning Learning in the Life Sciences|London, UK||
+|Westminster College|**Invited Talk**: It’s Impossible to Keep Up—Career-spanning Learning in the Life Sciences|London, UK||
 
 
 
