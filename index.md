@@ -46,6 +46,39 @@ I am their Education, Outreach, and Training lead, so I get to help lots of
 biologists use computation in their teaching and research. Workshops are mainly
 multi-day training events.
 
+## 2025
+(includes scheduled events)
+
+|Venue|Presentation|Location|Notes|
+|------------|-----|--------|-----|
+|International Plant and Animal Genome Meeting (PAG 33)|**Invited Speaker**: Nanopore Network — Broadening Participation in the Benefits of Genomics|San Diego, CA| |
+
+
+## 2024
+(includes scheduled events)
+
+|Venue|Presentation|Location|Notes|
+|------------|-----|--------|-----|
+|International Plant and Animal Genome Meeting (PAG 31)|**Session Chair/Organizer**: Advanced Computational Methods – CyVerse for Machine Learning, Containers, and Clouds|San Diego, CA| |
+|International Plant and Animal Genome Meeting (PAG 31)|**Session Organizer/Speaker**: Earth BioGenome Project: The missing components in genomics: Justice, Equity, Diversity, Inclusion + (JEDI+)|San Diego, CA| |
+|Cocktails and Chromosomes Outreach Event|**Invited Speaker**: Decoding DNA|Huntington, NY||
+|Effectively Communicating Bioimage Analysis|**Invited Speaker**:|Effective and Inclusive Professional Development|East Sussex, UK||
+|Center for Scientific Collaboration and Community Engagement|**Invited Speaker**:|Effective and Inclusive Professional Development|Online||
+|NIH Outreach Event, J.F.K. High School|**Workshop**:Nanopore for Educators Workshop|Tamuning, Guam||
+|American Society of Human Genetics|**Invited Organizer/Speaker**:Inclusive Genomics Education: Empowering Everyone to Sequence Everything|Online||
+|6th Global Bioinformatics Education Summit|**Summit Chair/Session Organizer:** Bicycle Principles|New York, NY||
+|Spelman College: Summer of Nanopore Sequencing Workshop|**Workshop:** Nanopore for Educators|Atlanta, GA||
+|Arecibo C3 STEM Center: Summer of Nanopore Sequencing Workshop|**Workshop:** Nanopore for Educators|Arecibo, PR||
+|U. Hawaii, Manaoa: Summer of Nanopore Sequencing Workshop|**Workshop:** Nanopore for Educators|Honolulu, HI||
+|NIH National Human Genomics Research Institute|**Workshop**: 2024 NHGRI Short Course in Genomics: Nanopore hands-on for Educators|Bethesda, MD|   |   |
+|Frontiers and Techniques In Plant Science|**Invited Workshop**: Title:Computational Basics for Plant Biology |Cold Spring Harbor, NY| |
+|American Association for the Advancement of Science|**Invited Participant**: The Next Steps for Vision and Change|Washington, DC||
+|Fulfilling the Promise of Nanopore Sequencing in Education |**Session Chair/Organizer**:Holistic Genomics Research Experiencesa path to equity|Huntington, NY||
+|CSHL Course - Advanced Sequencing Technologies & Bioinformatics Analysis| **Instructor**|   |
+|Westminster College|**Invited Talk**: It’s Impossible to Keep UpCareer-spanning Learning in the Life Sciences|London, UK||
+
+
+
 
 ## 2023
 (includes scheduled events)
@@ -291,7 +324,7 @@ multi-day training events.
 
 ## Selected Publications and Products
 
--**[Revisiting barriers to implementation of bioinformatics into life sciences education](https://www.frontiersin.org/articles/10.3389/feduc.2023.1317191/full)** Jennifer Drew, William Morgan, Sebastian Galindo, Adam J. Kleinschmit, Mindy McWilliams, Mark Pauley, Eric W. Triplett, Jason J. Williams, Barbara Murdoch, Anne G Rosenwald. 
+-**[Revisiting barriers to implementation of bioinformatics into life sciences education](https://www.frontiersin.org/articles/10.3389/feduc.2023.1317191/full)** Jennifer Drew, William Morgan, Sebastian Galindo, Adam J. Kleinschmit, Mindy McWilliams, Mark Pauley, Eric W. Triplett, Jason J. Williams, Barbara Murdoch, Anne G Rosenwald.
 - **[Preprint:CyVerse: Cyberinfrastructure for Open Science](https://www.biorxiv.org/content/10.1101/2023.06.16.545223v1)** Tyson L. Swetnam, Parker B. Antin, Ryan Bartelme, Alexander Bucksch, David Camhy, Greg Chism, Illyoung Choi, Amanda M. Cooksey, Michele Cosi, Cindy Cowen, Michael Culshaw-Maurer, Robert Davey, Sean Davey, Upendra Devisetty, Tony Edgin, Andy Edmonds, Dmitry Fedorov, Jeremy Frady, John Fonner, Jeffrey K. Gillan, Iqbal Hossain, Blake Joyce, Konrad Lang, Tina Lee, Shelley Littin, Ian Mcewen, Nirav Merchant, David Micklos, Andrew Nelson, Ashley Ramsey, Sarah Roberts, Paul Sarando, Edwin Skidmore, Jawon Song, Mary Margaret Sprinkle, Sriram Srinivasan, Jonathan D. Strootman, Sarah Stryeck, Reetu Tuteja, Matthew Vaughn, Mojib Wali, Mariah Wall, Ramona Walls, Liya Wang, Todd Wickizer, Jason Williams, John Wregglesworth, Eric Lyons
 - **[Preprint: Optimizing Short-format Training: an International Consensus on Effective, Inclusive, and Career-spanning Professional Development in the Life Sciences and Beyond](https://doi.org/10.1101/2023.03.10.531570)** Jason J. Williams, Rochelle E. Tractenberg, Bérénice Batut, Erin A. Becker, Anne M. Brown, Melissa L. Burke, Ben Busby, Nisha K. Cooch, Allissa A. Dillman, Samuel S. Donovan, Maria A. Doyle, Celia W.G. van Gelder, Christina R. Hall, Kate L. Hertweck, Kari L. Jordan, John R. Jungck, Ainsley R. Latour, Jessica M. Lindvall, Marta Lloret-Llinares, Gary S. McDowell, Rana Morris, Teresa Mourad, Amy Nisselle, Patricia Ordóñez, Lisanna Paladin, Patricia M. Palagi, Mahadeo A. Sukhai, Tracy K. Teal, Louise Woodley.
 - **[Bikeprinciples.org](https://www.bikeprinciples.org/)**: The Bicycle Principles for Effective, Inclusive, and Career-spanning Short-format Training;
