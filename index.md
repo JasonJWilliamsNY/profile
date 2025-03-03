@@ -73,8 +73,8 @@ multi-day training events.
 |NIH National Human Genomics Research Institute|**Workshop**: 2024 NHGRI Short Course in Genomics: Nanopore hands-on for Educators|Bethesda, MD|   |   |
 |Frontiers and Techniques In Plant Science|**Invited Workshop**: Title:Computational Basics for Plant Biology |Cold Spring Harbor, NY| |
 |American Association for the Advancement of Science|**Invited Participant**: The Next Steps for Vision and Change|Washington, DC||
-|Fulfilling the Promise of Nanopore Sequencing in Education |**Session Chair/Organizer**:Holistic Genomics Research Experiencesa path to equity|Huntington, NY||
-|CSHL Course - Advanced Sequencing Technologies & Bioinformatics Analysis| **Instructor**|   |
+|Fulfilling the Promise of Nanopore Sequencing in Education |**Session Chair/Organizer**:Holistic Genomics Research Experiences—a path to equity|Huntington, NY||
+|CSHL Course - Advanced Sequencing Technologies & Bioinformatics Analysis| **Instructor**| Cold Spring Harbor, NY ||
 |Westminster College|**Invited Talk**: It’s Impossible to Keep UpCareer-spanning Learning in the Life Sciences|London, UK||
 
 
