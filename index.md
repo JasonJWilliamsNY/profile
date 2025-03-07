@@ -43,7 +43,7 @@ open to anyone who provides training for life scientists).
 
 # CV
 
-A PDF of my latest CV is available [here](Jason_Williams_CV_2025.pdf). 
+A PDF of my latest CV is available [here](Jason_Williams_CV_2025.pdf).
 
 # Workshops, Talks, Teaching, and Presentations
 
@@ -373,6 +373,8 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 
 |Role|Year|
 |----|----|
+|**Recognition**:|NIH, National Human Genome Research Institute and Smithsonian Exhibit: [Black History in Genetics: Trailblazers, Pioneers, and Leaders in Genetics](https://www.unlockinglifescode.org/timelines/trailblazers-pioneers-and-leaders-genetics)|2025|
+|**Award**: [Elizabeth W. Jones Award for excellence in education](https://genestogenomes.org/congratulations-to-the-2025-gsa-award-recipients/), Genetics Society of America|2025|
 |**Member, Learning and Training Advisory Board**: [Wellcome Connecting Science](https://www.wellcomeconnectingscience.org/)|2023-   |
 |**Member, EDI Committee**: [International Society for Computational Biology](https://c4r.io/)   |2023-   |
 |**Member, External Advisory Board**: [Community for Rigor](https://c4r.io/)   |2023-   |
@@ -385,7 +387,7 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 | **Editor**: [Journal of Open Source Software](https://jose.theoj.org/) |2021-   |
 | **Member, Organizing Committee**: [National Academy of Sciences Kavli Frontiers of Science 2021, US Symposium ](http://www.nasonline.org/programs/kavli-frontiers-of-science/)|2021|
 | **Member, Organizing Committee**: [Bioinformatics Open Source Conference](https://www.open-bio.org/events/bosc-2021/) |2021-   |
-| **Board of Directors**: [Data Dryad](https://datadryad.org/) (2020-22, Secretary, 22-23, Chair)|2020-2023|
+| **Board of Directors**: [Data Dryad](https://datadryad.org/) (2020-22, Secretary, 22-24, Chair)|2020- |
 | **Education track co-chair**: [JupyterCon](https://jupytercon.com/)   |2020   |
 | **Member, ASPB Forward**: (Strategic planning committee for [American Society of Plant Biology](https://aspb.org/) ) |2020-2021 |
 | **Member, Equity, Diversity, and Inclusion (EDI) Advisory Group**: [Global Alliance for Genomics and Health (GA4GH)](https://www.ga4gh.org/)|2020- |
