@@ -41,6 +41,10 @@ open to anyone who provides training for life scientists).
 - **[Other Things](https://jasonjwilliamsny.github.io/profile/#other-things)**
   - **[Travel Tips and Recommendations](https://jasonjwilliamsny.github.io/profile/#travel-tips-and-recommendations)**
 
+# CV
+
+A PDF of my latest CV is available [here](Jason_Williams_CV_2025.pdf). 
+
 # Workshops, Talks, Teaching, and Presentations
 
 This list significantly includes my work with [CyVerse](http://www.cyverse.org), a project I work on that brings cyberinfrastructure to biologists.
