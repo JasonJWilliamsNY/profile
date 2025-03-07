@@ -373,7 +373,7 @@ bioRxiv 170993; doi: https://doi.org/10.1101/170993
 
 |Role|Year|
 |----|----|
-|**Recognition**:|NIH, National Human Genome Research Institute and Smithsonian Exhibit: [Black History in Genetics: Trailblazers, Pioneers, and Leaders in Genetics](https://www.unlockinglifescode.org/timelines/trailblazers-pioneers-and-leaders-genetics)|2025|
+|**Recognition**: NIH, National Human Genome Research Institute and Smithsonian Online Exhibit: [Black History in Genetics: Trailblazers, Pioneers, and Leaders in Genetics](https://www.unlockinglifescode.org/timelines/trailblazers-pioneers-and-leaders-genetics)|2025|
 |**Award**: [Elizabeth W. Jones Award for excellence in education](https://genestogenomes.org/congratulations-to-the-2025-gsa-award-recipients/), Genetics Society of America|2025|
 |**Member, Learning and Training Advisory Board**: [Wellcome Connecting Science](https://www.wellcomeconnectingscience.org/)|2023-   |
 |**Member, EDI Committee**: [International Society for Computational Biology](https://c4r.io/)   |2023-   |
