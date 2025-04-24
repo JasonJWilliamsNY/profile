@@ -442,19 +442,7 @@ An acceptable photo for your press releases
 If you are introducing me at a talk, feel free to use (or not) the following:
 
 
-Jason Williams is Assistant Director, Inclusion and Research Readiness at the
-Cold Spring Harbor Laboratory DNA Learning Center where he develops national
-biology education programs. Jason leads education, outreach, and training for
-CyVerse (US national cyberinfrastructure for the life sciences) and has trained
-thousands of students, researchers and educators in bioinformatics, data
-science, and molecular biology. Jason's focus has been developing
-bioinformatics in undergraduate education and career-spanning learning for
-biologists. Jason is founder of LifeSciTrainers.org – a global effort to
-promote community of practice among professionals who develop short-format
-training for life scientists. Jason is advisory to cyberinfrastructure,
-bioinformatics, and education projects and initiatives in the US, UK, Europe,
-and Australia. He is also a teacher at the Yeshiva University High School for
-Girls.
+Jason Williams is Assistant Director at the Cold Spring Harbor Laboratory DNA Learning Center, where he develops national biology education programs. He designs education, outreach, and training initiatives that have reached thousands of students, researchers, and educators in bioinformatics, data science, and molecular biology. Jason’s work emphasizes the integration of bioinformatics into undergraduate education and the professionalization of career-spanning learning for biologists. He is the founder of LifeSciTrainers.org, a global effort to promote a community of practice among professionals who develop short-format training for life scientists. Jason serves in advisory roles for cyberinfrastructure, bioinformatics, and education projects and initiatives in the U.S., U.K., Europe, and Australia. He is also a teacher at the Yeshiva University High School for Girls.
 
 ## Other Things
 
