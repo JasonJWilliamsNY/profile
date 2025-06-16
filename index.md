@@ -58,6 +58,13 @@ multi-day training events.
 |Venue|Presentation|Location|Notes|
 |------------|-----|--------|-----|
 |International Plant and Animal Genome Meeting (PAG 33)|**Invited Speaker**: Nanopore Network — Broadening Participation in the Benefits of Genomics|San Diego, CA| |
+|NIH-National Institute of Aging -  Workshop on CUREs Using In Silico Resources for Aging Biology Education|**Invited Talk**: Making Data Accessible to UndergraduatesEnough already?|Online ||
+|Arecibo C3 STEM Center: Summer of Nanopore Sequencing Workshop|**Workshop:** Nanopore for Educators|Arecibo, PR||
+|London Calling|**Accepted talk**: Making genomics education accessible for all|London, UK|[video](https://youtu.be/7KQQeFa1jkg?si=cD7UbbB_cvoYF8ME)|
+|IndigiData Workshop|**Invited Workshop**: Using Sequencing with Wastewater Based Epidemiology for Pathogen Detection|Maricopa, Arizona||
+|ASM Microbe 2025 Conference|**Session Moderator**: Inclusive Genomics Education: Empowering Microbial Sequencing and Discovery in the Classroom|Los Angeles, CA||
+|Galaxy Bioconductor Community Conference (GBCC)|**Invited keynote**: 'Conquest of Abundance' - Genomics in a time of plenty|Cold Spring Harbor, NY||
+|Genetics Society of America|**Awardee Seminar**: Portable, Low-Cost DNA Sequencing — A Platform for Course-Based Research|Online||
 
 
 ## 2024
@@ -330,6 +337,7 @@ multi-day training events.
 
 ## Selected Publications and Products
 
+- **[There’s never been a better time to be a STEM educator](https://doi.org/10.1093/genetics/iyaf090)** Jason Williams, Genetics, 2025;, iyaf090.  
 - **[Nanopore for Educators eBook](https://nanopore4edu.org)** Williams, J., Feitzinger, A. A., Urdaneta-Colon, M., Agosto-Rivera, J., Melton, J., Seto, J., Goller, C., Lypaczewski, P., Dotson, J., Vázquez-Quiñones, L., Cohen, I. R., Duarte, T., Sandlin, K., Lazebnik, M., Roberts, M., Petracca, J., Bathula, Y., Brogun, D., Katcher, J., Parrish, K., Zimmerman, N. (2025). Nanopore for Educators eBook (April-2025); Cold Spring Harbor (NY). Available from: https://nanopore4edu.org. Zenodo. https://doi.org/10.5281/zenodo.15149655
 - **[A genomics learning framework for undergraduates](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313124)** Reed LK, Kleinschmit AJ, Buonaccorsi V, Hunt AG, Chalker D, et al. (2025) A genomics learning framework for undergraduates. PLOS ONE 20(1): e0313124. https://doi.org/10.1371/journal.pone.0313124
 - **[Revisiting barriers to implementation of bioinformatics into life sciences education](https://www.frontiersin.org/articles/10.3389/feduc.2023.1317191/full)** Jennifer Drew, William Morgan, Sebastian Galindo, Adam J. Kleinschmit, Mindy McWilliams, Mark Pauley, Eric W. Triplett, Jason J. Williams, Barbara Murdoch, Anne G Rosenwald.
